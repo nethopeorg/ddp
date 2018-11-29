@@ -1,0 +1,19 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+  </head>
+  <body>
+    {{ content }}
+	<ul>
+	{% for member in site.data.countries %}
+	  <li>
+	      {{ member.name }} | {{ member.continent }}
+	    </a>
+	  </li>
+	{% endfor %}
+	</ul>
+
+  </body>
+</html>
