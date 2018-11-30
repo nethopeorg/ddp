@@ -198,20 +198,22 @@ If NetHope deploys an assessment team to a country, that assessment team - often
 
 In the survey, the assessment team will gather the following information:
 
-NetHope ID: Assigned number the assessment team has given to a connectivity site
-City: Name of the city or town the survey is being conducted in
-Country: Name of the country the survey
-Coordinates: Latitude and longitude, recorded in decimal form
-Total population: Count of persons in the town, city or shelter
-Date of survey: When the survey was conducted
-Member NGO presence: Describes which, if any, NetHope members would access connectivity through the site
-Status: Whether that particular connectivity site is actively providing connectivity or has been closed
-Connection type: The type of device that has been setup. Example: LTE, VSAT, or P2P
-Date operational: A record of when the device went live and connectivity became available for intended users (i.e. the public or the local government building)
-Internet provider: Which mobile network operator is providing service on the device
-Bandwidth: Maximum amount of data that can transferred at any given time on the device
-Team: The letter of the NetHope emergency response team that collected the information. (Example: Team A)
-Comments: Any additional notes the assessment team wants to record, but doesn’t belong in the previous data fields
+<table>
+<tr><td>NetHope ID:</td><td>Assigned number the assessment team has given to a connectivity site</td></tr>
+<tr><td>City:</td><td>Name of the city or town the survey is being conducted in</td></tr>
+<tr><td>Country:</td><td>Name of the country the survey</td></tr>
+<tr><td>Coordinates:</td><td>Latitude and longitude, recorded in decimal form</td></tr>
+<tr><td>Total population:</td><td>Count of persons in the town, city or shelter</td></tr>
+<tr><td>Date of survey:</td><td>When the survey was conducted</td></tr>
+<tr><td>Member NGO presence:</td><td>Describes which, if any, NetHope members would access connectivity through the site</td></tr>
+<tr><td>Status:</td><td>Whether that particular connectivity site is actively providing connectivity or has been closed</td></tr>
+<tr><td>Connection type:</td><td>The type of device that has been setup. Example: LTE, VSAT, or P2P</td></tr>
+<tr><td>Date operational:</td><td>A record of when the device went live and connectivity became available for intended users (i.e. the public or the local government building)</td></tr>
+<tr><td>Internet provider:</td><td>Which mobile network operator is providing service on the device</td></tr>
+<tr><td>Bandwidth:</td><td>Maximum amount of data that can transferred at any given time on the device</td></tr>
+<tr><td>Team:</td><td>The letter of the NetHope emergency response team that collected the information. (Example: Team A)</td></tr>
+<tr><td>Comments:</td><td>Any additional notes the assessment team wants to record, but doesn’t belong in the previous data fields</td></tr>
+</table>
 
 NetHope Crisis Informatics is currently developing a mobile form version of the assessment survey, so (1.) future assessments teams can conduct surveys more efficiently (2.) NetHope Crisis Informatics can automate the visualization process. The collective goal is to see and share the information assessment teams are collecting in real-time.
 
