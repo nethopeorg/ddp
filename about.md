@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Introduction
+permalink: /intro/
 ---
 
 During the early hours of sudden-onset disaster, national and international authorities need to make quick decisions while faced with deep uncertainties. How big is this disaster and how many people are affected? Where is the worst damage? What is the status of key institutions, like hospitals, airports? What roads are closed and where is electricity out? Who has access to internet, landline, and mobile phone coverage?  
@@ -16,7 +16,11 @@ This situation is changing. For decades, response operations have focused on pro
 
 (This pamphlet provides an initial approach to getting ahead of these dynamics.)
 
-Through a generous grant from the HPE Foundation, NetHope has been able to research key workflows that occur in response operations and map data sets necessary to support them. To provide a clear use case, this project has focused on Caribbean islands, which have been hard hit by hurricanes and earthquakes in recent years.
+Through a generous grant from the HPE Foundation, NetHope has been able to advance this work in information management. Our Information Management and Crisis Informatics team has researched workflows that occur in response operations and mapped some of the major data sets necessary to support them. These extend beyond the open data found in resources like the Humanitarian Data Exchange to private sector data sets that are made available under agreement to NetHope. This effort at data sharing builds on work that NetHope, the World Economic Forum, the NYU GovLab, UN agencies (OCHA's Center for Humanitarian Data and UN Global Pulse) and others have done to create a space for the private sector to contribute data to understanding crisis and risk.
+
+An important note is warranted here: the grant originally specified the establishment of data escrow agreements, whereby private sector entities would enter legally binding agreements to release datasets in the event of a humanitarian crisis (given a defined trigger; agreements on data protection standards; and a clear use case to scope which data would be provided in what schema, how, and when). During the grant, the Cambridge Analytica incident changed perspectives in the private sector around legally binding agreements to release data that might increase organizational risks, especially data about customers. Companies remain committed to making their data available for use by humanitarians, with the right to review release in the current context of security, politics, and public relations. NetHope continues to explore the idea of linking data release to mechanisms that are analogous to contigent risk financing; however, the time for this exploration will come at a later time.
+
+To provide a clear use case, this project has focused on Caribbean islands, which have been hard hit by hurricanes and earthquakes in recent years.
 
 NetHope has also been able to turn this knowledge into practical action. Through work with our technical partners in the private sector, NetHope has negotiated data sharing agreements to build information products that map critical infrastructure, including connectivity and power. And NetHope has worked with HPE employees to build new maps for the Caribbean. The output from this work is a prototype workflow that NetHope intends to use for its internal operations. This workflow is provided as a template to other organizations, especially NetHope’s 58 member organizations and 50 technical partners.
 
