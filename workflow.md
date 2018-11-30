@@ -20,7 +20,7 @@ This work take several forms, each of which branches off into its own decision-m
 
 These structures share common elements, which are mapped out in this document.Add more here or delete line?
 
-##Developing Situational Awareness: Data Scramble
+## Developing Situational Awareness: Data Scramble
 
 For a humanitarian organization, the minutes and hours following the onset of a disaster are characterized by a swirl of information gathering, with queries and exchanges that are both internal and external. In the context of information management, this phase is known as the ‘data scramble.’
 
@@ -28,53 +28,53 @@ In the case of weather events and other natural hazards for which there has been
 
 Though every event is unique, below are some of the most common elements of information that are assembled in the very early phases of a response:
 
-###Magnitude
+### Magnitude
 There are various scales employed in order to assess the magnitude of different kinds of natural hazards, for example Richter scale for earthquake, or the Saffir-Simpson wind scale for hurricanes. These measures take on more meaning in the humanitarian context when combined with elements of human exposure and risk.
 
-###Extent
+### Extent
 What is the overall area impacted by an event? In the case of a natural hazard, the initial focus is on areas of human settlement where damage and casualities have been sustained. But the area of impact may also include shipping or flight routes that are affected. Displacement within or outside of a country may also result from a large scale natural hazard, and more commonly from conflict or civil unrest.
 
-###Affected Population
+### Affected Population
 How many people are likely to have been affected, how vulnerable are these people are to the natural hazard, where they are likely to have moved to and from?
 
-###Secondary Events
+### Secondary Events
 What is the probability of additional hazards, including tsunamis resulting from an earthquake, flooding due to storm surges, or mudslides due to prolonged rain?
 
-###Status of Critical Infrastructure
+### Status of Critical Infrastructure
 What is the status of airports, seaports, rail stations and lines, and roads? Are key government or other service facilities open and operating?
 
-###Power and Communications
+### Power and Communications
 What is the status of power and communications, where are the outages, and how many people are affected?
 
-###3W (Who is doing What, Where?)
+### 3W (Who is doing What, Where?)
 Which organizations are already working in the country, which are deploying staff to the country, what are they doing, and what they intend to do?
 
-###List of Data Sets###:
+### List of Data Sets###:
 (add link to data on website when ready - need to format lists in below sections consistently and reduce redundancy)
 
 NetHope Crisis Informatics will commonly develop and/or utilize the following datasets in this phase of the information management cycle:
 
-###Hydrography
+### Hydrography
 Identify bodies of water and their potential impacts on response efforts
 
 *Sample datasets*: National flood hazard or flood zones, Historic flood boundaries, Levee/barrier locations, Tide charts, River levels (current & forecasted), Current flooding extents, Levee/barrier breaches
 
-###Weather
+### Weather
 Identify event related conditions that may influence response
 Sample datasets: NOAA NWS forecasts, River/stream gauges, Atmospheric conditions (wind direction, etc.)
 
-###Utilities
+### Utilities
 Identify infrastructure that could be damaged or hazardous.
 Sample datasets: Utility pipelines, power lines, power plants, cell towers, radio communication, main Internet hubs/lines, telephone (land line) facilities & lines, power outages, phone (land line) outages, cell phone outages
 
-###Transportation
+### Transportation
 Identify access routes to the incident and other related transportation reference points.  
 Sample datasets: Roads, evacuation routes (including contra-flow routing), bridges and tunnels, railway lines and stations, subway lines and stations, ferry lines and terminals, navigable waterways, boat ramps, maritime infrastructure (vessel mooring areas, marinas, boat ramps, ports, docks), airports, helicopter landing zones, road closures, airport closures, rail & subway stoppages, bridge closures, ferry stoppages, port closures, active evacuation routes (including contra-flow routing)
 
-###Population
+### Population
 Identify impacted and at-risk populations.
 Sample datasets: Population density, socio-economic data (income, gender, age etc.), nighttime population vs. daytime population, seasonal population, businesses, at-need population (schools, day care, nursing homes, assisted care facilities, universities, hospitals/clinics, urgent care, mental health and correctional facilities, etc.)
 
-###Public Safety
+### Public Safety
 Identify public safety and incident command facilities
 Sample datasets: Fire stations, police stations EOCs (local, State, national), Public Safety Answering Points (PSAPs)/911 Call Centers, shelters, evacuation zones
