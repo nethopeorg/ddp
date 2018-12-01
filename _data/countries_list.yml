@@ -1,0 +1,590 @@
+---
+-
+    name: Anguilla
+    country_code: AIA
+    official_name: Anguilla
+    capital: The Valley
+    narrative: https://en.wikipedia.org/wiki/Anguila
+    tel_code: 1264
+    voltage: 110V/60Hz
+    plug_types: A
+    key_orgs: Flow,Digicel,"Ministry of Infrastructure, Communications, Utilitie and Housing",Microsoft Trinidad and Tobago,C&W Business
+    hdx_url: https://data.humdata.org/group/aia
+    inform_url: http://www.inform-index.org/Portals/0/Inform/2018/country_profiles/AIA.pdf
+    inform_index:
+    lca_url: https://logcluster.org/countries/AIA
+    tampere_sig: 0
+    pop_2016: 15500
+    gdp_2016: $13,700
+    fixed_line_subscribers: 6070
+    mobile_subscribers: 27120
+-
+    name: Antigua and Barbuda
+    country_code: ATG
+    official_name: Antigua and Barbuda
+    capital: 'St. John''s'
+    narrative:
+    tel_code: 1268
+    voltage: 230V/60Hz
+    plug_types: A,B
+    key_orgs: Flow,Digicel,Apua,"Ministry of Telecommunications, Science and Technology",Microsoft Trinidad and Tobago,C&W Business
+    hdx_url: https://data.humdata.org/group/atg
+    inform_url: http://www.inform-index.org/Portals/0/Inform/2018/country_profiles/ATG.pdf
+    inform_index: 2.1
+    lca_url: https://logcluster.org/countries/ATG
+    tampere_sig: 0
+    pop_2016: 9000
+    gdp_2016: $14,430
+    fixed_line_subscribers: 10200
+    mobile_subscribers: 186000
+-
+    name: Aruba
+    country_code: ABW
+    official_name:  Kingdom of the Netherlands
+    capital: Oranjestad
+    narrative: Aruba is an island and a constituent country of the Kingdom of the Netherlands in the southern Caribbean Sea, located about 1,600 kilometres (990 mi) west of the main part of the Lesser Antilles and 29 kilometres (18 mi) north of the coast of Venezuela. Aruba is one of the four countries that form the Kingdom of the Netherlands, along with the Netherlands, Curaçao, and Sint Maarten; the citizens of these countries are all Dutch nationals. Aruba has no administrative subdivisions, but, for census purposes, is divided into eight regions.
+    tel_code: 297
+    voltage: 127V/50Hz
+    plug_types: A,B,F
+    key_orgs: Digicel,Setar,MIO,"Ministry of Transport, Communications and Primary Sector",Microsoft Trinidad and Tobago
+    hdx_url: https://data.humdata.org/group/abw
+    inform_url: http://www.inform-index.org/Portals/0/Inform/2018/country_profiles/ABW.pdf
+    inform_index:
+    lca_url: https://logcluster.org/countries/ABW
+    tampere_sig: 1
+    pop_2016: 108000
+    gdp_2016: $24,200
+    fixed_line_subscribers:
+    mobile_subscribers: 143200
+-
+    name: Bahamas
+    country_code: BHS
+    official_name: Commonwealth of The Bahamas
+    capital: Nassau
+    narrative:
+    tel_code: 1242
+    voltage: 120V/60Hz
+    plug_types: A,B
+    key_orgs: BTC Bahamas,ALIV,Batelnet,Utilities Regulation and Competition Authority,Cable Bahamas,Bahamas WiMax
+    hdx_url: https://data.humdata.org/group/bhs
+    inform_url: http://www.inform-index.org/Portals/0/Inform/2018/country_profiles/BHS.pdf
+    inform_index: 3.2
+    lca_url: https://logcluster.org/countries/BHS
+    tampere_sig: 0
+    pop_2016: 313900
+    gdp_2016: $24,560
+    fixed_line_subscribers: 115000
+    mobile_subscribers: 315000
+-
+    name: Barbados
+    country_code: BRB
+    official_name:
+    capital: Bridgetown
+    narrative:
+    tel_code: 1246
+    voltage: 115V/50Hz
+    plug_types: A,B
+    key_orgs: Flow,Digicel,Ozone Wireless,Fair Trading Commission,Microsoft Trinidad and Tobago,UNICEF,C&W Business
+    hdx_url: https://data.humdata.org/group/brb
+    inform_url: http://www.inform-index.org/Portals/0/Inform/2018/country_profiles/BRB.pdf
+    inform_index: 1.6
+    lca_url: https://logcluster.org/countries/BRB
+    tampere_sig: 1
+    pop_2016: 292000
+    gdp_2016: $15,950
+    fixed_line_subscribers: 158850
+    mobile_subscribers: 335000
+-
+    name: Bermuda
+    country_code: BMU
+    official_name: Bermuda
+    capital: Hamilton
+    narrative:
+    tel_code: 1441
+    voltage: 120V/60Hz
+    plug_types: A,B
+    key_orgs: One Communications,Digicel,Fort Knox Bermuda,Microsoft Trinidad and Tobago,TeleBermuda
+    hdx_url: https://data.humdata.org/group/bmu
+    inform_url: http://www.inform-index.org/Portals/0/Inform/2018/country_profiles/BMU.pdf
+    inform_index:
+    lca_url: https://logcluster.org/countries/BMU
+    tampere_sig: 0
+    pop_2016: 77000
+    gdp_2016: $84,900
+    fixed_line_subscribers: 16700
+    mobile_subscribers: 46700
+-
+    name: Bonaire
+    country_code: BES
+    official_name: Kingdom of the Netherlands
+    capital: Kralendijk
+    narrative:
+    tel_code: 5997
+    voltage: 127V/50Hz,220V/50Hz
+    plug_types: A,B,C,F
+    key_orgs: Digicel,Bureau Telecomunications en Post,Telbo,Kla Mobile
+    hdx_url: https://data.humdata.org/group/bes
+    inform_url: http://www.inform-index.org/Portals/0/Inform/2018/country_profiles/BES.pdf
+    inform_index:
+    lca_url: https://logcluster.org/countries/BES
+    tampere_sig: 1
+    pop_2016:
+    gdp_2016:
+    fixed_line_subscribers:
+    mobile_subscribers:
+-
+    name: British Virgin Islands
+    country_code: VGB
+    official_name: Virgin Islands
+    capital: Road Town
+    narrative:
+    tel_code: 1284
+    voltage: 110V/60Hz
+    plug_types: A,B
+    key_orgs: Flow,Digicel,BVI Telecommunications Regulatory Commission,C&W Business,British Virgin Islands IXP
+    hdx_url: https://data.humdata.org/group/vgb
+    inform_url: http://www.inform-index.org/Portals/0/Inform/2018/country_profiles/VGB.pdf
+    inform_index:
+    lca_url: https://logcluster.org/countries/VGB
+    tampere_sig: 0
+    pop_2016: 2600
+    gdp_2016: $31,700
+    fixed_line_subscribers: 11850
+    mobile_subscribers: 63300
+-
+    name: Cayman Islands
+    country_code: CYM
+    official_name:
+    capital: George Town
+    narrative:
+    tel_code: 1345
+    voltage: 120V/60Hz
+    plug_types: A,B
+    key_orgs: Flow,Digicel,Microsoft Trinidad and Tobago,TeleCayman,Utility  Regulation  and  Competition  Office (OfReg),C&W Business,Logic Communications
+    hdx_url: https://data.humdata.org/group/cym
+    inform_url: http://www.inform-index.org/Portals/0/Inform/2018/country_profiles/CYM.pdf
+    inform_index:
+    lca_url: https://logcluster.org/countries/CYM
+    tampere_sig: 0
+    pop_2016: 57500
+    gdp_2016: $47,300
+    fixed_line_subscribers: 34110
+    mobile_subscribers: 95650
+-
+    name: Cuba
+    country_code: CUB
+    official_name: Republic of Cuba
+    capital: Havana
+    narrative:
+    tel_code: 53
+    voltage: 110V/60Hz
+    plug_types: A,B
+    key_orgs: ETESCA,World Food Program,UNICEF,NAP de Cuba,Ministry of Informatics and Communications,Intelsat,NewCom International
+    hdx_url: https://data.humdata.org/group/cub
+    inform_url: http://www.inform-index.org/Portals/0/Inform/2018/country_profiles/CUB.pdf
+    inform_index: 2.6
+    lca_url: https://logcluster.org/countries/CUB
+    tampere_sig: 0
+    pop_2016: 11200000
+    gdp_2016: $8,140
+    fixed_line_subscribers: 1340000
+    mobile_subscribers: 4590000
+-
+    name: Curaçao
+    country_code: CUW
+    official_name: Kingdom of the Netherlands
+    capital: Willemstad
+    narrative:
+    tel_code: 5999
+    voltage: 127V/50Hz
+    plug_types: A,B,C,F
+    key_orgs: Flow,Digicel,C&W Business,Bureau Telecomunications en Post,UTS,Carribean Internet Exchange
+    hdx_url: https://data.humdata.org/group/cuw
+    inform_url: http://www.inform-index.org/Portals/0/Inform/2018/country_profiles/CUW.pdf
+    inform_index:
+    lca_url: https://logcluster.org/countries/CUW
+    tampere_sig: 1
+    pop_2016:
+    gdp_2016:
+    fixed_line_subscribers:
+    mobile_subscribers:
+-
+    name: Domincan Republic
+    country_code: DOM
+    official_name: República Dominicana
+    capital: Santo Domingo
+    narrative:
+    tel_code: +1809, +1829, +1849
+    voltage: 110V/60Hz
+    plug_types: A,B
+    key_orgs: Microsoft Dominican Republic,Cisco Dominican Republic,World Food Program,UNICEF,C&W Business,NAP del Caribe,INDOTEL,America Movil,Claro Dominican Republic,Altice
+    hdx_url: https://data.humdata.org/group/dom
+    inform_url: http://www.inform-index.org/Portals/0/Inform/2018/country_profiles/DOM.pdf
+    inform_index: 3.9
+    lca_url: https://logcluster.org/countries/DOM
+    tampere_sig: 0
+    pop_2016: 10100000
+    gdp_2016: $7,360
+    fixed_line_subscribers: 1005000
+    mobile_subscribers: 8840000
+-
+    name: Dominica
+    country_code: DMA
+    official_name: Commonwealth of Dominica
+    capital: Roseau
+    narrative:
+    tel_code: 1767
+    voltage: 230V/50Hz
+    plug_types: D,G
+    key_orgs: Flow,Digicel,Microsoft Trinidad and Tobago,C&W Business,National Telecommunication Regulatory Commission Dominica,ECTEL (Eastern Caribbean Telecommunications Authority),Marpin 2K4,Dominica National Internet Exchange Point
+    hdx_url: https://data.humdata.org/group/dma
+    inform_url: http://www.inform-index.org/Portals/0/Inform/2018/country_profiles/DMA.pdf
+    inform_index: 2.9
+    lca_url: https://logcluster.org/countries/DMA
+    tampere_sig: 1
+    pop_2016: 73700
+    gdp_2016: $7,700
+    fixed_line_subscribers: 14950
+    mobile_subscribers: 79580
+-
+    name: Grenada
+    country_code: GRD
+    official_name: Grenada
+    capital: 'St. George''s'
+    narrative:
+    tel_code: 1473
+    voltage: 230V/50Hz
+    plug_types: G
+    key_orgs: Flow,Digicel,C&W Business,ECTEL (Eastern Caribbean Telecommunications Authority),National Telecommunications Regulatory Commission of Grenada,CARCIP,Grenada Internet Exchange
+    hdx_url: https://data.humdata.org/group/grd
+    inform_url: http://www.inform-index.org/Portals/0/Inform/2018/country_profiles/GRD.pdf
+    inform_index: 1.4
+    lca_url: https://logcluster.org/countries/GRD
+    tampere_sig: 0
+    pop_2016: 108500
+    gdp_2016: $9,600
+    fixed_line_subscribers: 26990
+    mobile_subscribers: 119160
+-
+    name: Guadeloupe
+    country_code: GLP
+    official_name: Guadeloupe
+    capital: Basse-Terre
+    narrative:
+    tel_code: 590
+    voltage: 230V/50Hz
+    plug_types: C,D,E
+    key_orgs: Digicel,Microsoft Trinidad and Tobago,Orange Caraibe,SFR Caraïbes,Dauphin Telecom,Mediaserv,ARCEP
+    hdx_url: https://data.humdata.org/group/glp
+    inform_url: http://www.inform-index.org/Portals/0/Inform/2018/country_profiles/GLP.pdf
+    inform_index:
+    lca_url: https://logcluster.org/countries/GLP
+    tampere_sig: 0
+    pop_2016: 415000
+    gdp_2016: $7,550
+    fixed_line_subscribers:
+    mobile_subscribers:
+-
+    name: Haiti
+    country_code: HTI
+    official_name: Republic of Haiti
+    capital: Port-au-Prince
+    narrative:
+    tel_code: 509
+    voltage: 110V/60Hz
+    plug_types: A,B
+    key_orgs: 'Digicel,Microsoft Puerto Rico,CONATEL Haiti,World Food Program,Électricité D''Haïti,AHTIC'
+    hdx_url: https://data.humdata.org/group/hti
+    inform_url: http://www.inform-index.org/Portals/0/Inform/2018/country_profiles/HTI.pdf
+    inform_index: 6.3
+    lca_url: https://logcluster.org/countries/HTI
+    tampere_sig: 1
+    pop_2016:
+    gdp_2016:
+    fixed_line_subscribers:
+    mobile_subscribers:
+-
+    name: Jamaica
+    country_code: JAM
+    official_name: Jamiaca
+    capital: Kingston
+    narrative:
+    tel_code: +1876, +1658
+    voltage: 110V/50Hz
+    plug_types: A,B
+    key_orgs: Flow,Digicel,Microsoft Jamaica,UNICEF,C&W Business,Jamaica Internet Exchange Point,Office of Utilities Regulation
+    hdx_url: https://data.humdata.org/group/jam
+    inform_url: http://www.inform-index.org/Portals/0/Inform/2018/country_profiles/JAM.pdf
+    inform_index: 2.5
+    lca_url: https://logcluster.org/countries/JAM
+    tampere_sig: 0
+    pop_2016:
+    gdp_2016:
+    fixed_line_subscribers:
+    mobile_subscribers:
+-
+    name: Martinique
+    country_code: MTQ
+    official_name: France
+    capital: Fort-de-France
+    narrative:
+    tel_code: 596
+    voltage: 220V/50Hz
+    plug_types: C,D,E
+    key_orgs: Digicel,Microsoft Trinidad and Tobago,SFR Caraïbes,Dauphin Telecom,Mediaserv,ARCEP
+    hdx_url: https://data.humdata.org/group/mtq
+    inform_url: http://www.inform-index.org/Portals/0/Inform/2018/country_profiles/MTQ.pdf
+    inform_index:
+    lca_url: https://logcluster.org/countries/MTQ
+    tampere_sig: 0
+    pop_2016: 400000
+    gdp_2016: $13,670
+    fixed_line_subscribers:
+    mobile_subscribers:
+-
+    name: Montserrat
+    country_code: MSR
+    official_name: Montserrat
+    capital: Brades
+    narrative:
+    tel_code: 1664
+    voltage: 120V/60Hz,230V/60Hz
+    plug_types: A,B
+    key_orgs: Flow,Digicel,Microsoft Trinidad and Tobago,C&W Business,"Ministry of Communications, Works, Energy and Labour",MICA
+    hdx_url: https://data.humdata.org/group/msr
+    inform_url: http://www.inform-index.org/Portals/0/Inform/2018/country_profiles/MSR.pdf
+    inform_index:
+    lca_url: https://logcluster.org/countries/MSR
+    tampere_sig: 0
+    pop_2016: 4500
+    gdp_2016: $9,990
+    fixed_line_subscribers:
+    mobile_subscribers: 4050
+-
+    name: Puerto Rico
+    country_code: PRI
+    official_name: Commonwealth of Puerto Rico
+    capital: San Juan
+    narrative:
+    tel_code: +1787, +1939
+    voltage: 120V/60Hz
+    plug_types: A,B
+    key_orgs: Microsoft Puerto Rico,Cisco Puerto Rico,C&W Business,America Movil,Claro Puerto Rico
+    hdx_url: https://data.humdata.org/group/pri
+    inform_url: http://www.inform-index.org/Portals/0/Inform/2018/country_profiles/PRI.pdf
+    inform_index:
+    lca_url: https://logcluster.org/countries/PRI
+    tampere_sig: 1
+    pop_2016:
+    gdp_2016:
+    fixed_line_subscribers:
+    mobile_subscribers:
+-
+    name: Saba
+    country_code: BES
+    official_name: Kingdom of the Netherlands
+    capital: The Bottom
+    narrative:
+    tel_code: 5994
+    voltage: 127V/50Hz,220V/50Hz,115V/60Hz
+    plug_types: A,B,C,F
+    key_orgs: Bureau Telecomunications en Post,Satel
+    hdx_url: https://data.humdata.org/group/bes
+    inform_url: http://www.inform-index.org/Portals/0/Inform/2018/country_profiles/BES.pdf
+    inform_index:
+    lca_url: https://logcluster.org/countries/BES
+    tampere_sig: 1
+    pop_2016:
+    gdp_2016:
+    fixed_line_subscribers:
+    mobile_subscribers:
+-
+    name: Saint Barthélemy
+    country_code: BLM
+    official_name: Territorial collectivity of Saint-Barthélemy
+    capital: Gustavia
+    narrative:
+    tel_code: 590
+    voltage:
+    plug_types:
+    key_orgs: Digicel,Microsoft Puerto Rico,Dauphin Telecom
+    hdx_url: https://data.humdata.org/group/blm
+    inform_url: http://www.inform-index.org/Portals/0/Inform/2018/country_profiles/BLM.pdf
+    inform_index:
+    lca_url: https://logcluster.org/countries/BLM
+    tampere_sig: 0
+    pop_2016:
+    gdp_2016:
+    fixed_line_subscribers:
+    mobile_subscribers:
+-
+    name: Saint Kitts and Nevis
+    country_code: KNA
+    official_name: Federation of Saint Christopher and Nevis
+    capital: Basseterre
+    narrative:
+    tel_code: 1869
+    voltage: 110V/60Hz,230V/60Hz
+    plug_types: A,B,D,G
+    key_orgs: Flow,Digicel,Microsoft Trinidad and Tobago,C&W Business,ECTEL (Eastern Caribbean Telecommunications Authority),St. Kitts and Nevis National Telecommunications Regulatory Commission,The Cable
+    hdx_url: https://data.humdata.org/group/kna
+    inform_url: http://www.inform-index.org/Portals/0/Inform/2018/country_profiles/KNA.pdf
+    inform_index: 1.5
+    lca_url: https://logcluster.org/countries/KNA
+    tampere_sig: 0
+    pop_2016: 58000
+    gdp_2016: $13,930
+    fixed_line_subscribers: 20220
+    mobile_subscribers: 81000
+-
+    name: Saint Lucia
+    country_code: LCA
+    official_name:
+    capital: Castries
+    narrative:
+    tel_code: 1758
+    voltage: 240V/50Hz
+    plug_types: G
+    key_orgs: Flow,Digicel,Microsoft Trinidad and Tobago,C&W Business,ECTEL (Eastern Caribbean Telecommunications Authority),St Lucia NTRC,CARCIP,SLIX
+    hdx_url: https://data.humdata.org/group/lca
+    inform_url: http://www.inform-index.org/Portals/0/Inform/2018/country_profiles/LCA.pdf
+    inform_index: 2
+    lca_url: https://logcluster.org/countries/LCA
+    tampere_sig: 1
+    pop_2016: 169000
+    gdp_2016: $8,270
+    fixed_line_subscribers: 25100
+    mobile_subscribers: 75000
+-
+    name: Saint Martin
+    country_code: MAF
+    official_name: Collectivity of Saint Martin
+    capital: Marigot
+    narrative:
+    tel_code: 590
+    voltage: 220V/60Hz
+    plug_types: C,F
+    key_orgs: Digicel,Dauphin Telecom
+    hdx_url: https://data.humdata.org/group/maf
+    inform_url: http://www.inform-index.org/Portals/0/Inform/2018/country_profiles/MAF.pdf
+    inform_index:
+    lca_url: https://logcluster.org/countries/MAF
+    tampere_sig: 0
+    pop_2016:
+    gdp_2016:
+    fixed_line_subscribers:
+    mobile_subscribers:
+-
+    name: Saint Vincent and the Grenadines
+    country_code: VCT
+    official_name:
+    capital: Kingstown
+    narrative:
+    tel_code: 1784
+    voltage: 230V/50Hz
+    plug_types: A,C,E,G,I,K
+    key_orgs: Flow,Digicel,Microsoft Trinidad and Tobago,ECTEL (Eastern Caribbean Telecommunications Authority),CARCIP,SVGIX
+    hdx_url: https://data.humdata.org/group/vct
+    inform_url: http://www.inform-index.org/Portals/0/Inform/2018/country_profiles/VCT.pdf
+    inform_index: 2.1
+    lca_url: https://logcluster.org/countries/VCT
+    tampere_sig: 1
+    pop_2016:
+    gdp_2016:
+    fixed_line_subscribers:
+    mobile_subscribers:
+-
+    name: Sint Eustatius
+    country_code: BES
+    official_name: Kingdom of the Netherlands
+    capital: Oranjestad
+    narrative:
+    tel_code: 5993
+    voltage: 127V/50Hz,220V/50Hz
+    plug_types: A,B,C,F
+    key_orgs: Bureau Telecomunications en Post,Eutel
+    hdx_url: https://data.humdata.org/group/bes
+    inform_url: http://www.inform-index.org/Portals/0/Inform/2018/country_profiles/BES.pdf
+    inform_index:
+    lca_url: https://logcluster.org/countries/BES
+    tampere_sig: 1
+    pop_2016:
+    gdp_2016:
+    fixed_line_subscribers:
+    mobile_subscribers:
+-
+    name: Sint Maarten
+    country_code: SXM
+    official_name: Kingdom of the Netherlands
+    capital: Philipsburg
+    narrative:
+    tel_code: 1721
+    voltage: 120V/60Hz
+    plug_types:
+    key_orgs: Bureau Telecomunications en Post,TelEm,Smitcoms,Open Caribbean Internet eXchange
+    hdx_url: https://data.humdata.org/group/sxm
+    inform_url: http://www.inform-index.org/Portals/0/Inform/2018/country_profiles/SXM.pdf
+    inform_index:
+    lca_url: https://logcluster.org/countries/SXM
+    tampere_sig: 1
+    pop_2016:
+    gdp_2016:
+    fixed_line_subscribers:
+    mobile_subscribers:
+-
+    name: Trinidad and Tobago
+    country_code: TTO
+    official_name: Republic of Trinidad and Tobago
+    capital: Port of Spain
+    narrative:
+    tel_code: 1868
+    voltage: 115V/60Hz
+    plug_types: A,B
+    key_orgs: Flow,Digicel,Microsoft Trinidad and Tobago,C&W Business,Trinidad and Tobago Internet Exchange,Air Link Networks,Fujitsu Carribean
+    hdx_url: https://data.humdata.org/group/tto
+    inform_url: http://www.inform-index.org/Portals/0/Inform/2018/country_profiles/TTO.pdf
+    inform_index: 1.8
+    lca_url: https://logcluster.org/countries/TTO
+    tampere_sig: 0
+    pop_2016:
+    gdp_2016:
+    fixed_line_subscribers:
+    mobile_subscribers:
+-
+    name: Turks and Caicos Islands
+    country_code: TCA
+    official_name:
+    capital: Cockburn Town
+    narrative:
+    tel_code: 1649
+    voltage: 120V/60Hz
+    plug_types: A,B
+    key_orgs: Flow,Digicel,Microsoft Trinidad and Tobago,C&W Business
+    hdx_url: https://data.humdata.org/group/tca
+    inform_url: http://www.inform-index.org/Portals/0/Inform/2018/country_profiles/TCA.pdf
+    inform_index:
+    lca_url: https://logcluster.org/countries/TCA
+    tampere_sig: 0
+    pop_2016:
+    gdp_2016:
+    fixed_line_subscribers:
+    mobile_subscribers:
+-
+    name: United States Virgin Islands
+    country_code: VIR
+    official_name: Virgin Islands of the United States
+    capital: Charlotte Amelie
+    narrative:
+    tel_code: 1340
+    voltage: 110V/60Hz
+    plug_types: A,B
+    key_orgs:
+    hdx_url: https://data.humdata.org/group/vir
+    inform_url: http://www.inform-index.org/Portals/0/Inform/2018/country_profiles/VIR.pdf
+    inform_index:
+    lca_url: https://logcluster.org/countries/VIR
+    tampere_sig: 1
+    pop_2016:
+    gdp_2016:
+    fixed_line_subscribers:
+    mobile_subscribers:

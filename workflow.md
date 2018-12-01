@@ -5,6 +5,7 @@ permalink: /workflow/
 ---
 
 Under UN General Assembly Resolution 46/182, “national authorities have the primary responsibility for taking care of victims of natural disasters and other emergencies that occur in their territory.” (IASC Cluster Reference Model 2015). When an emergency overwhelms national capacities, the hosting national authorities can request international assistance. International organizations and NGOs generally only respond to disasters when their aid is specifically requested.
+
 To help scope the type of assets to be deployed, international organizations have used a three-step classification of disasters:
 
 * **L1 Emergency**: any emergency in a country where a UN agency has a presence.
@@ -18,17 +19,29 @@ This work take several forms, each of which branches off into its own decision-m
 * **IASC Cluster System**: The Interagency Standing Committee (IASC) provides a framework for UN agencies, NGOs, government development agencies, and some private-sector companies to participate in a voluntary coordinating structure that is intended to integrate with host government procedures. The IASC cluster systems provides coordination across 12 areas: (diagram). (link)
 * **Hybrids**: it is not rare to find a response operation where two (if not all three) structures are working in parallel. Some NGOs (including NetHope) may have a bilateral agreement with the government to provide specific aid while also coordinating with the IASC, the regional DMA, or both.
 
-These structures share common elements, which are mapped out in this document.Add more here or delete line?
+These structures share common elements, which are mapped out in this document.
+
+
+
+
+Add more here or delete line?
 
 ---
 
-## 0. Developing Situational Awareness: Data Scramble
+## Developing Situational Awareness: Data Scramble
 
 For a humanitarian organization, the minutes and hours following the onset of a disaster are characterized by a swirl of information gathering, with queries and exchanges that are both internal and external. In the context of information management, this phase is known as the ‘data scramble.’
 
-In the case of weather events and other natural hazards for which there has been some element of advance warning, the data scramble begins well before a storm makes landfall, for example, or a wildfire reaches a populated place. In the ‘best case’ scenarios – often in geographies that experience hazards with regular frequency – much of the baseline information required to develop an initial high-level snapshot has already been identified and is readily accessible. But even in these cases, it is likely that some information will have to be updated, or that more granular data will need to be obtained or created to address the specific context of the event. The best data preparedness may reduce the complexity of the data scramble phase, but will never obviate it.
+In the case of weather events and other natural hazards for which there has been some element of advance warning, the data scramble begins well before a storm makes landfall or a wildfire reaches a populated place. In the ‘best case’ scenarios–often in geographies that experience hazards with regular frequency–much of the baseline information required to develop an initial high-level snapshot has already been identified and is readily accessible. But even in these cases, it is likely that some information will have to be updated, or that more granular data will need to be obtained or created to address the specific context of the event. While good data preparedness may reduce the complexity of the data scramble phase, it will never obviate it.
 
-Though every event is unique, below are some of the most common elements of information that are assembled in the very early phases of a response:
+Every event is unique. A natural hazard occurs in a complex web of dynamics.
+
+Data are rarely in a form that we would like. As the World Bank describes in the Open Data for Resilience Field Guide,
+
+*"Data describe a dynamic reality. Cities are growing at extraordinary rates, with formal and informal settlements sprouting up faster than cartographers can build maps. Alongside this rapid urbanization, hazards are changing in ways that make it far less likely that historical understandings will inform prudent decisions about probable futures. Climate change is altering weather patterns and bringing extreme weather to places that have never seen such variation. Existing stocks of data about
+a nation’s infrastructure and its relation to natural hazards each need to updated more frequently and at higher resolutions than ever before. In a time of economic hardship and unequal globalization, few governments possess the resources to collate existing data, collect new data, and feed them all into an ecosystem of analysts who can make sense of them so that practitioners can design and implement projects that get ahead of the disaster cycle."*
+
+context where a society may be An earthquake the occurs in summer may require affected people to stay outdoors for one or more nights as shelters come online. That same event in the middle of winter may require urgent temporary shelter solution. That said, many disasters below are some of the most common elements of information that are assembled in the very early phases of a response:
 
 ### Magnitude
 There are various scales employed in order to assess the magnitude of different kinds of natural hazards, for example Richter scale for earthquake, or the Saffir-Simpson wind scale for hurricanes. These measures take on more meaning in the humanitarian context when combined with elements of human exposure and risk.

@@ -1,0 +1,32 @@
+<h1>{{ page.name }}</h1>
+
+<table>
+<tr><td>country_code:</td><td>{{ page.country_code }}</td></tr>
+<tr><td>official_name:</td><td>{{ page.official_name }}</td></tr>
+<tr><td>capital:</td><td>{{ page.capital }}</td></tr>
+<tr><td>tel_code:</td><td>{{ page.tel_code }}</td></tr>
+<tr><td>voltage:</td><td>{{ page.voltage }}</td></tr>
+<tr><td>plug_types:</td><td>{{ page.plug_types }}</td></tr>
+<tr><td>Tampere Convention Signatory?</td><td>{{ page.tampere_sig }}</td></tr>
+</table>
+<!---
+<h2>key_orgs</h2>
+<p>{{ page.key_orgs }}</p>
+-->
+
+<h2>Humanitarian Data Sets</h2>
+<table>
+<tr><td>HDX</td><td><a href="{{ page.hdx_url }}">{{ page.hdx_url }}</a></td></tr>
+<tr><td>COD</td><td><a href="{{ page.cod_url }}">{{ page.cod_url }}</a></td></tr>
+<tr><td>INFORM Risk Index</td><td><a href="{{ page.inform_url }}">{{ page.inform_url }}</a></td></tr>
+<tr><td>INFORM Score</td><td>{{ page.inform_index }}</td></tr>
+<tr><td>Logistics Cluster Page</td><td><a href="{{ page.lca_url }}">{{ page.lca_url }}</a></td></tr>
+</table>
+
+<h2>Demographics</h2>
+<table>
+<tr><td>Population (2016)</td><td>{{ page.pop_2016 }}</td></tr>
+<tr><td>GDP 2016</td><td>{{ page.gdp_2016 }}</td></tr>
+<tr><td>Fixed Line Subscribers</td><td>{{ page.fixed_line_subscribers }}</td></tr>
+<tr><td>Mobile Subscribers</td><td>{{ page.mobile_subscribers }}</td></tr>
+</table>
