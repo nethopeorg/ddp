@@ -247,6 +247,10 @@ In the survey, the assessment team will gather the following information:
 
 NetHope Crisis Informatics is currently developing a mobile form version of the assessment survey, so (1.) future assessments teams can conduct surveys more efficiently (2.) NetHope Crisis Informatics can automate the visualization process. The collective goal is to see and share the information assessment teams are collecting in real-time.
 
+## Appeals
+
+One of the primary sources of data on humanitarian funding, the Financial Tracking Service (FTS), is managed by the UN Office for the Coordination of Humanitarian Affairs (OCHA). The FTS was established in 1992, but in recent years has made significant progress in applying standard methodologies and data structures, with a updated platform release in 2017. The service is not and never will be a comprehensive digest of all humanitarian funding - even for the highest profile events - but it is a very useful resource in tracking the funding from donors to local humanitarian actors, and in comparing the scopes and degrees of response to consolidated humanitarian appeals. The FTS is particularly useful in tracking data voluntarily submitted by government donors, UN-administered funds, UN agencies, NGOs, and increasingly the private sector.
+
 ### List of Commonly-Used Data Sets for Needs Assessments:
 
 NetHope Crisis Informatics will commonly develop and/or utilize the following external datasets in this phase of the information management cycle:
