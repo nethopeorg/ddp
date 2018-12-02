@@ -19,3 +19,5 @@ fixed_line_subscribers:
 mobile_subscribers:
 layout: country
 ---
+
+graphics will go here
