@@ -1,25 +1,53 @@
 ---
-layout: full-width
+layout: default
 title: Workflow
 permalink: /workflow/
 ---
 
 # Workflow for Information Managers
 
+
+
+
+
+## Key Findings
+
+{% marginnote 'mn-id-ifrcsims-toolkit' ' The <a href="http://rcrcsims.org/toolkit/">toolkit</a> is available at <a href="">http://rcrcsims.org</a>' %}
+
+### Checklists Over Standard Operating Procedures
+Interviewees emphasized that every response is different and unique, and retaining an element of flexibility is paramount.
+International Federational of Red Cross and Red Crescent Societies has a voluntary confederation of information managers from its member societies that provide Surge Informational Management Support.
+
+The vast majority of interviewees report that they do not adhere to standard operating procedures during the first hours of a response. For information managers, a range of templates and checklists are reported as being used, but respondents stress that every response is different and unique, and retaining an element of flexibility is paramount. Where SOPs do exist, they are generally employed as a reference or suggested guidance, and not operationalized in rigid form.  RC and UN have IM checklists. CDS and SIMS. No parallel shared among NGOs. No standardized workflow across the sector.
+
+### Decisions are driven by politics and rules of thumb rather than data and evidence
+A common refrain is that even as increasing amounts and new sources of data become available and accessible in the earliest phases of disaster response, there remains a gap for decision makers at the highest levels to use this information. In part this is due to the self-conscious recognition that many early decisions are driven by the realities of politics and perception, and that press reporting - accurate or not - continues to have undue weight. Another reason for the gap is that organizations can lack the technical expertise and internal mechanisms to synthesize and simplify complex information, and provide key findings to busy senior managers. 
+
+In spite of this gap, organizations are continuing to make strides in integrating new sources of information, and implementing technical solutions to allow data to flow to and from the field. While the earliest decisions might still be made in a context of little or bad data, sophisticated analysis and information management is moving further and further upstream and up the chain of command.
+
+
+
+## Political Structure of Information management
+
 Under UN General Assembly Resolution 46/182, “national authorities have the primary responsibility for taking care of victims of natural disasters and other emergencies that occur in their territory.” (IASC Cluster Reference Model 2015). When an emergency overwhelms national capacities, the hosting national authorities can request international assistance. International organizations and NGOs generally only respond to disasters when their aid is specifically requested.
 
 To help scope the type of assets to be deployed, international organizations have used a three-step classification of disasters:
 
-* **L1 Emergency**: any emergency in a country where a UN agency has a presence.
-* **L2 Emergency**: any emergency which overwhelms in-country capacities and requires mobilization of regional support.
-* **L3 Emergency**: either an emergency which overwhelms a specific UN agency’s regional capacity, or an emergency where the urgency, scale and complexity merit a UN system-wide response.
+**L1 Emergency**: any emergency in a country where a UN agency has a presence.
+
+**L2 Emergency**: any emergency which overwhelms in-country capacities and requires mobilization of regional support.
+
+**L3 Emergency**: either an emergency which overwhelms a specific UN agency’s regional capacity, or an emergency where the urgency, scale and complexity merit a UN system-wide response.
 
 This work take several forms, each of which branches off into its own decision-making structures, workflows, and information needs.
 
-* **Bilateral Agreements**: A hosting national authority may establish a relationship with another government, international agency, or NGO to provide specific services during a response operation. This may to send specific technical assistance (such as urban search and rescue, UNDAC teams, mortuary teams, telecommunications experts, etc) or it may to extend existing programming from one area of the contract into the affected areas.
-* **Regional Disaster Management Agreements**: an association of national disaster management authorities that delegates specific functions to a regional disaster management authority. These include ASEAN Coordinating Centre for Humanitarian Assistance on Disaster Management (aka, AHA Centre) and CDEMA. The capacity of these regional authorities has changed from a coordinating body to an operational capacity, as evidenced by the delegation of coordination and information management functions to ASEAN during the recent tsunami in Sulawesi, Indonesia. (links)
-* **IASC Cluster System**: The Interagency Standing Committee (IASC) provides a framework for UN agencies, NGOs, government development agencies, and some private-sector companies to participate in a voluntary coordinating structure that is intended to integrate with host government procedures. The IASC cluster systems provides coordination across 12 areas: (diagram). (link)
-* **Hybrids**: it is not rare to find a response operation where two (if not all three) structures are working in parallel. Some NGOs (including NetHope) may have a bilateral agreement with the government to provide specific aid while also coordinating with the IASC, the regional DMA, or both.
+**Bilateral Agreements**: A hosting national authority may establish a relationship with another government, international agency, or NGO to provide specific services during a response operation. This may to send specific technical assistance (such as urban search and rescue, UNDAC teams, mortuary teams, telecommunications experts, etc) or it may to extend existing programming from one area of the contract into the affected areas.
+
+**Regional Disaster Management Agreements**: an association of national disaster management authorities that delegates specific functions to a regional disaster management authority. These include ASEAN Coordinating Centre for Humanitarian Assistance on Disaster Management (aka, AHA Centre) and CDEMA. The capacity of these regional authorities has changed from a coordinating body to an operational capacity, as evidenced by the delegation of coordination and information management functions to ASEAN during the recent tsunami in Sulawesi, Indonesia. (links)
+
+**IASC Cluster System**: The Interagency Standing Committee (IASC) provides a framework for UN agencies, NGOs, government development agencies, and some private-sector companies to participate in a voluntary coordinating structure that is intended to integrate with host government procedures. The IASC cluster systems provides coordination across 12 areas: (diagram). (link)
+
+**Hybrids**: it is not rare to find a response operation where two (if not all three) structures are working in parallel. Some NGOs (including NetHope) may have a bilateral agreement with the government to provide specific aid while also coordinating with the IASC, the regional DMA, or both.
 
 These structures share common elements, which are mapped out in this document.
 
@@ -97,11 +125,10 @@ Sample datasets: Population density, socio-economic data (income, gender, age et
 Identify public safety and incident command facilities
 Sample datasets: Fire stations, police stations EOCs (local, State, national), Public Safety Answering Points (PSAPs)/911 Call Centers, shelters, evacuation zones
 
-
-Virtual OSSOC
-ACAPS
-SIMS/RC
-Cluster links
+* Virtual OSSOC
+* ACAPS
+* SIMS/RC
+* Cluster links
 
 
 ---
