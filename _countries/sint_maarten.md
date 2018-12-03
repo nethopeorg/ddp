@@ -9,6 +9,7 @@ voltage: 120V/60Hz
 plug_types:
 key_orgs: Bureau Telecomunications en Post,TelEm,Smitcoms,Open Caribbean Internet eXchange
 hdx_url: https://data.humdata.org/group/sxm
+bound_vromi: https://data.humdata.org/dataset/sint-maarten-administrative-level-0-1-boundaries
 inform_url: http://www.inform-index.org/Portals/0/Inform/2018/country_profiles/SXM.pdf
 inform_index:
 lca_url: https://logcluster.org/countries/SXM

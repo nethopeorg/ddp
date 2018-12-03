@@ -9,6 +9,8 @@ voltage: 120V/60Hz
 plug_types: A,B
 key_orgs: Microsoft Puerto Rico,Cisco Puerto Rico,C&W Business,America Movil,Claro Puerto Rico
 hdx_url: https://data.humdata.org/group/pri
+hot_roads: https://data.humdata.org/dataset/hotosm_pri_roads
+bound_gadm: https://data.humdata.org/dataset/peurto-rico-admin0-and-admin1
 inform_url: http://www.inform-index.org/Portals/0/Inform/2018/country_profiles/PRI.pdf
 inform_index:
 lca_url: https://logcluster.org/countries/PRI

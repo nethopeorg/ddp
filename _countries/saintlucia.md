@@ -9,6 +9,8 @@ voltage: 240V/50Hz
 plug_types: G
 key_orgs: Flow,Digicel,Microsoft Trinidad and Tobago,C&W Business,ECTEL (Eastern Caribbean Telecommunications Authority),St Lucia NTRC,CARCIP,SLIX
 hdx_url: https://data.humdata.org/group/lca
+hot_roads: https://data.humdata.org/dataset/hotosm_lca_roads
+bound_gadm: https://data.humdata.org/dataset/saint-lucia-administrative-level-0-nation-and-1-quarter-boundaries
 inform_url: http://www.inform-index.org/Portals/0/Inform/2018/country_profiles/LCA.pdf
 inform_index: 2
 lca_url: https://logcluster.org/countries/LCA

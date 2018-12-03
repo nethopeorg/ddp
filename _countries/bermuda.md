@@ -9,6 +9,8 @@ voltage: 120V/60Hz
 plug_types: A,B
 key_orgs: One Communications,Digicel,Fort Knox Bermuda,Microsoft Trinidad and Tobago,TeleBermuda
 hdx_url: https://data.humdata.org/group/bmu
+hot_roads: https://data.humdata.org/dataset/hotosm_brb_roads
+bound_gadm: https://data.humdata.org/dataset/bermuda-administrative-level-0-country-and-level-1-parish-or-municipality-boundaries
 inform_url: http://www.inform-index.org/Portals/0/Inform/2018/country_profiles/BMU.pdf
 inform_index:
 lca_url: https://logcluster.org/countries/BMU
