@@ -9,6 +9,8 @@ voltage: 110V/60Hz,230V/60Hz
 plug_types: A,B,D,G
 key_orgs: Flow,Digicel,Microsoft Trinidad and Tobago,C&W Business,ECTEL (Eastern Caribbean Telecommunications Authority),St. Kitts and Nevis National Telecommunications Regulatory Commission,The Cable
 hdx_url: https://data.humdata.org/group/kna
+hot_roads: https://data.humdata.org/dataset/hotosm_kna_roads
+bound_gadm: https://data.humdata.org/dataset/saint-kitts-and-nevis-administrative-level-0-nation-and-1-parish-boundaries
 inform_url: http://www.inform-index.org/Portals/0/Inform/2018/country_profiles/KNA.pdf
 inform_index: 1.5
 lca_url: https://logcluster.org/countries/KNA

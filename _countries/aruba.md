@@ -9,6 +9,8 @@ voltage: 127V/50Hz
 plug_types: A,B,F
 key_orgs: Digicel,Setar,MIO,"Ministry of Transport, Communications and Primary Sector",Microsoft Trinidad and Tobago
 hdx_url: https://data.humdata.org/group/abw
+hot_roads: https://data.humdata.org/dataset/hotosm_abw_roads
+bound_gadm: https://data.humdata.org/dataset/aruba-administrative-level-0-national-boundary
 inform_url: http://www.inform-index.org/Portals/0/Inform/2018/country_profiles/ABW.pdf
 inform_index:
 lca_url: https://logcluster.org/countries/ABW

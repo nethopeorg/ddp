@@ -9,6 +9,8 @@ voltage: 110V/60Hz
 plug_types: A,B
 key_orgs: Microsoft Dominican Republic,Cisco Dominican Republic,World Food Program,UNICEF,C&W Business,NAP del Caribe,INDOTEL,America Movil,Claro Dominican Republic,Altice
 hdx_url: https://data.humdata.org/group/dom
+hot_roads: https://data.humdata.org/dataset/hotosm_dom_roads
+bound_ons: https://data.humdata.org/dataset/dominican-republic-administrative-boundaries-levels-0-6
 inform_url: http://www.inform-index.org/Portals/0/Inform/2018/country_profiles/DOM.pdf
 inform_index: 3.9
 lca_url: https://logcluster.org/countries/DOM

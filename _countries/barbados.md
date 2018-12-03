@@ -9,6 +9,8 @@ voltage: 115V/50Hz
 plug_types: A,B
 key_orgs: Flow,Digicel,Ozone Wireless,Fair Trading Commission,Microsoft Trinidad and Tobago,UNICEF,C&W Business
 hdx_url: https://data.humdata.org/group/brb
+hot_roads: https://data.humdata.org/dataset/hotosm_brb_roads
+bound_gadm: https://data.humdata.org/dataset/barbados-administrative-boundaries-levels-0-and-1-from-gadm
 inform_url: http://www.inform-index.org/Portals/0/Inform/2018/country_profiles/BRB.pdf
 inform_index: 1.6
 lca_url: https://logcluster.org/countries/BRB

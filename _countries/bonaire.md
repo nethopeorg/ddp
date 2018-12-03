@@ -9,6 +9,7 @@ voltage: 127V/50Hz,220V/50Hz
 plug_types: A,B,C,F
 key_orgs: Digicel,Bureau Telecomunications en Post,Telbo,Kla Mobile
 hdx_url: https://data.humdata.org/group/bes
+bound_gadm: https://data.humdata.org/dataset/caribbean-netherlands-bonaire-sint-eustatius-and-saba
 inform_url: http://www.inform-index.org/Portals/0/Inform/2018/country_profiles/BES.pdf
 inform_index:
 lca_url: https://logcluster.org/countries/BES
