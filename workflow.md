@@ -4,30 +4,20 @@ title: Workflow
 permalink: /workflow/
 ---
 
-# Workflow for Information Managers
+# Workflow for NGO Information Managers
 
+NGOs working through NetHope would benefit from having an information management workflow that extends the UN's Coordinated Data Scramble, adding in the data sharing agreements that NGOs have established with private sector entities. These include geospatial datasets from satellite firms; subscriber data from networking and mobile network operators as well as social media companies like Facebook (via its Disaster Maps program); and subscription-based data about specific elements of country infrastructure, such as the Budde Reports. This document captures the preliminary sketch of one such workflow.
 
+It begins by defining the set of problems that this workflow attempts to solve; then continues through the activities within that workflow with a) data sets necessary to drive decisions around those activities, b) data sharing agreements necessary to obtain those data sets, and c) methods for analyzing those data sets, some of which remain under non-disclosure agreement because of the nature of the data sharing agreements.
 
+## Defining the Problem
 
+A single workflow can address a limited set of use cases, else it becomes too complicated for anyone to follow. The challenge within humanitarian action is that information managers need to address a range of analytical questions that vary according both the nature and context of the operation, as well as the political structure of the response.
 
-## Key Findings
+The political
 
-{% marginnote 'mn-id-ifrcsims-toolkit' ' The <a href="http://rcrcsims.org/toolkit/">toolkit</a> is available at <a href="">http://rcrcsims.org</a>' %}
-
-### Checklists Over Standard Operating Procedures
-Interviewees emphasized that every response is different and unique, and retaining an element of flexibility is paramount.
-International Federational of Red Cross and Red Crescent Societies has a voluntary confederation of information managers from its member societies that provide Surge Informational Management Support.
-
-The vast majority of interviewees report that they do not adhere to standard operating procedures during the first hours of a response. For information managers, a range of templates and checklists are reported as being used, but respondents stress that every response is different and unique, and retaining an element of flexibility is paramount. Where SOPs do exist, they are generally employed as a reference or suggested guidance, and not operationalized in rigid form.  RC and UN have IM checklists. CDS and SIMS. No parallel shared among NGOs. No standardized workflow across the sector.
-
-### Decisions are driven by politics and rules of thumb rather than data and evidence
-A common refrain is that even as increasing amounts and new sources of data become available and accessible in the earliest phases of disaster response, there remains a gap for decision makers at the highest levels to use this information. In part this is due to the self-conscious recognition that many early decisions are driven by the realities of politics and perception, and that press reporting - accurate or not - continues to have undue weight. Another reason for the gap is that organizations can lack the technical expertise and internal mechanisms to synthesize and simplify complex information, and provide key findings to busy senior managers. 
-
-In spite of this gap, organizations are continuing to make strides in integrating new sources of information, and implementing technical solutions to allow data to flow to and from the field. While the earliest decisions might still be made in a context of little or bad data, sophisticated analysis and information management is moving further and further upstream and up the chain of command.
-
-
-
-## Political Structure of Information management
+The political
+The  Structure of Information management
 
 Under UN General Assembly Resolution 46/182, “national authorities have the primary responsibility for taking care of victims of natural disasters and other emergencies that occur in their territory.” (IASC Cluster Reference Model 2015). When an emergency overwhelms national capacities, the hosting national authorities can request international assistance. International organizations and NGOs generally only respond to disasters when their aid is specifically requested.
 
@@ -49,12 +39,9 @@ This work take several forms, each of which branches off into its own decision-m
 
 **Hybrids**: it is not rare to find a response operation where two (if not all three) structures are working in parallel. Some NGOs (including NetHope) may have a bilateral agreement with the government to provide specific aid while also coordinating with the IASC, the regional DMA, or both.
 
-These structures share common elements, which are mapped out in this document.
+The complexity of these decision making structures has only started to be mapped out. The initial sketch from OCHA--called the Decision Makers Taxonomy--shows the various branches of stakeholders who have a voice in the decisions being made in the early phase of a response operation:
 
-
-
-
-Add more here or delete line?
+{% maincolumn "assets/img/dm_taxon.png" "Decision Makers Taxonomy available at <a href='https://blog.veritythink.com/post/60157407408/these-are-the-humanitarian-decision-makers'>veritythink's blog</a>" %}
 
 ---
 
@@ -94,11 +81,12 @@ What is the status of power and communications, where are the outages, and how m
 ### 3W (Who is doing What, Where?)
 Which organizations are already working in the country, which are deploying staff to the country, what are they doing, and what they intend to do?
 
-### List of Data Sets###:
+### List of Data Sets:
 (add link to data on website when ready - need to format lists in below sections consistently and reduce redundancy)
 
 ### Data Scramble
 NetHope Crisis Informatics will commonly develop and/or utilize the following datasets in this phase of the information management cycle:
+
 
 #### Hydrography
 Identify bodies of water and their potential impacts on response efforts
@@ -296,7 +284,7 @@ Sample datasets: Population density, socio-economic data (income, gender, age et
 **Public Safety**: Identifies potential response sites at public safety and incident command facilities
 Sample datasets: Fire stations, police stations EOCs (local, State, national), Public Safety Answering Points (PSAPs)/911 Call Centers, shelters, evacuation zones
 
-###List of Commonly-Used Data Sources:
+### List of Commonly-Used Data Sources:
 
 NetHope Crisis Informatics will commonly utilize these data sources and repositories in this phase of the information management cycle:
 * Satellite imagery providers: Planet, DigitalGlobe, Esri
