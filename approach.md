@@ -8,23 +8,23 @@ permalink: /approach/
 
 NetHope interviewed stakeholders from its membership as well as UN agencies and the International Federation of Red Cross and Red Crescent Societies. These included
 
-<table class="table-wrapper">
-<thead><th>Organization</th><th>No of People</th></thead>
-<tr><td>American Red Cross</td><td>2</td></tr>
-<tr><td>Cisco TacOps Team</td><td>2</td></tr>
-<tr><td>Direct Relief</td><td>1</td></tr>
-<tr><td>Emergency Telecommunications Cluster</td><td>2</td></tr>
-<tr><td>Ericsson Response Team</td><td>2</td></tr>
-<tr><td>Iceland International Search and Rescue Team</td><td>2</td></tr>
-<tr><td>IFRC</td><td>2</td></tr>
-<tr><td>MapAction</td><td>1</td></tr>
-<tr><td>Mercy Corps</td><td>1</td></tr>  
-<tr><td>OCHA</td><td>1</td></tr>
-<tr><td>Oxfam International</td><td>2</td></tr>
-<tr><td>Save the Children International</td><td>2</td></tr>
-<tr><td>Team Rubicon</td><td>1</td></tr>
-<tr><td>World Food Programme</td><td>1</td></tr>
-<tr><td>UNDAC</td><td>1</td></tr>
+<table class="booktabs">
+<thead><th>Organization</th><th>No of Interviewees</th></thead>
+<tr><td>American Red Cross</td><td class="r">2</td></tr>
+<tr><td>Cisco TacOps Team</td><td class="r">2</td></tr>
+<tr><td>Direct Relief</td><td class="r">1</td></tr>
+<tr><td>Emergency Telecommunications Cluster</td><td class="r">2</td></tr>
+<tr><td>Ericsson Response Team</td><td class="r">2</td></tr>
+<tr><td>Iceland International Search and Rescue Team</td><td class="r">2</td></tr>
+<tr><td>IFRC</td><td class="r">2</td></tr>
+<tr><td>MapAction</td><td class="r">1</td></tr>
+<tr><td>Mercy Corps</td><td class="r">1</td></tr>  
+<tr><td>OCHA</td><td class="r">1</td></tr>
+<tr><td>Oxfam International</td><td class="r">2</td></tr>
+<tr><td>Save the Children International</td><td class="r">2</td></tr>
+<tr><td>Team Rubicon</td><td class="r">1</td></tr>
+<tr><td>World Food Programme</td><td class="r">1</td></tr>
+<tr><td>UNDAC</td><td class="r">1</td></tr>
 </table>
 
 IFRC were semi-structured and attempted to address three primary questions with a focus on the first 72 hours after the onset of an emergency:

@@ -32,7 +32,11 @@ plugins:
 collections:
     countries:
       output: true
-      permalink: /ddp/countries/:path/
+      permalink: /countries/:path/
+
+    workflow:
+      output: true
+      permalink: /workflow/:path/
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

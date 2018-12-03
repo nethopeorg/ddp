@@ -1,0 +1,16 @@
+<!--- workflow elements nav  -->
+<!-- <nav class="group"> -->
+
+<ul><label for="mn-id-workflow-nav" class="margin-toggle"> ⊕</label><input type="checkbox" id="mn-id-workflow-nav" class="margin-toggle" /><span class="marginnote">
+{% assign nodes = site.workflow | sort: 'wf_order' %}
+	{% for node in nodes %}
+		{% unless node.nav_exclude %}
+		    {% if page.url == node.url %}
+		      <li><a class="active" href="/ddp{{node.url }}" class="active">{{node.title}}</a></li>
+		    {% else %}
+      <li><a href="/ddp{{node.url }}">{{node.title}}</a></li>
+		    {% endif %}
+	    {% endunless %}
+  	{% endfor %}
+</span></ul>
+<!-- </nav> -->
