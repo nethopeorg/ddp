@@ -11,6 +11,7 @@ key_orgs: Digicel,Microsoft Trinidad and Tobago,Orange Caraibe,SFR Caraïbes,Dau
 hdx_url: https://data.humdata.org/group/glp
 hot_roads: https://data.humdata.org/dataset/hotosm_glp_roads
 bound_gadm: https://data.humdata.org/dataset/guadalupe-administrative-level-0-1-and-2-boundaries-from-gadm
+global_healthsites: https://healthsites.io/#country-data
 inform_url: http://www.inform-index.org/Portals/0/Inform/2018/country_profiles/GLP.pdf
 inform_index:
 lca_url: https://logcluster.org/countries/GLP

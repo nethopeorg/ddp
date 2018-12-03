@@ -10,6 +10,7 @@ plug_types: A,B
 key_orgs:
 hdx_url: https://data.humdata.org/group/vir
 hot_roads: https://data.humdata.org/dataset/hotosm_vir_roads
+global_healthsites: https://healthsites.io/#country-data
 inform_url: http://www.inform-index.org/Portals/0/Inform/2018/country_profiles/VIR.pdf
 inform_index:
 lca_url: https://logcluster.org/countries/VIR

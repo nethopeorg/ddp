@@ -11,6 +11,8 @@ key_orgs: Microsoft Dominican Republic,Cisco Dominican Republic,World Food Progr
 hdx_url: https://data.humdata.org/group/dom
 hot_roads: https://data.humdata.org/dataset/hotosm_dom_roads
 bound_ons: https://data.humdata.org/dataset/dominican-republic-administrative-boundaries-levels-0-6
+worldpop_hdx: https://data.humdata.org/dataset/worldpop-dominican-republic
+global_healthsites: https://healthsites.io/#country-data
 inform_url: http://www.inform-index.org/Portals/0/Inform/2018/country_profiles/DOM.pdf
 inform_index: 3.9
 lca_url: https://logcluster.org/countries/DOM

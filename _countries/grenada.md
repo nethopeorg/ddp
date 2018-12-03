@@ -11,6 +11,8 @@ key_orgs: Flow,Digicel,C&W Business,ECTEL (Eastern Caribbean Telecommunications 
 hdx_url: https://data.humdata.org/group/grd
 hot_roads: https://data.humdata.org/dataset/hotosm_grd_roads
 bound_gadm: https://data.humdata.org/dataset/grenada-administrative-level-0-nation-and-1-parish-boundaries
+global_healthsites: https://healthsites.io/#country-data
+airports_areas_charim: http://www.charim-geonode.net/layers/geonode:airports
 inform_url: http://www.inform-index.org/Portals/0/Inform/2018/country_profiles/GRD.pdf
 inform_index: 1.4
 lca_url: https://logcluster.org/countries/GRD

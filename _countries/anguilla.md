@@ -11,6 +11,7 @@ key_orgs: Flow,Digicel,"Ministry of Infrastructure, Communications, Utilitie and
 hdx_url: https://data.humdata.org/group/aia
 hot_roads: https://data.humdata.org/dataset/hotosm_aia_roads
 bound_gadm: https://data.humdata.org/dataset/anguilla-administrative-level-0-national-boundary
+global_healthsites: https://healthsites.io/#country-data
 inform_url: http://www.inform-index.org/Portals/0/Inform/2018/country_profiles/AIA.pdf
 inform_index:
 lca_url: https://logcluster.org/countries/AIA

@@ -11,6 +11,8 @@ key_orgs: Flow,Digicel,Microsoft Trinidad and Tobago,C&W Business,Trinidad and T
 hdx_url: https://data.humdata.org/group/tto
 hot_roads: https://data.humdata.org/dataset/hotosm_tto_roads
 bound_gadm: https://data.humdata.org/dataset/trinidad-and-tobago-administrative-level-0-national-and-1-region-and-municipality-boundaries
+worldpop_hdx: https://data.humdata.org/dataset/worldpop-trinidad-and-tobago
+global_healthsites: https://healthsites.io/#country-data
 inform_url: http://www.inform-index.org/Portals/0/Inform/2018/country_profiles/TTO.pdf
 inform_index: 1.8
 lca_url: https://logcluster.org/countries/TTO

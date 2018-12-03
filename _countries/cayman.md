@@ -11,6 +11,7 @@ key_orgs: Flow,Digicel,Microsoft Trinidad and Tobago,TeleCayman,Utility  Regulat
 hdx_url: https://data.humdata.org/group/cym
 hot_roads: https://data.humdata.org/dataset/hotosm_cym_roads
 bound_gadm: https://data.humdata.org/dataset/cayman-islands-administrative-level-0-nation-and-1-district-boundaries
+global_healthsites: https://healthsites.io/#country-data
 inform_url: http://www.inform-index.org/Portals/0/Inform/2018/country_profiles/CYM.pdf
 inform_index:
 lca_url: https://logcluster.org/countries/CYM

@@ -11,6 +11,8 @@ key_orgs: ETESCA,World Food Program,UNICEF,NAP de Cuba,Ministry of Informatics a
 hdx_url: https://data.humdata.org/group/cub
 hot_roads: https://data.humdata.org/dataset/hotosm_cub_roads
 bound_gadm: https://data.humdata.org/dataset/cuba-administrative-boundaries-levels-0-and-1-from-gadm
+worldpop_hdx: https://data.humdata.org/dataset/worldpop-cuba
+global_healthsites: https://healthsites.io/#country-data
 inform_url: http://www.inform-index.org/Portals/0/Inform/2018/country_profiles/CUB.pdf
 inform_index: 2.6
 lca_url: https://logcluster.org/countries/CUB

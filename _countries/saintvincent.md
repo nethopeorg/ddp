@@ -11,6 +11,7 @@ key_orgs: Flow,Digicel,Microsoft Trinidad and Tobago,ECTEL (Eastern Caribbean Te
 hdx_url: https://data.humdata.org/group/vct
 hot_roads: https://data.humdata.org/dataset/hotosm_vct_roads
 bound_gadm: https://data.humdata.org/dataset/saint-vincent-and-the-grenadines-administrative-level-0-country-and-1-parish-boundaries
+global_healthsites: https://healthsites.io/#country-data
 inform_url: http://www.inform-index.org/Portals/0/Inform/2018/country_profiles/VCT.pdf
 inform_index: 2.1
 lca_url: https://logcluster.org/countries/VCT

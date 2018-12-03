@@ -11,6 +11,7 @@ key_orgs: BTC Bahamas,ALIV,Batelnet,Utilities Regulation and Competition Authori
 hdx_url: https://data.humdata.org/group/bhs
 hot_roads: https://data.humdata.org/dataset/hotosm_bhs_roads
 bound_gadm: https://data.humdata.org/dataset/bahamas-administrative-boundaries-level-0-1
+global_healthsites: https://healthsites.io/#country-data
 inform_url: http://www.inform-index.org/Portals/0/Inform/2018/country_profiles/BHS.pdf
 inform_index: 3.2
 lca_url: https://logcluster.org/countries/BHS
