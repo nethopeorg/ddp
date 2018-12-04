@@ -7,13 +7,25 @@ permalink: /workflow/
 # Workflow for NGO Information Managers
 {%- include workflow_nav.html -%}
 
+## Introduction
+
 NGOs working through NetHope would benefit from having an information management workflow that extends the UN's Coordinated Data Scramble, adding in the data sharing agreements that NGOs have established with private sector entities. These include geospatial datasets from satellite firms; subscriber data from networking and mobile network operators as well as social media companies like Facebook (via its Disaster Maps program); and subscription-based data about specific elements of country infrastructure, such as the Budde Reports. This document captures the preliminary sketch of one such workflow.
 
 It begins by defining the set of problems that this workflow attempts to solve; then continues through the activities within that workflow with a) data sets necessary to drive decisions around those activities, b) data sharing agreements necessary to obtain those data sets, and c) methods for analyzing those data sets, some of which remain under non-disclosure agreement because of the nature of the data sharing agreements.
 
 ## Defining the Audience
+Each disaster creates a unique political structure around decision making. Even when the same type of natural hazard occurs in the same country, the politics of information management will vary, in part because different people will occupy key roles, both on the side the host-nation government as well as the international organizations and NGOs that respond. For this reason, it is critical to define the audience for information products as one of the first steps in a workflow. 
 
 A single workflow can address a limited set of use cases for specific audiences, else it becomes too complicated for anyone to follow. The challenge within humanitarian action is that information managers need to address a range of analytical questions that vary according both the nature and context of the operation, as well as the political structure of the response.
+
+One of the best existing maps of the decision makers in humanitarian operations comes from OCHA's work with the Digital Humanitarian Network. This Decision Makers Taxonomy shows the various branches of stakeholders who have a voice in the decisions being made in the early phase of a response operation:
+
+
+{% maincolumn "assets/img/dm_taxon.png" "A full-sized PDF of the Decision Makers Taxonomy available at <a href='https://blog.veritythink.com/post/60157407408/these-are-the-humanitarian-decision-makers'>veritythink's blog</a>" %}
+
+## Understanding the Structure of the Response
+
+
 
 The political structure of an international response operation
 Under UN General Assembly Resolution 46/182, “national authorities have the primary responsibility for taking care of victims of natural disasters and other emergencies that occur in their territory.” (IASC Cluster Reference Model 2015). When an emergency overwhelms national capacities, the hosting national authorities can request international assistance. International organizations and NGOs generally only respond to disasters when their aid is specifically requested.
@@ -35,7 +47,3 @@ This work take several forms, each of which branches off into its own decision-m
 **IASC Cluster System**: The Interagency Standing Committee (IASC) provides a framework for UN agencies, NGOs, government development agencies, and some private-sector companies to participate in a voluntary coordinating structure that is intended to integrate with host government procedures. The IASC cluster systems provides coordination across 12 areas: (diagram). (link)
 
 **Hybrids**: it is not rare to find a response operation where two (if not all three) structures are working in parallel. Some NGOs (including NetHope) may have a bilateral agreement with the government to provide specific aid while also coordinating with the IASC, the regional DMA, or both.
-
-The complexity of these decision making structures has only started to be mapped out. The initial sketch from OCHA--called the Decision Makers Taxonomy--shows the various branches of stakeholders who have a voice in the decisions being made in the early phase of a response operation:
-
-{% maincolumn "assets/img/dm_taxon.png" "Decision Makers Taxonomy available at <a href='https://blog.veritythink.com/post/60157407408/these-are-the-humanitarian-decision-makers'>veritythink's blog</a>" %}

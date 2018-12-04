@@ -3,6 +3,7 @@ title: Mobilization
 layout: workflow
 wf_order: 4
 ---
+# Workflow for NGO Information Managers
 ## Mobilization
 {%- include workflow_nav.html -%}
 

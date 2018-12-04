@@ -3,7 +3,7 @@ title: Data scramble
 layout: workflow
 wf_order: 1
 ---
-
+# Workflow for NGO Information Managers
 ## Developing Situational Awareness: Data Scramble
 {%- include workflow_nav.html -%}
 
@@ -11,7 +11,7 @@ For a humanitarian organization, the minutes and hours following the onset of a 
 
 In the case of weather events and other natural hazards for which there has been some element of advance warning, the data scramble begins well before a storm makes landfall or a wildfire reaches a populated place. In the ‘best case’ scenarios–often in geographies that experience hazards with regular frequency–much of the baseline information required to develop an initial high-level snapshot has already been identified and is readily accessible. But even in these cases, it is likely that some information will have to be updated, or that more granular data will need to be obtained or created to address the specific context of the event. While good data preparedness may reduce the complexity of the data scramble phase, it will never obviate it.
 
-Every event is unique. A natural hazard occurs in a complex web of dynamics.
+Every event is unique. A natural hazard occurs in a complex web of dynamics. And the data necessary to
 
 Data are rarely in a form that we would like. As the World Bank describes in the Open Data for Resilience Field Guide,
 

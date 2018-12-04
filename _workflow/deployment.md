@@ -3,7 +3,7 @@ title: Deployment
 layout: workflow
 wf_order: 5
 ---
-
+# Workflow for NGO Information Managers
 ## Deployment
 {%- include workflow_nav.html -%}
 
