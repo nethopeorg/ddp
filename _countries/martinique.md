@@ -10,7 +10,11 @@ plug_types: C,D,E
 key_orgs: Digicel,Microsoft Trinidad and Tobago,SFR Caraïbes,Dauphin Telecom,Mediaserv,ARCEP
 hdx_url: https://data.humdata.org/group/mtq
 hot_roads: https://data.humdata.org/dataset/hotosm_mtq_roads
+our_airports: https://data.humdata.org/dataset/ourairports-mtq
+global_airports_wfp: https://data.humdata.org/dataset/global-logistics
+global_ports_wfp: https://data.humdata.org/dataset/global-ports
 bound_gadm: https://data.humdata.org/dataset/martinique-administrative-level-0-nation-level-1-arrondissement-and-level-2-commune-boundaries
+global_healthsites: https://healthsites.io/#country-data
 inform_url: http://www.inform-index.org/Portals/0/Inform/2018/country_profiles/MTQ.pdf
 inform_index:
 lca_url: https://logcluster.org/countries/MTQ
