@@ -9,7 +9,7 @@ voltage: 115V/60Hz
 plug_types: A,B
 key_orgs: Flow,Digicel,Microsoft Trinidad and Tobago,C&W Business,Trinidad and Tobago Internet Exchange,Air Link Networks,Fujitsu Carribean
 hdx_url: https://data.humdata.org/group/tto
-hot_roads: https://data.humdata.org/dataset/hotosm_tto_roads
+roads_hot: https://data.humdata.org/dataset/hotosm_tto_roads
 bound_gadm: https://data.humdata.org/dataset/trinidad-and-tobago-administrative-level-0-national-and-1-region-and-municipality-boundaries
 our_airports: https://data.humdata.org/dataset/ourairports-tto
 global_airports_wfp: https://data.humdata.org/dataset/global-logistics

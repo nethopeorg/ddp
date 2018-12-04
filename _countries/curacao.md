@@ -9,7 +9,7 @@ voltage: 127V/50Hz
 plug_types: A,B,C,F
 key_orgs: Flow,Digicel,C&W Business,Bureau Telecomunications en Post,UTS,Carribean Internet Exchange
 hdx_url: https://data.humdata.org/group/cuw
-hot_roads: https://data.humdata.org/dataset/hotosm_cuw_roads
+roads_hot: https://data.humdata.org/dataset/hotosm_cuw_roads
 bound_gadm: https://data.humdata.org/dataset/curacao-administrative-level-0-national-boundary
 global_airports_wfp: https://data.humdata.org/dataset/global-logistics
 global_ports_wfp: https://data.humdata.org/dataset/global-ports

@@ -9,7 +9,11 @@ voltage: 110V/60Hz
 plug_types: A,B
 key_orgs: Flow,Digicel,BVI Telecommunications Regulatory Commission,C&W Business,British Virgin Islands IXP
 hdx_url: https://data.humdata.org/group/vgb
-hot_roads: https://data.humdata.org/dataset/hotosm_vgb_roads
+roads_hot: https://data.humdata.org/dataset/hotosm_vgb_roads
+map_ref_mapaction_osm: https://maps.mapaction.org/dataset/openstreetmap-of-virgin-gorda-british-virgin-islands
+map_ref_mapaction_osm2: https://maps.mapaction.org/dataset/openstreetmap-of-tortola-british-virgin-islands
+map_ref_mapaction_osm3: https://maps.mapaction.org/dataset/openstreetmap-of-jost-van-dyke-british-virgin-islands
+map_ref_mapaction_osm4: https://maps.mapaction.org/dataset/open-street-map-of-anegada-british-virgin-islands
 our_airports: https://data.humdata.org/dataset/ourairports-vgb
 global_airports_wfp: https://data.humdata.org/dataset/global-logistics
 global_ports_wfp: https://data.humdata.org/dataset/global-ports

@@ -9,7 +9,7 @@ voltage: 120V/60Hz
 plug_types: A,B
 key_orgs: Flow,Digicel,Microsoft Trinidad and Tobago,TeleCayman,Utility  Regulation  and  Competition  Office (OfReg),C&W Business,Logic Communications
 hdx_url: https://data.humdata.org/group/cym
-hot_roads: https://data.humdata.org/dataset/hotosm_cym_roads
+roads_hot: https://data.humdata.org/dataset/hotosm_cym_roads
 our_airports: https://data.humdata.org/dataset/ourairports-cym
 global_airports_wfp: https://data.humdata.org/dataset/global-logistics
 global_ports_wfp: https://data.humdata.org/dataset/global-ports

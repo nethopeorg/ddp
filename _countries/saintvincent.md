@@ -9,7 +9,7 @@ voltage: 230V/50Hz
 plug_types: A,C,E,G,I,K
 key_orgs: Flow,Digicel,Microsoft Trinidad and Tobago,ECTEL (Eastern Caribbean Telecommunications Authority),CARCIP,SVGIX
 hdx_url: https://data.humdata.org/group/vct
-hot_roads: https://data.humdata.org/dataset/hotosm_vct_roads
+roads_hot: https://data.humdata.org/dataset/hotosm_vct_roads
 bound_gadm: https://data.humdata.org/dataset/saint-vincent-and-the-grenadines-administrative-level-0-country-and-1-parish-boundaries
 our_airports: https://data.humdata.org/dataset/ourairports-vct
 global_airports_wfp: https://data.humdata.org/dataset/global-logistics

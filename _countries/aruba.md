@@ -9,7 +9,7 @@ voltage: 127V/50Hz
 plug_types: A,B,F
 key_orgs: Digicel,Setar,MIO,"Ministry of Transport, Communications and Primary Sector",Microsoft Trinidad and Tobago
 hdx_url: https://data.humdata.org/group/abw
-hot_roads: https://data.humdata.org/dataset/hotosm_abw_roads
+roads_hot: https://data.humdata.org/dataset/hotosm_abw_roads
 our_airports: https://data.humdata.org/dataset/ourairports-abw
 global_airports_wfp: https://data.humdata.org/dataset/global-logistics
 global_ports_wfp: https://data.humdata.org/dataset/global-ports

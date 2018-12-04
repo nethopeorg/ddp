@@ -9,7 +9,7 @@ voltage: 120V/60Hz,230V/60Hz
 plug_types: A,B
 key_orgs: Flow,Digicel,Microsoft Trinidad and Tobago,C&W Business,"Ministry of Communications, Works, Energy and Labour",MICA
 hdx_url: https://data.humdata.org/group/msr
-hot_roads: https://data.humdata.org/dataset/hotosm_msr_roads
+roads_hot: https://data.humdata.org/dataset/hotosm_msr_roads
 our_airports: https://data.humdata.org/dataset/ourairports-msr
 global_airports_wfp: https://data.humdata.org/dataset/global-logistics
 global_ports_wfp: https://data.humdata.org/dataset/global-ports

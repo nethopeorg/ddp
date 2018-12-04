@@ -9,7 +9,7 @@ voltage: 230V/50Hz
 plug_types: C,D,E
 key_orgs: Digicel,Microsoft Trinidad and Tobago,Orange Caraibe,SFR Caraïbes,Dauphin Telecom,Mediaserv,ARCEP
 hdx_url: https://data.humdata.org/group/glp
-hot_roads: https://data.humdata.org/dataset/hotosm_glp_roads
+roads_hot: https://data.humdata.org/dataset/hotosm_glp_roads
 our_airports: https://data.humdata.org/dataset/ourairports-glp
 global_airports_wfp: https://data.humdata.org/dataset/global-logistics
 global_ports_wfp: https://data.humdata.org/dataset/global-ports

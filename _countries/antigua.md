@@ -9,7 +9,9 @@ voltage: 230V/60Hz
 plug_types: A,B
 key_orgs: Flow,Digicel,Apua,"Ministry of Telecommunications, Science and Technology",Microsoft Trinidad and Tobago,C&W Business
 hdx_url: https://data.humdata.org/group/atg
-hot_roads: https://data.humdata.org/dataset/hotosm_atg_roads
+roads_hot: https://data.humdata.org/dataset/hotosm_atg_roads
+map_ref_mapaction_osm: https://maps.mapaction.org/dataset/open-street-map-of-antigua
+map_ref_mapaction_osm2: https://maps.mapaction.org/dataset/open-street-map-of-barbuda
 our_airports: https://data.humdata.org/dataset/ourairports-atg
 global_airports_wfp: https://data.humdata.org/dataset/global-logistics
 global_ports_wfp: https://data.humdata.org/dataset/global-ports

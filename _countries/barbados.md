@@ -9,7 +9,7 @@ voltage: 115V/50Hz
 plug_types: A,B
 key_orgs: Flow,Digicel,Ozone Wireless,Fair Trading Commission,Microsoft Trinidad and Tobago,UNICEF,C&W Business
 hdx_url: https://data.humdata.org/group/brb
-hot_roads: https://data.humdata.org/dataset/hotosm_brb_roads
+roads_hot: https://data.humdata.org/dataset/hotosm_brb_roads
 our_airports: https://data.humdata.org/dataset/ourairports-brb
 global_airports_wfp: https://data.humdata.org/dataset/global-logistics
 global_ports_wfp: https://data.humdata.org/dataset/global-ports

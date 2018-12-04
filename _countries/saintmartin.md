@@ -9,7 +9,9 @@ voltage: 220V/60Hz
 plug_types: C,F
 key_orgs: Digicel,Dauphin Telecom
 hdx_url: https://data.humdata.org/group/maf
+fts_req_fund: https://data.humdata.org/dataset/fts-requirements-and-funding-data-for-saint-martin-france
 gadm_bound: https://data.humdata.org/dataset/saint-martin-administrative-level-0-nation-boundaries
+map_ref_mapaction_osm: https://maps.mapaction.org/dataset/openstreetmap-of-saint-martin
 global_airports_wfp: https://data.humdata.org/dataset/global-logistics
 global_ports_wfp: https://data.humdata.org/dataset/global-ports
 global_healthsites: https://healthsites.io/#country-data

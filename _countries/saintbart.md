@@ -9,7 +9,8 @@ voltage:
 plug_types:
 key_orgs: Digicel,Microsoft Puerto Rico,Dauphin Telecom
 hdx_url: https://data.humdata.org/group/blm
-hot_roads: https://data.humdata.org/dataset/hotosm_blm_roads
+roads_hot: https://data.humdata.org/dataset/hotosm_blm_roads
+map_ref_mapaction_osm: https://maps.mapaction.org/dataset/openstreetmap-of-saint-barts
 bound_gadm: https://data.humdata.org/dataset/saint-barthelemy-administrative-level-1-department-boundary
 https://data.humdata.org/dataset/ourairports-blm
 our_airports: https://data.humdata.org/dataset/ourairports-blm

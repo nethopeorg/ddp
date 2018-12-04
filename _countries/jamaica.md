@@ -9,7 +9,7 @@ voltage: 110V/50Hz
 plug_types: A,B
 key_orgs: Flow,Digicel,Microsoft Jamaica,UNICEF,C&W Business,Jamaica Internet Exchange Point,Office of Utilities Regulation
 hdx_url: https://data.humdata.org/group/jam
-hot_roads: https://data.humdata.org/dataset/hotosm_jam_roads
+roads_hot: https://data.humdata.org/dataset/hotosm_jam_roads
 our_airports: https://data.humdata.org/dataset/ourairports-jam
 global_airports_wfp: https://data.humdata.org/dataset/global-logistics
 global_ports_wfp: https://data.humdata.org/dataset/global-ports

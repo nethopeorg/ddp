@@ -9,7 +9,7 @@ voltage: 120V/60Hz
 plug_types: A,B
 key_orgs: Flow,Digicel,Microsoft Trinidad and Tobago,C&W Business
 hdx_url: https://data.humdata.org/group/tca
-hot_roads: https://data.humdata.org/dataset/hotosm_tca_roads
+roads_hot: https://data.humdata.org/dataset/hotosm_tca_roads
 bound_gadm: https://data.humdata.org/dataset/turks-and-caicos-islands-administrative-level-0-nation-and-1-district-boundaries
 our_airports: https://data.humdata.org/dataset/ourairports-tca
 global_airports_wfp: https://data.humdata.org/dataset/global-logistics

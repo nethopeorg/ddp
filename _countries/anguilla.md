@@ -9,7 +9,8 @@ voltage: 110V/60Hz
 plug_types: A
 key_orgs: Flow,Digicel,"Ministry of Infrastructure, Communications, Utilitie and Housing",Microsoft Trinidad and Tobago,C&W Business
 hdx_url: https://data.humdata.org/group/aia
-hot_roads: https://data.humdata.org/dataset/hotosm_aia_roads
+roads_hot: https://data.humdata.org/dataset/hotosm_aia_roads
+map_ref_mapaction_osm: https://maps.mapaction.org/dataset/open-street-map-of-anguilla
 our_airports: https://data.humdata.org/dataset/ourairports-aia
 global_airports_wfp: https://data.humdata.org/dataset/global-logistics
 global_ports_wfp: https://data.humdata.org/dataset/global-ports
