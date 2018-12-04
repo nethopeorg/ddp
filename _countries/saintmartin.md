@@ -10,6 +10,8 @@ plug_types: C,F
 key_orgs: Digicel,Dauphin Telecom
 hdx_url: https://data.humdata.org/group/maf
 gadm_bound: https://data.humdata.org/dataset/saint-martin-administrative-level-0-nation-boundaries
+global_airports_wfp: https://data.humdata.org/dataset/global-logistics
+global_ports_wfp: https://data.humdata.org/dataset/global-ports
 global_healthsites: https://healthsites.io/#country-data
 inform_url: http://www.inform-index.org/Portals/0/Inform/2018/country_profiles/MAF.pdf
 inform_index:

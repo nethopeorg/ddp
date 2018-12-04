@@ -10,6 +10,9 @@ plug_types: A,B
 key_orgs: Microsoft Dominican Republic,Cisco Dominican Republic,World Food Program,UNICEF,C&W Business,NAP del Caribe,INDOTEL,America Movil,Claro Dominican Republic,Altice
 hdx_url: https://data.humdata.org/group/dom
 hot_roads: https://data.humdata.org/dataset/hotosm_dom_roads
+our_airports: https://data.humdata.org/dataset/ourairports-dom
+global_airports_wfp: https://data.humdata.org/dataset/global-logistics
+global_ports_wfp: https://data.humdata.org/dataset/global-ports
 bound_ons: https://data.humdata.org/dataset/dominican-republic-administrative-boundaries-levels-0-6
 worldpop_hdx: https://data.humdata.org/dataset/worldpop-dominican-republic
 global_healthsites: https://healthsites.io/#country-data

@@ -10,6 +10,9 @@ plug_types: A,B
 key_orgs: BTC Bahamas,ALIV,Batelnet,Utilities Regulation and Competition Authority,Cable Bahamas,Bahamas WiMax
 hdx_url: https://data.humdata.org/group/bhs
 hot_roads: https://data.humdata.org/dataset/hotosm_bhs_roads
+our_airports: https://data.humdata.org/dataset/ourairports-bhs
+global_airports_wfp: https://data.humdata.org/dataset/global-logistics
+global_ports_wfp: https://data.humdata.org/dataset/global-ports
 bound_gadm: https://data.humdata.org/dataset/bahamas-administrative-boundaries-level-0-1
 global_healthsites: https://healthsites.io/#country-data
 inform_url: http://www.inform-index.org/Portals/0/Inform/2018/country_profiles/BHS.pdf

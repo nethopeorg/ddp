@@ -13,6 +13,9 @@ hot_roads: https://data.humdata.org/dataset/hotosm_dma_roads
 bound_gadm: https://data.humdata.org/dataset/dominica-administrative-level-0-national-and-level-1-boundaries-form-gadm
 global_healthsites: https://healthsites.io/#country-data
 floodhaz_charim: http://www.charim-geonode.net/layers/geonode:floodhazarddom160412
+our_airports: https://data.humdata.org/dataset/ourairports-dma
+global_airports_wfp: https://data.humdata.org/dataset/global-logistics
+global_ports_wfp: https://data.humdata.org/dataset/global-ports
 airports_areas_charim: http://www.charim-geonode.net/layers/geonode:airports_areas
 inform_url: http://www.inform-index.org/Portals/0/Inform/2018/country_profiles/DMA.pdf
 inform_index: 2.9

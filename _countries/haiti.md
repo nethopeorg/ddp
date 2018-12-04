@@ -10,6 +10,9 @@ plug_types: A,B
 key_orgs: 'Digicel,Microsoft Puerto Rico,CONATEL Haiti,World Food Program,Électricité D''Haïti,AHTIC'
 hdx_url: https://data.humdata.org/group/hti
 hot_roads: https://data.humdata.org/dataset/hotosm_hti_roads
+our_airports: https://data.humdata.org/dataset/ourairports-hti
+global_airports_wfp: https://data.humdata.org/dataset/global-logistics
+global_ports_wfp: https://data.humdata.org/dataset/global-ports
 bound_cnigs: https://data.humdata.org/dataset/hti-polbndl-adm1-cnigs-zip
 worldpop_hdx: https://data.humdata.org/dataset/worldpop-haiti
 global_healthsites_hdx: https://data.humdata.org/dataset/haiti-healthsites

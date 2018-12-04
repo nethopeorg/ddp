@@ -10,6 +10,9 @@ plug_types: A,B
 key_orgs: One Communications,Digicel,Fort Knox Bermuda,Microsoft Trinidad and Tobago,TeleBermuda
 hdx_url: https://data.humdata.org/group/bmu
 hot_roads: https://data.humdata.org/dataset/hotosm_brb_roads
+our_airports: https://data.humdata.org/dataset/ourairports-bmu
+global_airports_wfp: https://data.humdata.org/dataset/global-logistics
+global_ports_wfp: https://data.humdata.org/dataset/global-ports
 bound_gadm: https://data.humdata.org/dataset/bermuda-administrative-level-0-country-and-level-1-parish-or-municipality-boundaries
 global_healthsites: https://healthsites.io/#country-data
 inform_url: http://www.inform-index.org/Portals/0/Inform/2018/country_profiles/BMU.pdf

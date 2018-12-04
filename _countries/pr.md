@@ -17,6 +17,8 @@ admin_munic_barrio_nh: https://data.humdata.org/dataset/puerto-rico-admin-region
 admin_munic_city_nh: https://data.humdata.org/dataset/puerto-rico-cities-and-municipalities-database
 3w_PR_nh: https://data.humdata.org/dataset/nethope-member-3w-locations
 airports_hdx: https://data.humdata.org/dataset/ourairports-pri
+global_airports_wfp: https://data.humdata.org/dataset/global-logistics
+global_ports_wfp: https://data.humdata.org/dataset/global-ports
 worldpop_hdx: https://data.humdata.org/dataset/worldpop-puerto-rico
 global_healthsites: https://healthsites.io/#country-data
 inform_url: http://www.inform-index.org/Portals/0/Inform/2018/country_profiles/PRI.pdf
