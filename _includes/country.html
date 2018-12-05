@@ -1,14 +1,14 @@
 <!-- remember that page has the name space, not site -->
 <h1>{{ page.name }}</h1>
 
-<table>
-<tr><td>country_code:</td><td>{{ page.country_code }}</td></tr>
-<tr><td>official_name:</td><td>{{ page.official_name }}</td></tr>
-<tr><td>capital:</td><td>{{ page.capital }}</td></tr>
-<tr><td>tel_code:</td><td>{{ page.tel_code }}</td></tr>
-<tr><td>voltage:</td><td>{{ page.voltage }}</td></tr>
-<tr><td>plug_types:</td><td>{{ page.plug_types }}</td></tr>
-<tr><td>Tampere Convention Signatory?</td><td>{{ page.tampere_sig }}</td></tr>
+<table class="booktabs">
+<tr><td>country_code:</td><td class="r">{{ page.country_code }}</td></tr>
+<tr><td>official_name:</td><td class="r">{{ page.official_name }}</td></tr>
+<tr><td>capital:</td><td class="r">{{ page.capital }}</td></tr>
+<tr><td>tel_code:</td><td class="r">{{ page.tel_code }}</td></tr>
+<tr><td>voltage:</td><td class="r">{{ page.voltage }}</td></tr>
+<tr><td>plug_types:</td><td class="r">{{ page.plug_types }}</td></tr>
+<tr><td>Tampere Convention Signatory?</td><td class="r">{{ page.tampere_sig }}</td></tr>
 </table>
 <!---
 <h2>key_orgs</h2>
@@ -16,19 +16,25 @@
 -->
 
 <h2>Humanitarian Data Sets</h2>
-<table>
-<tr><td>HDX</td><td><a href="{{ page.hdx_url }}">{{ page.hdx_url }}</a></td></tr>
-<tr><td>COD</td><td><a href="{{ page.cod_url }}">{{ page.cod_url }}</a></td></tr>
-<tr><td>INFORM Risk Index</td><td><a href="{{ page.inform_url }}">{{ page.inform_url }}</a></td></tr>
-<tr><td>INFORM Score</td><td>{{ page.inform_index }}</td></tr>
-<tr><td>Logistics Cluster Page</td><td><a href="{{ page.lca_url }}">{{ page.lca_url }}</a></td></tr>
-<tr><td>OpenStreetMap Road Extracts</td><td><a href="{{ page.hot_roads }}">{{ page.hot_roads }}</a></td></tr>
+<table class="booktabs">
+<tr><td>HDX</td><td class="r"><a href="{{ page.hdx_url }}">{{ page.hdx_url }}</a></td></tr>
+<tr><td>COD</td><td class="r"><a href="{{ page.cod_url }}">{{ page.cod_url }}</a></td></tr>
+<tr><td>INFORM Risk Index</td><td class="r"><a href="{{ page.inform_url }}">{{ page.inform_url }}</a></td></tr>
+<tr><td>INFORM Score</td><td class="r">{{ page.inform_index }}</td></tr>
+<tr><td>Logistics Cluster Page</td><td class="r"><a href="{{ page.lca_url }}">{{ page.lca_url }}</a></td></tr>
+<tr><td>OpenStreetMap Road Extracts</td><td class="r"><a href="{{ page.hot_roads }}">{{ page.hot_roads }}</a></td></tr>
+<tr><td>our_airports</td><td class="r"><a href="{{ page.our_airports }}">{{page.our_airports}}</a></td></tr>
+<tr><td>global_airports_wfp</td><td class="r"><a href="{{ page.global_airports_wfp }}">{{ page.global_airports_wfp }}</a></td></tr>
+<tr><td>global_ports_wfp</td><td class="r"><a href="{{ page.global_ports_wf }}">{{ page.global_ports_wf }}</a></td></tr>
+<tr><td>bound_gadm</td><td class="r"><a href="{{ page.bound_gadm }}">{{ page.bound_gadm }}</a></td></tr>
+<tr><td>worldpop_hdx</td><td class="r"><a href="{{ page.worldpop_hdx }}">{{ page.worldpop_hdx }}</a></td></tr>
+<tr><td>global_healthsites</td><td class="r"><a href="{{ page.global_healthsites }}">{{ page.global_healthsites }}</a></td></tr>
 </table>
 
 <h2>Demographics</h2>
-<table>
-<tr><td>Population (2016)</td><td>{{ page.pop_2016 }}</td></tr>
-<tr><td>GDP 2016</td><td>{{ page.gdp_2016 }}</td></tr>
-<tr><td>Fixed Line Subscribers</td><td>{{ page.fixed_line_subscribers }}</td></tr>
-<tr><td>Mobile Subscribers</td><td>{{ page.mobile_subscribers }}</td></tr>
+<table class="booktabs">
+<tr><td>Population (2016)</td><td class="r">{{ page.pop_2016 }}</td></tr>
+<tr><td>GDP 2016</td><td class="r">{{ page.gdp_2016 }}</td></tr>
+<tr><td>Fixed Line Subscribers</td><td class="r">{{ page.fixed_line_subscribers }}</td></tr>
+<tr><td>Mobile Subscribers</td><td class="r">{{ page.mobile_subscribers }}</td></tr>
 </table>

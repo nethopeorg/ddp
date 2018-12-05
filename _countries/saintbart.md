@@ -12,7 +12,6 @@ hdx_url: https://data.humdata.org/group/blm
 roads_hot: https://data.humdata.org/dataset/hotosm_blm_roads
 map_ref_mapaction_osm: https://maps.mapaction.org/dataset/openstreetmap-of-saint-barts
 bound_gadm: https://data.humdata.org/dataset/saint-barthelemy-administrative-level-1-department-boundary
-https://data.humdata.org/dataset/ourairports-blm
 our_airports: https://data.humdata.org/dataset/ourairports-blm
 global_airports_wfp: https://data.humdata.org/dataset/global-logistics
 global_ports_wfp: https://data.humdata.org/dataset/global-ports
