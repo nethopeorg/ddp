@@ -8,10 +8,11 @@ tel_code: 1767
 voltage: 230V/50Hz
 plug_types: D,G
 key_orgs: Flow,Digicel,Microsoft Trinidad and Tobago,C&W Business,National Telecommunication Regulatory Commission Dominica,ECTEL (Eastern Caribbean Telecommunications Authority),Marpin 2K4,Dominica National Internet Exchange Point
-dma_website: http://www.odm.gov.dm/
+dma_website: [Office of Disaster Management](http://www.odm.gov.dm/)
 contact_list_hum: https://docs.google.com/spreadsheets/d/1vcucPQrFhkSk-23eniyJfpfbPoSS9yBBEXEVdjkfe_8/edit#gid=0
 hdx_url: https://data.humdata.org/group/dma
 roads_hot: https://data.humdata.org/dataset/hotosm_dma_roads
+osm_relation: https://www.openstreetmap.org/relation/307823
 bound_gadm: https://data.humdata.org/dataset/dominica-administrative-level-0-national-and-level-1-boundaries-form-gadm
 global_healthsites: https://healthsites.io/#country-data
 floodhaz_charim: http://www.charim-geonode.net/layers/geonode:floodhazarddom160412

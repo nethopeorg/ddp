@@ -10,6 +10,7 @@ plug_types:
 key_orgs: Bureau Telecomunications en Post,TelEm,Smitcoms,Open Caribbean Internet eXchange
 dma_website: [Office of Disaster Management](http://www.sintmaartengov.org/PressReleases/Pages/Office-of-Disaster-Management-Review-Now-Your-Disaster-Supply-Kit23.aspx)
 hdx_url: https://data.humdata.org/group/sxm
+osm_relation: https://www.openstreetmap.org/relation/1231790
 bound_vromi: https://data.humdata.org/dataset/sint-maarten-administrative-level-0-1-boundaries
 global_airports_wfp: https://data.humdata.org/dataset/global-logistics
 global_ports_wfp: https://data.humdata.org/dataset/global-ports

@@ -12,6 +12,7 @@ dma_website: [Virgin Islands Territorial Emergency Management Agency](http://www
 dma_contacts: http://www.vitema.vi.gov/about/contact-us
 hdx_url: https://data.humdata.org/group/vir
 roads_hot: https://data.humdata.org/dataset/hotosm_vir_roads
+osm_relation: https://www.openstreetmap.org/relation/286898
 our_airports: https://data.humdata.org/dataset/ourairports-vir
 global_airports_wfp: https://data.humdata.org/dataset/global-logistics
 global_ports_wfp: https://data.humdata.org/dataset/global-ports

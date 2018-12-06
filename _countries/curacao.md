@@ -11,6 +11,7 @@ key_orgs: Flow,Digicel,C&W Business,Bureau Telecomunications en Post,UTS,Carribe
 dma_website: [Disaster Management Organisation](https://www.kalamidat.cw/en/drr/rbo/)
 hdx_url: https://data.humdata.org/group/cuw
 roads_hot: https://data.humdata.org/dataset/hotosm_cuw_roads
+osm_relation: https://www.openstreetmap.org/relation/1216719
 bound_gadm: https://data.humdata.org/dataset/curacao-administrative-level-0-national-boundary
 global_airports_wfp: https://data.humdata.org/dataset/global-logistics
 global_ports_wfp: https://data.humdata.org/dataset/global-ports

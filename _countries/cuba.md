@@ -8,9 +8,10 @@ tel_code: 53
 voltage: 110V/60Hz
 plug_types: A,B
 key_orgs: ETESCA,World Food Program,UNICEF,NAP de Cuba,Ministry of Informatics and Communications,Intelsat,NewCom International
-dma_website: http://www.cubagob.cu/otras_info/minfar/defcivil/defensa_civil.htm
+dma_website: [Defensa Civil](http://www.cubagob.cu/otras_info/minfar/defcivil/defensa_civil.htm)
 hdx_url: https://data.humdata.org/group/cub
 roads_hot: https://data.humdata.org/dataset/hotosm_cub_roads
+osm_relation: https://www.openstreetmap.org/relation/307833
 our_airports: https://data.humdata.org/dataset/ourairports-cub
 global_airports_wfp: https://data.humdata.org/dataset/global-logistics
 global_ports_wfp: https://data.humdata.org/dataset/global-ports

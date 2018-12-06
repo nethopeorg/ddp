@@ -9,6 +9,7 @@ voltage: 127V/50Hz,220V/50Hz
 plug_types: A,B,C,F
 key_orgs: Digicel,Bureau Telecomunications en Post,Telbo,Kla Mobile
 hdx_url: https://data.humdata.org/group/bes
+osm_relation: https://www.openstreetmap.org/relation/2324450
 map_ref_ocha_location: https://reliefweb.int/map/bonaire-saint-eustatius-and-saba-netherlands/bonaire-saint-eustatius-and-saba-nl-location-map
 bound_gadm: https://data.humdata.org/dataset/caribbean-netherlands-bonaire-sint-eustatius-and-saba
 global_airports_wfp: https://data.humdata.org/dataset/global-logistics

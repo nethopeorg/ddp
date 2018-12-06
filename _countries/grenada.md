@@ -11,6 +11,7 @@ key_orgs: Flow,Digicel,C&W Business,ECTEL (Eastern Caribbean Telecommunications 
 dma_website: [National Disaster Management Agency](https://www.gov.gd/departments/nadma.html)
 hdx_url: https://data.humdata.org/group/grd
 roads_hot: https://data.humdata.org/dataset/hotosm_grd_roads
+osm_relation: https://www.openstreetmap.org/relation/550727
 our_airports: https://data.humdata.org/dataset/ourairports-grd
 global_airports_wfp: https://data.humdata.org/dataset/global-logistics
 global_ports_wfp: https://data.humdata.org/dataset/global-ports

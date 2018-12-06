@@ -8,9 +8,10 @@ tel_code: 1441
 voltage: 120V/60Hz
 plug_types: A,B
 key_orgs: One Communications,Digicel,Fort Knox Bermuda,Microsoft Trinidad and Tobago,TeleBermuda
-dma_website: https://www.gov.bm/department/emergency-measures-organisation
+dma_website: [Emergency Measures Organisation](https://www.gov.bm/department/emergency-measures-organisation)
 hdx_url: https://data.humdata.org/group/bmu
 roads_hot: https://data.humdata.org/dataset/hotosm_brb_roads
+osm_relation: https://www.openstreetmap.org/relation/1993208
 our_airports: https://data.humdata.org/dataset/ourairports-bmu
 global_airports_wfp: https://data.humdata.org/dataset/global-logistics
 global_ports_wfp: https://data.humdata.org/dataset/global-ports

@@ -8,9 +8,10 @@ tel_code: 1242
 voltage: 120V/60Hz
 plug_types: A,B
 key_orgs: BTC Bahamas,ALIV,Batelnet,Utilities Regulation and Competition Authority,Cable Bahamas,Bahamas WiMax
-dma_website: https://www.bahamas.gov.bs/wps/portal/public/gov/government/contacts/agencies/government%20departments/national%20emergency%20management%20agency(nema)
+dma_website: [National Emergency Management Agency](https://www.bahamas.gov.bs/wps/portal/public/gov/government/contacts/agencies/government%20departments/national%20emergency%20management%20agency(nema))
 hdx_url: https://data.humdata.org/group/bhs
 roads_hot: https://data.humdata.org/dataset/hotosm_bhs_roads
+osm_relation: https://www.openstreetmap.org/relation/547469
 our_airports: https://data.humdata.org/dataset/ourairports-bhs
 global_airports_wfp: https://data.humdata.org/dataset/global-logistics
 global_ports_wfp: https://data.humdata.org/dataset/global-ports
