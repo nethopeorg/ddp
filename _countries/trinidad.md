@@ -8,7 +8,9 @@ tel_code: 1868
 voltage: 115V/60Hz
 plug_types: A,B
 key_orgs: Flow,Digicel,Microsoft Trinidad and Tobago,C&W Business,Trinidad and Tobago Internet Exchange,Air Link Networks,Fujitsu Carribean
+dma_website: [Office of Disaster Preparedness and Management](http://odpm.gov.tt/)
 hdx_url: https://data.humdata.org/group/tto
+map_ref_ocha_location: https://reliefweb.int/map/trinidad-and-tobago/trinidad-and-tobago-location-map-2013
 roads_hot: https://data.humdata.org/dataset/hotosm_tto_roads
 bound_gadm: https://data.humdata.org/dataset/trinidad-and-tobago-administrative-level-0-national-and-1-region-and-municipality-boundaries
 our_airports: https://data.humdata.org/dataset/ourairports-tto

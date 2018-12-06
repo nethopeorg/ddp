@@ -8,6 +8,7 @@ tel_code: 1284
 voltage: 110V/60Hz
 plug_types: A,B
 key_orgs: Flow,Digicel,BVI Telecommunications Regulatory Commission,C&W Business,British Virgin Islands IXP
+dma_website: http://www.bviddm.com/
 hdx_url: https://data.humdata.org/group/vgb
 roads_hot: https://data.humdata.org/dataset/hotosm_vgb_roads
 map_ref_mapaction_osm: https://maps.mapaction.org/dataset/openstreetmap-of-virgin-gorda-british-virgin-islands

@@ -8,6 +8,7 @@ tel_code: +1809, +1829, +1849
 voltage: 110V/60Hz
 plug_types: A,B
 key_orgs: Microsoft Dominican Republic,Cisco Dominican Republic,World Food Program,UNICEF,C&W Business,NAP del Caribe,INDOTEL,America Movil,Claro Dominican Republic,Altice
+dma_website: http://www.defensacivil.gob.do/comision-nacional-de-emergencias-cne
 hdx_url: https://data.humdata.org/group/dom
 roads_hot: https://data.humdata.org/dataset/hotosm_dom_roads
 our_airports: https://data.humdata.org/dataset/ourairports-dom

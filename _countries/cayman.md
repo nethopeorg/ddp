@@ -8,6 +8,7 @@ tel_code: 1345
 voltage: 120V/60Hz
 plug_types: A,B
 key_orgs: Flow,Digicel,Microsoft Trinidad and Tobago,TeleCayman,Utility  Regulation  and  Competition  Office (OfReg),C&W Business,Logic Communications
+dma_website: http://www.caymanprepared.gov.ky/portal/page/portal/hmchome
 hdx_url: https://data.humdata.org/group/cym
 roads_hot: https://data.humdata.org/dataset/hotosm_cym_roads
 our_airports: https://data.humdata.org/dataset/ourairports-cym
