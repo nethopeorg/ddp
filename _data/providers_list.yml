@@ -1,0 +1,806 @@
+---
+-
+    Name: Access Haiti
+    Org_type: Internet Service Provider,Mobile Network Operator
+    Notes:
+    Country: HTI
+    URL: http://www.accesshaiti.com/
+    Sites:
+-
+    Name: ALBA-1
+    Org_type: Undersea Cable
+    Notes: "This cable terminates at La Guaira, Venezuela\n\nOwned by Transbit, Telecom Venezuela"
+    Country: CUB
+    URL:
+    Sites: Ocho Rios,Santiago de Cuba,Siboney
+-
+    Name: ALIV
+    Org_type: Mobile Network Operator
+    Notes:
+    Country: BHS
+    URL: https://www.bealiv.com/
+    Sites:
+-
+    Name: Alonso de Ojeda
+    Org_type: Undersea Cable
+    Notes: Owned by Antelcom and Setar
+    Country: ABW, CUW
+    URL:
+    Sites: Baby Beach, Willemstad
+-
+    Name: Americas-I-North
+    Org_type: Undersea Cable
+    Notes: Owned by AT&T, CANTV, Embratel, TSTT
+    Country: VIR
+    URL:
+    Sites: 'Magen''s Bay'
+-
+    Name: Americas-II
+    Org_type: Undersea Cable
+    Notes: Owned by Embratel, AT&T, Verizon, Sprint, CANTV, Tata Communications, CNT, Orange, Portugal Telecom, C&W Networks, Telecom Italia Sparkle, CenturyLink
+    Country:
+    URL:
+    Sites: Le Lamentin,Miramar,Port of Spain,St. Croix,Willemstad
+-
+    Name: Amerigo Vespucci
+    Org_type: Undersea Cable
+    Notes: Owned by Antelecom
+    Country:
+    URL:
+    Sites: Kralendijk,Willemstad
+-
+    Name: AMX-1
+    Org_type: Undersea Cable
+    Notes: "Full name is America Movil Submarine Cable System-1.\nOwned by América Móvil"
+    Country:
+    URL: http://www.americamovil.com
+    Sites: Puerto Plata,San Juan
+-
+    Name: Antillas 1
+    Org_type: Undersea Cable
+    Notes: Owned by AT&T, Verizon, Sprint, Tata Communications, Orange, C&W Networks, Telecom Italia Sparkle, Embratel
+    Country:
+    URL:
+    Sites: Miramar,Punta Cana,Santo Domingo,Isla Verde
+-
+    Name: Apua
+    Org_type: Mobile Network Operator,Internet Service Provider
+    Notes:
+    Country: Antigua and Barbuda
+    URL: http://www.apua.ag/business/telecoms/
+    Sites:
+-
+    Name: ARCEP
+    Org_type: Government Ministry
+    Notes: ARCEP is the French Telecoms Authority, with responsibility for
+    Country: Martinique,Guadeloupe
+    URL:
+    Sites:
+-
+    Name: ARCOS
+    Org_type: Undersea Cable
+    Notes: Owned by C&W Networks, Axtel, CANTV, Codetel, Hondutel, Belize Telemedia, Enitel, AT&T, Alestra, Verizon, RACSA, United Telecommunication Services (UTS), Telecarrier, Tricom USA, Telecomunicaciones Ultramarinas de Puerto Rico, Internexa, Orbinet Overseas, Telepuerto San Isidro, Bahamas Telecommunications Company, Instituto Costarricense de Electricidad
+    Country:
+    URL: http://www.cwnetworks.com/
+    Sites: Cat Island,Crooked Island,Isla Verde,Nassau,Providenciales,Puerto Plata,Punta Cana,Willemstad
+-
+    Name: Bahamas 2
+    Org_type: Undersea Cable
+    Notes: AT&T, Telefonica, Verizon
+    Country:
+    URL:
+    Sites: Nassau,Eight-Mile Rock
+-
+    Name: Bahamas Domestic Submarine Network
+    Org_type: Undersea Cable
+    Notes: Owned by BTC
+    Country:
+    URL:
+    Sites: Hawksbill,Sandy Point,Cat Island,Clarence Town,Cockburn Town,Crooked Island,Duncan Town,Fresh Creek,George Town,Governors Harbor,Matthew Town,Mayaguana,Nassau,Port Nelson,Port Au Prince
+-
+    Name: Bahamas Internet Cable System
+    Org_type: Undersea Cable
+    Notes: Owned by Carribean Crossings.  Terminates in Boca Raton, Florida and Span
+    Country:
+    URL: http://www.caribbeancrossings.com/
+    Sites: Caves Point,Crown Haven,Current,Hawksbill,Riding Point,Sandy Point
+-
+    Name: Bahamas WiMax
+    Org_type: Internet Service Provider
+    Notes:
+    Country: Bahamas
+    URL: http://www.bahamaswimax.com/
+    Sites:
+-
+    Name: Batelnet
+    Org_type: Internet Service Provider
+    Notes: Part of Bahamas Telecoms
+    Country: Bahamas
+    URL: http://www.batelnet.bs/
+    Sites:
+-
+    Name: BRUSA
+    Org_type: Undersea Cable
+    Notes: "Brazil USA\nOwned by Telxius"
+    Country:
+    URL: http://www.telxius.com
+    Sites: San Juan
+-
+    Name: BTC Bahamas
+    Org_type: Mobile Network Operator,Internet Service Provider,Fixed Line Operator
+    Notes:
+    Country: Bahamas
+    URL: https://www.btcbahamas.com/
+    Sites:
+-
+    Name: Bureau Telecomunications en Post
+    Org_type: Government Ministry
+    Notes:
+    Country: Curaçao,Bonaire,Saba,Sint Maarten,Sint Eustatius
+    URL: https://www.btnp.org/en/
+    Sites:
+-
+    Name: BVI Telecommunications Regulatory Commission
+    Org_type: Government Ministry
+    Notes:
+    Country: British Virgin Islands
+    URL: http://www.bvi.gov.vg/departments/telecommunications-regulatory-commission
+    Sites:
+-
+    Name: C&W Business
+    Org_type: Internet Service Provider,Mobile Network Operator
+    Notes: Parent group owning Flow - C&W looks after business services.
+    Country: Anguilla,Dominica,Curaçao,Cayman Islands,British Virgin Islands,Barbados,Antigua and Barbuda,Domincan Republic,Grenada,Jamaica,Montserrat,Saint Kitts and Nevis,Puerto Rico,Saint Lucia,Trinidad and Tobago,Turks and Caicos Islands
+    URL:
+    Sites: C&W Business Anguilla Office,Flow Curaçao,Flow Dominica,C&W Business Dominican Republic,C&W Business Grenada,C&W Business Jamaica,C&W Business Montserrat,C&W Business St. Kitts & Nevis,C&W Business Puerto Rico,C&W Business St. Lucia,C&W Business St. Vincent & The Grenadines,C&W Business Trinidad & Tobago,C&W Business Turks & Caicos Islands
+-
+    Name: Cable Bahamas
+    Org_type: Mobile Network Operator,Internet Service Provider
+    Notes:
+    Country: Bahamas
+    URL: https://www.cablebahamas.com
+    Sites:
+-
+    Name: Caribbean-Bermuda U.S. (CBUS)
+    Org_type: Undersea Cable
+    Notes: Owned by C&W Networks
+    Country:
+    URL: http://www.cwnetworks.com/
+    Sites: St. Davids,Tortola
+-
+    Name: Cayman-Jamaica Fiber System
+    Org_type: Undersea Cable
+    Notes: Owned by C&W Networks
+    Country:
+    URL: http://www.cwnetworks.com/
+    Sites: Half Moon Bay,Cayman Brac,Kingston
+-
+    Name: Challenger Bermuda-1 (CB-1)
+    Org_type: Undersea Cable
+    Notes: Owned by Cable Co
+    Country:
+    URL: http://cableco.bm
+    Sites: Paget
+-
+    Name: Cisco Dominican Republic
+    Org_type: Nethope Tech Partner
+    Notes:
+    Country: Domincan Republic
+    URL:
+    Sites: Cisco Dominican Republic
+-
+    Name: Cisco Puerto Rico
+    Org_type: Nethope Tech Partner
+    Notes:
+    Country: Puerto Rico
+    URL:
+    Sites: Cisco Puerto Rico
+-
+    Name: Colombia-Florida Subsea Fiber (CFX-1)
+    Org_type: Undersea Cable
+    Notes: Owned by C&W Networks
+    Country:
+    URL: http://www.cwnetworks.com/
+    Sites: Copa Club,Morant Point
+-
+    Name: Columbus-II b
+    Org_type: Undersea Cable
+    Notes: Owned by Columbus 2 consortium
+    Country:
+    URL:
+    Sites: 'Magen''s Bay'
+-
+    Name: CONATEL Haiti
+    Org_type: Government Ministry
+    Notes:
+    Country: Haiti
+    URL: http://www.conatel.gouv.ht/
+    Sites: CONATEL Haiti Offices
+-
+    Name: Dauphin Telecom
+    Org_type: Mobile Network Operator,Fixed Line Operator,Internet Service Provider
+    Notes:
+    Country: Guadeloupe,Martinique,Saint Martin,Saint Barthélemy
+    URL: http://www.dauphintelecom.fr/
+    Sites:
+-
+    Name: Digicel
+    Org_type: Mobile Network Operator
+    Notes:
+    Country: Aruba,Curaçao,Anguilla,Antigua and Barbuda,Barbados,British Virgin Islands,Cayman Islands,Dominica,Grenada,Guadeloupe,Haiti,Jamaica,Martinique,Montserrat,Saint Kitts and Nevis,Saint Barthélemy,Saint Martin,Saint Lucia,Saint Vincent and the Grenadines,Trinidad and Tobago,Turks and Caicos Islands,Bermuda,Bonaire
+    URL: https://www.digicelgroup.com
+    Sites: Digicel Anguilla,Digicel Antigua & Barbuda,Digicel Aruba,Digicel Barbados,Digicel Bermuda,Digicel Bonaire,Digicel British Virgin Islands,Digicel Cayman,Digicel Curacao,Digicel Domininca,Digicel Grenada,Digicel Guadeloupe,Digicel Saint Martin,Digicel Martinique,Digicel Haiti,Digicel Jamaica,Digicel Montserrat,Digicel St. Kitts and Nevis,Digicel St. Lucia,Digicel St. Vincent and the Grenadines,Digicel Trinidad and Tobago,Digicel Turks and Caicos
+-
+    Name: East-West
+    Org_type: Undersea Cable
+    Notes: C&W Networks
+    Country:
+    URL: http://www.cwnetworks.com/
+    Sites: Haina,Harbour View,Nanny Cay
+-
+    Name: Eastern Caribbean Fiber System (ECFS)
+    Org_type: Undersea Cable
+    Notes: Owned by Orange, AT&T, BT, Verizon, Sprint, Guyana Telephone and Telegraph (GT&T), Codetel, C&W Networks
+    Country:
+    URL:
+    Sites: 'Basseterre,Bridgetown,Castries,Chaguaramas,Kingstown,Plymouth,Pointe-a-Pitre,Roseau,Saint Maarten,St. George''s,St. John’s,The Valley,Tortola,Le Lamentin'
+-
+    Name: ECTEL (Eastern Caribbean Telecommunications Authority)
+    Org_type: Government Ministry
+    Notes: ECTEL is the regulatory body for telecommunications in its Member States.
+    Country: Dominica,Grenada,Saint Kitts and Nevis,Saint Lucia,Saint Vincent and the Grenadines
+    URL: https://www.ectel.int/
+    Sites: ECTEL
+-
+    Name: ECLink
+    Org_type: Undersea Cable
+    Notes: Owned by C&W Networks
+    Country:
+    URL: http://www.cwnetworks.com/
+    Sites: Chaguaramas,Willemstad
+-
+    Name: 'Électricité D''Haïti'
+    Org_type: Power Utility
+    Notes:
+    Country: Haiti
+    URL: http://www.edh.ht/
+    Sites: 'Électricité D''Haiti'
+-
+    Name: ETESCA
+    Org_type: Fixed Line Operator,Internet Service Provider,Mobile Network Operator
+    Notes:
+    Country: Cuba
+    URL: http://www.etecsa.cu/
+    Sites:
+-
+    Name: Fair Trading Commission
+    Org_type: Government Ministry
+    Notes: Regulator of fixed lines
+    Country: Barbados
+    URL: https://www.ftc.gov.bb/
+    Sites:
+-
+    Name: Fibralink
+    Org_type: Undersea Cable
+    Notes: C&W Networks
+    Country:
+    URL: http://www.cwnetworks.com/
+    Sites: Bull Bay,Kaliko,Puerto Plata
+-
+    Name: Flow
+    Org_type: Mobile Network Operator,Fixed Line Operator
+    Notes:
+    Country: Anguilla,Antigua and Barbuda,Barbados,British Virgin Islands,Cayman Islands,Curaçao,Dominica,Grenada,Jamaica,Montserrat,Saint Kitts and Nevis,Saint Lucia,Saint Vincent and the Grenadines,Trinidad and Tobago,Turks and Caicos Islands
+    URL: https://discoverflow.co/
+    Sites: Flow Cayman Islands Customer Care,Flow BVI Main Office,Flow Antigua,Flow Barbados,Flow Anguilla,Flow Curaçao,Flow Dominica,Flow Grenada,C&W Business Jamaica,C&W Business Montserrat,C&W Business St. Kitts & Nevis,C&W Business St. Vincent & The Grenadines,C&W Business Turks & Caicos Islands
+-
+    Name: Fort Knox Bermuda
+    Org_type: Internet Service Provider
+    Notes:
+    Country: Bermuda
+    URL: http://www.fortknox.bm
+    Sites:
+-
+    Name: Gemini Bermuda
+    Org_type: Undersea Cable
+    Notes: Owned by C&W Networks
+    Country:
+    URL: http://www.cwnetworks.com
+    Sites: St. Davids
+-
+    Name: Global Caribbean Network (GCN)
+    Org_type: Undersea Cable
+    Notes: Owned by Leucadia National Corporation, Loret Group
+    Country:
+    URL: http://www.globalcaribbean.net
+    Sites: Baillif,Jarry,Saint Barthelemy,Saint Martin,San Juan,St. Croix
+-
+    Name: Logic Communications
+    Org_type: Internet Service Provider
+    Notes:
+    Country: Cayman Islands
+    URL: https://www.logic.ky/
+    Sites: Logic Communications
+-
+    Name: Marpin 2K4
+    Org_type: Internet Service Provider,Fixed Line Operator
+    Notes:
+    Country: Dominica
+    URL: http://www.marpin2k4.com/main/companyinfo.php
+    Sites: Marpin 2K4
+-
+    Name: Maya-1
+    Org_type: Undersea Cable
+    Notes: Owned by Verizon, AT&T, Sprint, Hondutel, Telefonica, Orbitel, Telecom Italia Sparkle, C&W Networks, Embratel, ETB, Axtel, Instituto Costarricense de Electricidad, BICS, Prepa Networks, Orange, Tricom, RSL Telecom, América Móvil
+    Country:
+    URL:
+    Sites: Half Moon Bay
+-
+    Name: Mediaserv
+    Org_type: Mobile Network Operator,Internet Service Provider,Fixed Line Operator
+    Notes:
+    Country: Guadeloupe,Martinique
+    URL: https://www.mediaserv.com/
+    Sites:
+-
+    Name: MICA
+    Org_type: Government Ministry
+    Notes: Montserrat Info-Communication Agency
+    Country: Montserrat
+    URL: http://www.mica.ms/
+    Sites:
+-
+    Name: Microsoft Dominican Republic
+    Org_type: Nethope Tech Partner
+    Notes:
+    Country: Domincan Republic
+    URL:
+    Sites: Microsoft Dominican Republic
+-
+    Name: Microsoft Jamaica
+    Org_type: Nethope Tech Partner
+    Notes:
+    Country: Jamaica
+    URL:
+    Sites: Microsoft Jamaica
+-
+    Name: Microsoft Puerto Rico
+    Org_type: Nethope Tech Partner
+    Notes:
+    Country: Puerto Rico,Haiti,Saint Barthélemy
+    URL:
+    Sites: Microsoft Puerto Rico
+-
+    Name: Microsoft Trinidad and Tobago
+    Org_type: Nethope Tech Partner
+    Notes:
+    Country: Trinidad and Tobago,Anguilla,Antigua and Barbuda,Aruba,Barbados,Bermuda,Cayman Islands,Dominica,Guadeloupe,Martinique,Montserrat,Saint Kitts and Nevis,Saint Lucia,Saint Vincent and the Grenadines,Turks and Caicos Islands
+    URL:
+    Sites: Microsoft Trinidad and Tobago
+-
+    Name: Mid-Atlantic Crossing (MAC)
+    Org_type: Undersea Cable
+    Notes: Owned by CenturyLink
+    Country:
+    URL: http://www.centurylink.com/wholesale/
+    Sites: St. Croix
+-
+    Name: Ministry of Communications, Works, Energy and Labour
+    Org_type: Government Ministry
+    Notes:
+    Country: Montserrat
+    URL: http://www.gov.ms/ministries-and-departments/ministry-of-communications-works-labour/
+    Sites:
+-
+    Name: Ministry of Infrastructure, Communications, Utilitie and Housing
+    Org_type: Government Ministry
+    Notes:
+    Country: Anguilla
+    URL: http://www.gov.ai/ministry.php?id=5
+    Sites:
+-
+    Name: Ministry of Telecommunications, Science and Technology
+    Org_type: Government Ministry
+    Notes:
+    Country: Antigua and Barbuda
+    URL: http://telecom.gov.ag/
+    Sites:
+-
+    Name: Ministry of Transport, Communications and Primary Sector
+    Org_type: Government Ministry
+    Notes:
+    Country: Aruba
+    URL: https://www.overheid.aw/governance-administration/ministry-of-transport-communications-and-primary-sector_41001/
+    Sites:
+-
+    Name: MIO
+    Org_type: Mobile Network Operator
+    Notes: Was nationalised for non-payment of fees in 2017 - possibly defunct?
+    Country: Aruba
+    URL: http://www.mioaruba.com/
+    Sites:
+-
+    Name: National Telecommunication Regulatory Commission Dominica
+    Org_type: Government Ministry
+    Notes:
+    Country: Dominica
+    URL: http://www.ntrcdom.org/
+    Sites:
+-
+    Name: National Telecommunications Regulatory Commission of Grenada
+    Org_type: Government Ministry
+    Notes:
+    Country: Grenada
+    URL: http://ntrc.gd/
+    Sites: NTRC Grenada
+-
+    Name: One Communications
+    Org_type: Mobile Network Operator,Internet Service Provider
+    Notes:
+    Country: Bermuda
+    URL: https://onecomm.bm/
+    Sites:
+-
+    Name: Orange Caraibe
+    Org_type: Mobile Network Operator,Internet Service Provider
+    Notes: Formerly France Telecom
+    Country: Guadeloupe
+    URL: https://caraibe.orange.fr/
+    Sites:
+-
+    Name: Ozone Wireless
+    Org_type: Mobile Network Operator
+    Notes:
+    Country: Barbados
+    URL: https://www.ozonewireless.com
+    Sites:
+-
+    Name: Pacific Caribbean Cable System (PCCS)
+    Org_type: Undersea Cable
+    Notes: Owned by C&W Networks, Telconet, Setar, United Telecommunication Services (UTS), Telxius
+    Country:
+    URL:
+    Sites: Hudishibana,Mahuma,San Juan,Tortola
+-
+    Name: Pan American (PAN-AM)
+    Org_type: Undersea Cable
+    Notes: Owned by AT&T, Telefonica del Peru, Softbank Telecom, Telecom Italia Sparkle, Sprint, CANTV, Tata Communications, Telefónica de Argentina, Telstra, Verizon, Entel Chile, Telecom Argentina, Telconet, Instituto Costarricense de Electricidad, C&W Networks, Embratel, CNT
+    Country:
+    URL:
+    Sites: Baby Beach,St. Croix,St. Thomas
+-
+    Name: Pan-American Crossing (PAC)
+    Org_type: Undersea Cable
+    Notes: Owned by CenturyLink
+    Country:
+    URL: http://www.centurylink.com/wholesale/
+    Sites: St. Croix
+-
+    Name: Saint Maarten Puerto Rico Network One (SMPR-1)
+    Org_type: Undersea Cable
+    Notes: Owned by TelEm Group, Dauphin Telecom
+    Country:
+    URL:
+    Sites: Baie Longue,Isla Verde,Philipsburg
+-
+    Name: Setar
+    Org_type: Mobile Network Operator,Internet Service Provider,Fixed Line Operator
+    Notes:
+    Country: Aruba
+    URL: https://www.setar.aw/
+    Sites:
+-
+    Name: SFR Caraïbes
+    Org_type: Mobile Network Operator,Internet Service Provider,Fixed Line Operator
+    Notes:
+    Country: Guadeloupe,Martinique
+    URL: https://www.sfrcaraibe.fr/
+    Sites:
+-
+    Name: South America-1 (SAm-1)
+    Org_type: Undersea Cable
+    Notes: Owned by Telxius
+    Country:
+    URL: http://www.telxius.com/
+    Sites: Punta Cana,San Juan
+-
+    Name: South American Crossing (SAC)
+    Org_type: Undersea Cable
+    Notes: Owned by Telecom Italia Sparkle, CenturyLink
+    Country:
+    URL: http://www.centurylink.com/wholesale/
+    Sites: St. Croix
+-
+    Name: Southern Caribbean Fiber (SCF-CN)
+    Org_type: Undersea Cable
+    Notes: Owned by Digicel
+    Country:
+    URL: http://southern-caribbean.com
+    Sites: 'Baie-Mahault,Baillif,Basseterre,Canefield,Chaguaramas,Gustavia,Kingstown,Le Lamentin,Needham’s Point,Rodney Bay,San Juan,St. Croix,St. George''s,St. John’s,St. Louis'
+-
+    Name: Suriname-Guyana Submarine Cable System (SG-SCS)
+    Org_type: Undersea Cable
+    Notes: Owned by Guyana Telephone and Telegraph (GT&T), Telesur
+    Country:
+    URL:
+    Sites: Chaguaramas
+-
+    Name: TeleBermuda
+    Org_type: Mobile Network Operator,Fixed Line Operator,Internet Service Provider
+    Notes: Purchased by East End Group and Celeritas
+    Country: Bermuda
+    URL: https://telebermuda.com/
+    Sites:
+-
+    Name: TeleCayman
+    Org_type: Mobile Network Operator
+    Notes: Owned by TeleBermuda Ltd.  Unclear what, if any, services they are delivering in Cayman Islands
+    Country: Cayman Islands
+    URL: https://telebermuda.com/about/news-info-detail.php?id=41
+    Sites:
+-
+    Name: UNICEF
+    Org_type: UN Agency
+    Notes:
+    Country: Barbados,Jamaica,Cuba,Domincan Republic
+    URL:
+    Sites: UNICEF Eastern Caribbean Area Office,UNICEF Jamaica,UNICEF Cuba,UNICEF Dominican Republic Office
+-
+    Name: Utilities Regulation and Competition Authority
+    Org_type: Government Ministry
+    Notes:
+    Country: Bahamas
+    URL: https://www.urcabahamas.bs/
+    Sites:
+-
+    Name: Utility  Regulation  and  Competition  Office (OfReg)
+    Org_type: Government Ministry
+    Notes:
+    Country: Cayman Islands
+    URL: http://www.ofreg.ky/
+    Sites:
+-
+    Name: World Food Program
+    Org_type: UN Agency
+    Notes:
+    Country: Cuba,Domincan Republic,Haiti
+    URL: http://www1.wfp.org/
+    Sites: WFP Cuba Office,WFP Office Dominican Republic,WFP Office Haiti
+-
+    Name: UTS
+    Org_type: Mobile Network Operator,Internet Service Provider,Fixed Line Operator
+    Notes:
+    Country: Curaçao
+    URL: https://www.uts.cw/
+    Sites: UTS Head Office
+-
+    Name: TelEm
+    Org_type: Mobile Network Operator,Internet Service Provider
+    Notes:
+    Country: Sint Maarten
+    URL: http://www.telemgroup.sx/
+    Sites: TelEm Main Branch
+-
+    Name: Smitcoms
+    Org_type: Fixed Line Operator
+    Notes:
+    Country: Sint Maarten
+    URL: http://www.telemgroup.sx/smitcoms/
+    Sites: TelEm Main Branch
+-
+    Name: Eutel
+    Org_type: Fixed Line Operator,Internet Service Provider
+    Notes:
+    Country: Sint Eustatius
+    URL: http://eutelnv.com/
+    Sites: Eutel Main Office
+-
+    Name: Satel
+    Org_type: Mobile Network Operator,Internet Service Provider
+    Notes:
+    Country: Saba
+    URL: http://www.satelnv.com/
+    Sites: Satel Main Office
+-
+    Name: Telbo
+    Org_type: Internet Service Provider,Fixed Line Operator
+    Notes:
+    Country: Bonaire
+    URL: http://www.telbo.net/index-telbo.html
+    Sites:
+-
+    Name: Kla Mobile
+    Org_type: Mobile Network Operator,Internet Service Provider,Fixed Line Operator
+    Notes:
+    Country: Bonaire
+    URL: http://www.telbo.net/kla/
+    Sites:
+-
+    Name: St. Kitts and Nevis National Telecommunications Regulatory Commission
+    Org_type: Government Ministry
+    Notes:
+    Country: Saint Kitts and Nevis
+    URL: http://www.ntrc.kn/
+    Sites:
+-
+    Name: The Cable
+    Org_type: Internet Service Provider
+    Notes: Active?
+    Country: Saint Kitts and Nevis
+    URL: http://www.thecable.net/domesticinternet.php
+    Sites:
+-
+    Name: St Lucia NTRC
+    Org_type: Government Ministry
+    Notes:
+    Country: Saint Lucia
+    URL: https://www.ntrc.lc/
+    Sites:
+-
+    Name: CARCIP
+    Org_type: Government Ministry
+    Notes: "Carribean Regional Communications Infrastructure Program\nThe development objective of CARCIP is to increase access to regional broadband networks and advance the development of an ICT-enabled services industry in the Caribbean Region."
+    Country: Saint Lucia,Grenada,Saint Vincent and the Grenadines
+    URL: https://www.carcip.govt.lc/
+    Sites:
+-
+    Name: AHTIC
+    Org_type: Internet Exchange
+    Notes: "Located in Boutilliers\nHAICOM\nSee https://prefix.pch.net/applications/ixpdir/detail.php?id=982"
+    Country: Haiti
+    URL: http://ixp.ht/
+    Sites:
+-
+    Name: SLIX
+    Org_type: Internet Exchange
+    Notes: "Located in Castries\nhttps://prefix.pch.net/applications/ixpdir/detail.php?id=1782"
+    Country: Saint Lucia
+    URL: https://www.carcip.govt.lc/slix
+    Sites:
+-
+    Name: NAP de Cuba
+    Org_type: Internet Exchange
+    Notes: https://prefix.pch.net/applications/ixpdir/detail.php?id=52
+    Country: Cuba
+    URL: http://www.etecsa.cu/internet_conectividad/internet/
+    Sites: NAP de Cuba
+-
+    Name: British Virgin Islands IXP
+    Org_type: Internet Exchange
+    Notes: https://prefix.pch.net/applications/ixpdir/detail.php?id=1299
+    Country: British Virgin Islands
+    URL:
+    Sites:
+-
+    Name: Carribean Internet Exchange
+    Org_type: Internet Exchange
+    Notes: "https://prefix.pch.net/applications/ixpdir/detail.php?id=988\n\nConnected parties listed at https://cw.ams-ix.net/connected_parties"
+    Country: Curaçao
+    URL: https://cw.ams-ix.net/
+    Sites: AMS-IX Datacenter
+-
+    Name: Dominica National Internet Exchange Point
+    Org_type: Internet Exchange
+    Notes: https://prefix.pch.net/applications/ixpdir/detail.php?id=1364
+    Country: Dominica
+    URL: http://www.danix.dm/
+    Sites: DANIX
+-
+    Name: NAP del Caribe
+    Org_type: Internet Exchange
+    Notes: "https://prefix.pch.net/applications/ixpdir/detail.php?id=984\n\nConnected parties: http://www.napdelcaribe.net.do/?page_id=38"
+    Country: Domincan Republic
+    URL: http://www.napdelcaribe.net.do/
+    Sites: NAP del Caribe
+-
+    Name: Grenada Internet Exchange
+    Org_type: Internet Exchange
+    Notes: "https://prefix.pch.net/applications/ixpdir/detail.php?id=1297\n\nConnected parties: https://ixgd.wordpress.com/membership/"
+    Country: Grenada
+    URL: https://ixgd.wordpress.com/
+    Sites: NTRC Grenada
+-
+    Name: Jamaica Internet Exchange Point
+    Org_type: Internet Exchange
+    Notes: https://prefix.pch.net/applications/ixpdir/detail.php?id=1814
+    Country: Jamaica
+    URL:
+    Sites: Jamaica Internet Exchange Point
+-
+    Name: Office of Utilities Regulation
+    Org_type: Government Ministry
+    Notes: Operate Jamaica Internet Exchange
+    Country: Jamaica
+    URL: http://www.our.org.jm/
+    Sites:
+-
+    Name: SVGIX
+    Org_type: Internet Exchange
+    Notes: https://prefix.pch.net/applications/ixpdir/detail.php?id=2035
+    Country: Saint Vincent and the Grenadines
+    URL:
+    Sites:
+-
+    Name: Open Caribbean Internet eXchange
+    Org_type: Internet Exchange
+    Notes: https://prefix.pch.net/applications/ixpdir/detail.php?id=987
+    Country: Sint Maarten
+    URL: http://www.ocix.net/
+    Sites: OCIX
+-
+    Name: Trinidad and Tobago Internet Exchange
+    Org_type: Internet Exchange
+    Notes: https://prefix.pch.net/applications/ixpdir/detail.php?id=1803
+    Country: Trinidad and Tobago
+    URL: https://ix.tt/
+    Sites: TTIX,TTIX2
+-
+    Name: Air Link Networks
+    Org_type: Datacenter Operator
+    Notes: House TTIX2
+    Country: Trinidad and Tobago
+    URL: airlinkdc.com
+    Sites: TTIX2
+-
+    Name: Fujitsu Carribean
+    Org_type: Datacenter Operator
+    Notes: Run TTIX1 in Trinidad and Tobago
+    Country: Trinidad and Tobago
+    URL: http://www.fujitsu.com/caribbean/
+    Sites: TTIX
+-
+    Name: Ministry of Informatics and Communications
+    Org_type: Government Ministry
+    Notes: "Cannot find website, but have seen email addresses ending @mic.cu\n\nThe Ministry of Informatics and  Communications  (MIC), established in early 2000, is in charge of regulating, directing, supervising, and controlling the politics of the state and the government in the activities of:information technology;telecommunications;postal services;information exchange network;value added info services;the management and use of electro-magnetic spectrum;the electronic industry.The Directorate  of Regulations and  Standards MIC is  responsible for issuing  regulations relating to telecom and postal services, the use of spectrum, approving work on infrastructure as well as tariffs, and developing technical plans for numbering. The Agency for Control and Supervision MIC is responsible for monitoring compliance with regulations and concessions, as well as the management and control of spectrum."
+    Country: Cuba
+    URL:
+    Sites:
+-
+    Name: Intelsat
+    Org_type: VSAT National Uplink Provider
+    Notes: Provide VSAT connection to ETECSA in Cuba, alongside NewCom
+    Country: Cuba
+    URL: http://www.intelsat.com/
+    Sites:
+-
+    Name: NewCom International
+    Org_type: VSAT National Uplink Provider
+    Notes: Provide ETECSA uplink to internet by VSAT along with Intelsat
+    Country: Cuba
+    URL: http://newcominternational.com/
+    Sites:
+-
+    Name: INDOTEL
+    Org_type: Government Ministry
+    Notes: Instituto Dominicano de las Telecomunicaciones
+    Country: Domincan Republic
+    URL: https://www.indotel.gob.do/
+    Sites:
+-
+    Name: America Movil
+    Org_type: Mobile Network Operator
+    Notes: Mexican mobile company with subsidiaries in Dominican Republic and Puerto Rico
+    Country: Domincan Republic,Puerto Rico
+    URL: http://www.americamovil.com/
+    Sites:
+-
+    Name: Claro Dominican Republic
+    Org_type: Mobile Network Operator,Fixed Line Operator,Internet Service Provider
+    Notes:
+    Country: Domincan Republic
+    URL: https://www.claro.com.do
+    Sites:
+-
+    Name: Claro Puerto Rico
+    Org_type: Mobile Network Operator,Internet Service Provider,Fixed Line Operator
+    Notes:
+    Country: Puerto Rico
+    URL: https://www.claropr.com
+    Sites:
+-
+    Name: Altice
+    Org_type: Mobile Network Operator,Internet Service Provider
+    Notes:
+    Country: Domincan Republic
+    URL: https://www.altice.com.do
+    Sites:

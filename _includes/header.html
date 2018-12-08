@@ -2,7 +2,8 @@
 <header>
     <nav class="group">
 	<a href="{{site.baseurl}}/"><img class="badge" src="{{site.baseurl}}/assets/img/badge_1.png" alt="CH"></a>
-	{% for node in site.pages %}
+  {% assign nodes = site.pages | sort: 'menu_order' %}
+	{% for node in nodes %}
 		{% unless node.nav_exclude %}
 		    {% if page.url == node.url %}
 		      <a class="active" href="{{node.url | prepend: site.baseurl}}" class="active">{{node.title}}</a>

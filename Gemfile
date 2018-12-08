@@ -2,6 +2,8 @@ source 'https://rubygems.org'
 
 gem 'jekyll'
 gem 'rouge'
+gem 'jekyll-airtable'
+gem 'dotenv'
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do

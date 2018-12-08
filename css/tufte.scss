@@ -81,7 +81,8 @@ body { width: 87.5%;
        margin-right: auto;
        padding-left: 12.5%;
        //font-family: et-bembo, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
-       font-family: "Gill Sans", "Gill Sans MT", "Lato", Calibri, sans-serif;
+       //font-family: "Gill Sans", "Gill Sans MT", "Lato", Calibri, sans-serif;
+       font-family: "Lato", Calibri, sans-serif;
        background-color: $bg-color;
        color: $text-color;
        max-width: 1400px;
@@ -128,7 +129,7 @@ p .subtitle { font-style: italic;
              line-height: 1.08888888888889; }
 
 
-p, ol, ul { font-size: 1.4rem; }
+p, ol, ul { font-size: 1.2rem; }
 
 p, li { line-height: 2rem;
         margin-top: 1.4rem;
@@ -229,7 +230,8 @@ ul,ol { width: 60%;
 figure, figure img.maincolumn { max-width: 55%;
          -webkit-margin-start: 0;
          -webkit-margin-end: 0;
-         margin-bottom: 3em; }
+         margin-bottom: 3em;
+         margin-top: 3em; }
 
 figcaption { float: right;
              clear: right;
@@ -264,7 +266,8 @@ blockquote .sidenote, blockquote .marginnote { margin-right: -79% }
 .sidenote-number { counter-increment: sidenote-counter; }
 
 .sidenote-number:after, .sidenote:before { content: counter(sidenote-counter) " ";
-                                           font-family: et-bembo-roman-old-style;
+                                           // font-family: et-bembo-roman-old-style;
+                                           font-family: "Lato", Calibri, sans-serif;
                                            color: $contrast-color; //added color
                                            position: relative;
                                            vertical-align: baseline; }
@@ -277,6 +280,7 @@ blockquote .sidenote, blockquote .marginnote { margin-right: -79% }
 .sidenote:before { content: counter(sidenote-counter) ".\000a0"; // this is unicode for a non-breaking space
                    color: $contrast-color;
                    top: 0rem; } //removed superscripting for numerical reference in sidenote
+.sidenote a.active, .marginnote a.active  { font-weight: bold; }
 
 p, footer, div.table-wrapper, div.mathblock{ width: 55%; }
 

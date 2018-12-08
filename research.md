@@ -2,6 +2,7 @@
 layout: default
 title: Research
 permalink: /research/
+menu_order: 2
 ---
 
 # Research
@@ -32,3 +33,6 @@ In spite of this gap, organizations are continuing to make strides in integratin
 In the process of interviewing experts in the humanitarian information management cycle, we repeatedly observed a gap between the potential analyses that current data science techniques make possible and their current use within the humanitarian system. Senior leaders in humanitarian action rarely have backgrounds that enable them to understand data science. While they may be able to read a financial spreadsheet, their capacity to understand complex interrelationships between delays in medical logistics, the linked increase probability of disease outbreaks, and the potential disproportionate effect on children under five is best put into narrative form; their capacity to interpret and ask questions of mathematical models (such a geospatial statistics showing specifically where this risk has increased) is limited (at best).
 
 Information managers are frequently placed in a position of translating between data science, humanitarian experts in specific sectors (health, water, shelter, etc), and senior management. This position mirrors the situation that Chief Information Managers faced in the early dot-com era, when they were asked to take a seat on the corporate board of directors and explain the Web to business leaders with no technology background beyond basic reports.
+
+### Complexity of decision making drives information management flexibility
+Information managers need to remain flexible. Semper gumby.

@@ -2,6 +2,7 @@
 layout: default
 title: approach
 permalink: /approach/
+menu_order: 1
 ---
 
 # Approach

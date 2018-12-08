@@ -1,15 +1,15 @@
 ---
-title: Damage Assessment
+title: Initial Assessment
 layout: workflow
 wf_order: 2
 ---
 # Workflow for NGO Information Managers
-## Damage Assessment
+## Initial Assessment
 {%- include workflow_nav.html -%}
 
-In this phase of the information management cycle, NetHope Crisis Informatics utilizes the data gathered from the previous phases to determine where a disaster’s impact has been greatest. The analysis conducted in this phase is crucial as it can determine whether NetHope (1.) continues the monitoring process or (2.) begins internal processes for a deployment.
+When a disaster occurs, the NetHope Informatics team uses the data gathered from the previous phases to determine where a natural hazard's impact has been greatest. The analysis conducted in this phase is crucial as it can determine whether NetHope either continues the monitoring process or begins internal processes for a deployment.
 
-The process the Crisis Informatics team uses is as follows:
+The process the Informatics team uses is as follows:
 
 ### 1. Curating information from the data scramble
 To begin, NetHope Crisis Informatics will start by curating information already gathered from the data scramble and keep only for information that speaks to a disaster’s impact on infrastructure or people. This means excluding current weather conditions, socio-economic data, and the like. If the damage to an area has been severe enough, NetHope Crisis Informatics will use this information at a later time, likely in the Needs Assessment phase.

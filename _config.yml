@@ -28,6 +28,9 @@ markdown: kramdown
 plugins:
   - jekyll-feed
   - jekyll-relative-links
+#  - jekyll-airtable
+#  - environment_variables_generator
+
 
 # jekyll-relative-links
 relative_links:
@@ -35,6 +38,7 @@ relative_links:
   collections: true
 
 # collections
+#collections_dir: collections
 collections:
     countries:
       output: true
@@ -43,6 +47,13 @@ collections:
     workflow:
       output: true
       permalink: /workflow/:path/
+
+#
+#defaults:
+#  - scope:
+#      type: "Organization"
+#    values:
+#      layout: "page"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -56,7 +67,7 @@ collections:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-offline_mode: true
+offline_mode: false
 
 subtitle: Content-centric blogging
 author: NetHope Informatics Team
@@ -81,3 +92,13 @@ transfer:
   settings: -av
   source: _site/
   destination: /Users/marlow/sites/ddp
+
+  # Airtable pulls
+
+#airtable:
+#  enable_sync: true
+#  base_uid: 'appvzlsF85FCcnuhS'
+# tables:
+#    - name: 'Country'
+#    - name: 'Organization'
+#    - name: 'Site'

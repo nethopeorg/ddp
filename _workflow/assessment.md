@@ -12,6 +12,7 @@ After conducting a damage assessment, the NetHope Crisis Informatics team will w
 These can be conducted in two scenarios:
 
 **Remotely**: Where the Crisis Informatics team will hyper focus its information products on the impacted population, gathering data from open repositories and on-site entities NetHope has relationships with.
+
 **In the field**: Where the NetHope Emergency Response Team will deploy several team members to the impacted country. Team members will survey the government, humanitarian organizations, and impacted communities on where
 
 From a remote distance, NetHope Crisis Informatics will look to gather information from data sources that provide both historical (pre-crisis) and current (in-crisis) information. Historical data can provide context on existing patterns of population needs, such as: population and other demographic baselines, nutrition surveys, quality of health or education facilities, and infrastructure surveys. Just as in the damage assessment phase, information can come from a wide variety of  sources for needs assessments: including such as media reports, social media, personal reports from key informants who have visited or live in the area, aerial imagery for infrastructure damage (e.g. provided by UNOSAT, NDMA, or crowdsourcing), and formal situation reports from government entities or international agencies. Initial
@@ -22,10 +23,11 @@ If NetHope deploys an assessment team to a country, that assessment team - often
 
 In the survey, the assessment team will gather the following information:
 
-<table>
-<tr><td>NetHope ID:</td><td>Assigned number the assessment team has given to a connectivity site</td></tr>
-<tr><td>City:</td><td>Name of the city or town the survey is being conducted in</td></tr>
-<tr><td>Country:</td><td>Name of the country the survey</td></tr>
+<table class="booktabs">
+<thead><th class="l">Data</th><th class="l">Description</th></thead>
+<tr><td class="l">NetHope ID:</td><td class="l">Assigned number the assessment team has given to a connectivity site</td></tr>
+<tr><td class="l">City:</td><td class="l">Name of the city or town the survey is being conducted in</td></tr>
+<tr><td class="l">Country:</td><td class="l">Name of the country the survey</td></tr>
 <tr><td>Coordinates:</td><td>Latitude and longitude, recorded in decimal form</td></tr>
 <tr><td>Total population:</td><td>Count of persons in the town, city or shelter</td></tr>
 <tr><td>Date of survey:</td><td>When the survey was conducted</td></tr>
