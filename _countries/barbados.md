@@ -8,8 +8,11 @@ tel_code: 1246
 voltage: 115V/50Hz
 plug_types: A,B
 key_orgs: Flow,Digicel,Ozone Wireless,Fair Trading Commission,Microsoft Trinidad and Tobago,UNICEF,C&W Business
+dma_website: [Department of Emergency Management](http://www.dem.gov.bb/)
 hdx_url: https://data.humdata.org/group/brb
-hot_roads: https://data.humdata.org/dataset/hotosm_brb_roads
+roads_hot: https://data.humdata.org/dataset/hotosm_brb_roads
+osm_relation: https://www.openstreetmap.org/relation/547511
+map_ref_ocha_location: https://reliefweb.int/map/barbados/barbados-location-map-2013
 our_airports: https://data.humdata.org/dataset/ourairports-brb
 global_airports_wfp: https://data.humdata.org/dataset/global-logistics
 global_ports_wfp: https://data.humdata.org/dataset/global-ports

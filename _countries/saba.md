@@ -9,6 +9,8 @@ voltage: 127V/50Hz,220V/50Hz,115V/60Hz
 plug_types: A,B,C,F
 key_orgs: Bureau Telecomunications en Post,Satel
 hdx_url: https://data.humdata.org/group/bes
+osm_relation: https://www.openstreetmap.org/relation/3690682
+map_ref_mapaction: https://reliefweb.int/map/bonaire-saint-eustatius-and-saba-netherlands/saba-and-st-eustatius-reference-map-18-sep-2017
 bound_gadm: https://data.humdata.org/dataset/caribbean-netherlands-bonaire-sint-eustatius-and-saba
 global_airports_wfp: https://data.humdata.org/dataset/global-logistics
 global_ports_wfp: https://data.humdata.org/dataset/global-ports

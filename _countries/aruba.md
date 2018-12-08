@@ -8,8 +8,11 @@ tel_code: 297
 voltage: 127V/50Hz
 plug_types: A,B,F
 key_orgs: Digicel,Setar,MIO,"Ministry of Transport, Communications and Primary Sector",Microsoft Trinidad and Tobago
+dma_website: [Crisis Management Office](http://www.gobierno.aw/governance-administration/crisis-management-office-rba_45669/)
 hdx_url: https://data.humdata.org/group/abw
-hot_roads: https://data.humdata.org/dataset/hotosm_abw_roads
+map_ref_ocha_location: https://commons.wikimedia.org/wiki/File:Aruba_-_Location_Map_(2013%3F)_-_ABW_-_UNOCHA.svg
+roads_hot: https://data.humdata.org/dataset/hotosm_abw_roads
+osm_relation: https://www.openstreetmap.org/relation/1231749
 our_airports: https://data.humdata.org/dataset/ourairports-abw
 global_airports_wfp: https://data.humdata.org/dataset/global-logistics
 global_ports_wfp: https://data.humdata.org/dataset/global-ports

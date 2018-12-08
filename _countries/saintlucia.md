@@ -7,9 +7,11 @@ narrative:
 tel_code: 1758
 voltage: 240V/50Hz
 plug_types: G
-key_orgs: Flow,Digicel,Microsoft Trinidad and Tobago,C&W Business,ECTEL (Eastern Caribbean Telecommunications Authority),St Lucia NTRC,CARCIP,SLIX
+key_orgs: Flow,Digicel,Microsoft Trinidad and Tobago,C&W Business,ECTEL
+(Eastern Caribbean Telecommunications Authority),St Lucia NTRC,CARCIP,SLIX
+dma_website: [National Emergency Management Organisation](http://www.nemo.gov.lc/)
 hdx_url: https://data.humdata.org/group/lca
-hot_roads: https://data.humdata.org/dataset/hotosm_lca_roads
+roads_hot: https://data.humdata.org/dataset/hotosm_lca_roads
 bound_gadm: https://data.humdata.org/dataset/saint-lucia-administrative-level-0-nation-and-1-quarter-boundaries
 our_airports: https://data.humdata.org/dataset/ourairports-lca
 global_airports_wfp: https://data.humdata.org/dataset/global-logistics

@@ -8,8 +8,12 @@ tel_code: 1649
 voltage: 120V/60Hz
 plug_types: A,B
 key_orgs: Flow,Digicel,Microsoft Trinidad and Tobago,C&W Business
+dma_website: [Department of Disaster Management and Emergencies](https://www.gov.tc/ddme/)
+dma_contacts: https://www.gov.tc/ddme/contacts/ddme-contact-details
 hdx_url: https://data.humdata.org/group/tca
-hot_roads: https://data.humdata.org/dataset/hotosm_tca_roads
+osm_relation: https://www.openstreetmap.org/relation/547479
+map_assessmentareas: https://maps.mapaction.org/dataset/irma-jamaica-ma060
+roads_hot: https://data.humdata.org/dataset/hotosm_tca_roads
 bound_gadm: https://data.humdata.org/dataset/turks-and-caicos-islands-administrative-level-0-nation-and-1-district-boundaries
 our_airports: https://data.humdata.org/dataset/ourairports-tca
 global_airports_wfp: https://data.humdata.org/dataset/global-logistics
