@@ -2,31 +2,26 @@
 <!-- <nav class="group"> -->
 <ul><label for="mn-id-workflow-nav" class="margin-toggle"> ⊕</label><input type="checkbox" id="mn-id-workflow-nav" class="margin-toggle" /><span class="marginnote">
 {% if site.offline_mode %} <!-- added for future proofing -->
-<li><a href="{{ "/workflow/" | prepend: site.baseurl | prepend: site.url }}">Introduction</a></li>{% assign nodes = site.workflow | sort: 'wf_order' %}
+<li><a href="{{ "/workflow/" | prepend: site.baseurl }}">Introduction</a></li>{% assign nodes = site.workflow | sort: 'wf_order' %}
 	{% for node in nodes %}
 		{% unless node.nav_exclude %}
 		    {% if page.url == node.url %}
-		      <li><a class="active" href="{{node.url | prepend: site.baseurl | prepend: site.url }}" class="active">{{node.title}}</a></li>
+		      <li><a class="active" href="{{node.url | prepend: site.baseurl }}" class="active">{{node.title}}</a></li>
 		    {% else %}
-      <li><a href="{{node.url | prepend: site.baseurl | prepend: site.url }}">{{node.title}}</a></li>
+      <li><a href="{{node.url | prepend: site.baseurl }}">{{node.title}}</a></li>
 		    {% endif %}
 	    {% endunless %}
   	{% endfor %}
 
 {% else %}
 <li><strong>Workflow Phases</strong></li>
-{% if page.title == 'Workflow' %}
-<li><a href="{{ "/workflow/" | prepend: site.baseurl | prepend: site.url }}" class="active">Introduction</a></li>
-{% else %}
-<li><a href="{{ "/workflow/" | prepend: site.baseurl | prepend: site.url }}">Introduction</a></li>
-{% endif %}
-{% assign nodes = site.workflow | sort: 'wf_order' %}
+<li><a href="{{ "/workflow/" | prepend: site.baseurl }}">Introduction</a></li>{% assign nodes = site.workflow | sort: 'wf_order' %}
 	{% for node in nodes %}
 		{% unless node.nav_exclude %}
 		    {% if page.url == node.url %}
-		      <li><a class="active" href="{{node.url | prepend: site.baseurl | prepend: site.url }}" class="active">{{node.title}}</a></li>
+		      <li><a class="active" href="{{node.url | prepend: site.baseurl }}" class="active">{{node.title}}</a></li>
 		    {% else %}
-      <li><a href="{{node.url | prepend: site.baseurl | prepend: site.url }}">{{node.title}}</a></li>
+      <li><a href="{{node.url | prepend: site.baseurl }}">{{node.title}}</a></li>
 		    {% endif %}
 	    {% endunless %}
   	{% endfor %}
