@@ -8,7 +8,8 @@ tel_code: 1721
 voltage: 120V/60Hz
 plug_types:
 key_orgs: Bureau Telecomunications en Post,TelEm,Smitcoms,Open Caribbean Internet eXchange
-dma_website: [Office of Disaster Management](http://www.sintmaartengov.org/PressReleases/Pages/Office-of-Disaster-Management-Review-Now-Your-Disaster-Supply-Kit23.aspx)
+dma_name: Office of Disaster Management
+dma_url: http://www.sintmaartengov.org/PressReleases/Pages/Office-of-Disaster-Management-Review-Now-Your-Disaster-Supply-Kit23.aspx
 hdx_url: https://data.humdata.org/group/sxm
 osm_relation: https://www.openstreetmap.org/relation/1231790
 bound_vromi: https://data.humdata.org/dataset/sint-maarten-administrative-level-0-1-boundaries

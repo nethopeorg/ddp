@@ -8,7 +8,8 @@ tel_code: 509
 voltage: 110V/60Hz
 plug_types: A,B
 key_orgs: 'Digicel,Microsoft Puerto Rico,CONATEL Haiti,World Food Program,Électricité D''Haïti,AHTIC'
-dma_website: [Direction de la Protection Civile](http://protectioncivilehaiti.net/)
+dma_name: Direction de la Protection Civile
+dma_url: http://protectioncivilehaiti.net/
 hdx_url: https://data.humdata.org/group/hti
 haitidata_url: [Haiti Data](http://www.haitidata.org/)
 roads_hot: https://data.humdata.org/dataset/hotosm_hti_roads

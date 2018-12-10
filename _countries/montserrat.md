@@ -8,7 +8,8 @@ tel_code: 1664
 voltage: 120V/60Hz,230V/60Hz
 plug_types: A,B
 key_orgs: Flow,Digicel,Microsoft Trinidad and Tobago,C&W Business,"Ministry of Communications, Works, Energy and Labour",MICA
-dma_website: [Disaster Management Coordination Agency](http://www.gov.ms/pubs/dmca-disaster-management/)
+dma_name: Disaster Management Coordination Agency
+dma_url: http://www.gov.ms/pubs/dmca-disaster-management/
 hdx_url: https://data.humdata.org/group/msr
 roads_hot: https://data.humdata.org/dataset/hotosm_msr_roads
 osm_relation: https://www.openstreetmap.org/relation/537257

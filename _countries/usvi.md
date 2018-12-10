@@ -8,7 +8,8 @@ tel_code: 1340
 voltage: 110V/60Hz
 plug_types: A,B
 key_orgs:
-dma_website: [Virgin Islands Territorial Emergency Management Agency](http://www.vitema.vi.gov/)
+dma_name: Virgin Islands Territorial Emergency Management Agency
+dma_url: http://www.vitema.vi.gov/
 dma_contacts: http://www.vitema.vi.gov/about/contact-us
 hdx_url: https://data.humdata.org/group/vir
 roads_hot: https://data.humdata.org/dataset/hotosm_vir_roads
