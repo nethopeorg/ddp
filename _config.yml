@@ -17,7 +17,7 @@ title: Data for Disaster Preparedness
 email: crisisdata@nethope.org
 description: >- # this means to ignore newlines until "baseurl:"
   Data for Disaster Preparedness (DDP) is a multi year project aiming to improve the effectivenes of disaster response following natural disasters.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/ddp" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: nethope
 github_username:  nethopeorg
