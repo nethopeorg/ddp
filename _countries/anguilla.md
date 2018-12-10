@@ -8,7 +8,8 @@ tel_code: 1264
 voltage: 110V/60Hz
 plug_types: A
 key_orgs: Flow,Digicel,"Ministry of Infrastructure, Communications, Utilitie and Housing",Microsoft Trinidad and Tobago,C&W Business
-dma_website: [Department of Disaster Management](http://www.gov.ai/department.php?id=4&dept=38/)
+dma_name: Department of Disaster Management
+dma_url: http://www.gov.ai/department.php?id=4&dept=38/
 hdx_url: https://data.humdata.org/group/aia
 roads_hot: https://data.humdata.org/dataset/hotosm_aia_roads
 osm_relation: https://www.openstreetmap.org/relation/2177161

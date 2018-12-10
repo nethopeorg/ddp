@@ -8,7 +8,8 @@ tel_code: 1869
 voltage: 110V/60Hz,230V/60Hz
 plug_types: A,B,D,G
 key_orgs: Flow,Digicel,Microsoft Trinidad and Tobago,C&W Business,ECTEL (Eastern Caribbean Telecommunications Authority),St. Kitts and Nevis National Telecommunications Regulatory Commission,The Cable
-dma_website: [National Emergency Management Agency](https://www.nema.kn/)
+dma_name: National Emergency Management Agency
+dma_url: https://www.nema.kn/
 hdx_url: https://data.humdata.org/group/kna
 roads_hot: https://data.humdata.org/dataset/hotosm_kna_roads
 our_airports: https://data.humdata.org/dataset/ourairports-kna

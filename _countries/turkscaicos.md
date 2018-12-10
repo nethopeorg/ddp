@@ -8,7 +8,8 @@ tel_code: 1649
 voltage: 120V/60Hz
 plug_types: A,B
 key_orgs: Flow,Digicel,Microsoft Trinidad and Tobago,C&W Business
-dma_website: [Department of Disaster Management and Emergencies](https://www.gov.tc/ddme/)
+dma_name: Department of Disaster Management and Emergencies
+dma_url: https://www.gov.tc/ddme/
 dma_contacts: https://www.gov.tc/ddme/contacts/ddme-contact-details
 hdx_url: https://data.humdata.org/group/tca
 osm_relation: https://www.openstreetmap.org/relation/547479

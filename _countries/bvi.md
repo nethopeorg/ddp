@@ -8,7 +8,8 @@ tel_code: 1284
 voltage: 110V/60Hz
 plug_types: A,B
 key_orgs: Flow,Digicel,BVI Telecommunications Regulatory Commission,C&W Business,British Virgin Islands IXP
-dma_website: [Department of Disaster Management](http://www.bviddm.com/)
+dma_name: Department of Disaster Management
+dma_url: http://www.bviddm.com/
 hdx_url: https://data.humdata.org/group/vgb
 roads_hot: https://data.humdata.org/dataset/hotosm_vgb_roads
 osm_relation: https://www.openstreetmap.org/relation/285454

@@ -8,7 +8,8 @@ tel_code: 590
 voltage: 220V/60Hz
 plug_types: C,F
 key_orgs: Digicel,Dauphin Telecom
-dma_website: [Le Service Interministériel de Défense et de Protection Civile](http://www.martinique.pref.gouv.fr/Politiques-publiques/Prevention-de-la-delinquance-securite-civile-securite-publique-et-routiere/Les-acteurs-de-la-securite-civile)
+dma_name: Le Service Interministériel de Défense et de Protection Civile
+dma_url: http://www.martinique.pref.gouv.fr/Politiques-publiques/Prevention-de-la-delinquance-securite-civile-securite-publique-et-routiere/Les-acteurs-de-la-securite-civile
 hdx_url: https://data.humdata.org/group/maf
 osm_relation: https://www.openstreetmap.org/relation/1891583
 fts_req_fund: https://data.humdata.org/dataset/fts-requirements-and-funding-data-for-saint-martin-france
