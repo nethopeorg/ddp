@@ -7,12 +7,12 @@ wf_order: 2
 ## Initial Assessment
 {%- include workflow_nav.html -%}
 
-When a disaster occurs, the NetHope Informatics team uses the data gathered from the previous phases to determine where a natural hazard's impact has been greatest. The analysis conducted in this phase is crucial as it can determine whether NetHope either continues the monitoring process or begins internal processes for a deployment.
+When a disaster occurs, the NetHope Informatics team uses the data gathered from Preparedness and the Data Scramble to determine where a natural hazard's impact has been greatest. The analysis conducted in this phase determines if NetHope either continues the monitoring process or begins to mobilize a team for a deployment.
 
 The process the Informatics team uses is as follows:
 
-### 1. Curating information from the data scramble
-To begin, NetHope Crisis Informatics will start by curating information already gathered from the data scramble and keep only for information that speaks to a disaster’s impact on infrastructure or people. This means excluding current weather conditions, socio-economic data, and the like. If the damage to an area has been severe enough, NetHope Crisis Informatics will use this information at a later time, likely in the Needs Assessment phase.
+### 1. Build Initial Situation Report
+NetHope Crisis Informatics starts by curating information already gathered from the data scramble to assess the impact of the natural hazard on people and infrastructure. This means excluding current weather conditions, socio-economic data, and the like. If the damage to an area has been severe enough, NetHope Crisis Informatics will use this information at a later time, likely in the Needs Assessment phase.
 
 This part of the process is usually completed within a few minutes. Useful information will be sent to the NetHope Crisis Team technical staff for analysis and visual, described in the steps below.
 
