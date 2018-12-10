@@ -30,13 +30,13 @@ Companies frequently deploy with NetHope Field Teams and provide analytical supp
 ### Data Identification
 To support the NetHope use case, several types of data sets were deemed important:
 
-**Existing Humanitarian Data** (existing): datasets that are already hosted at sites such as HDX, World Bank, GIS portals, and government open data portals.
-
-**Private Sector Data** (private): data that must be obtained from telecommunications and social media companies (among others) and used under license or other restrictions around its publication and/or distribution, reuse, and combination with other data.
+**Existing Humanitarian Data** (baseline): datasets that are already hosted at sites such as HDX, World Bank, GIS portals, and government open data portals.
 
 **Links to Dynamic Data** (dynamic): data whose freshness is the key factor around its use, including weather forecasts, earthquake shake maps, flood or tsunami extent polygons, and the like.
 
-**Custom Data** (custom): data that need to be collected for specific purpose, which would include needs assessments as well as data that need to built from many sources into a new dataset (such the frequencies of VHF/HF radio systems in use by UN agencies and host nation civil protection teams in various countries)
+**Licensed Private Sector Data** (licensed): data that must be obtained from telecommunications and social media companies (among others) and used under license or other restrictions around its publication and/or distribution, reuse, and combination with other data.
+
+**Bespoke Data** (bespoke): data that need to be collected for specific purpose, which would include needs assessments as well as data that need to built from many sources into a new dataset (such the frequencies of VHF/HF radio systems in use by UN agencies and host nation civil protection teams in various countries)
 
 The specific data sets necessary include:
 
@@ -51,10 +51,34 @@ The specific data sets necessary include:
 ### Data Collection
 Aggregating the identified datasets
 
-### Data Cleansing
-Data are rarely in a form that we would like. As the World Bank describes in the Open Data for Resilience Field Guide,
+#### Baseline
+Baseline datasets are collected by many organizations who perform international development, climate action, humanitarian action, and other modes of development. Through intensive efforts at building open data systems, many of these baseline datasets are available through data portals and data sharing programs. **There is no need for NetHope to replicate the work of others**. Doing so would obligate NetHope to take on the challenge of keeping its own versions up to date. The best advice is to link to these datasets where they exist from a website which includes explanations of what the data includes, its provenance (how it is collected and curated), and how to use the data. This site has taken the approach of linking to external baseline datasets that are relevant to each country in the Caribbean and deemed important for the use cases outlined above. There are more baselines datasets available.
 
-*"Data describe a dynamic reality. Cities are growing at extraordinary rates, with formal and informal settlements sprouting up faster than cartographers can build maps. Alongside this rapid urbanization, hazards are changing in ways that make it far less likely that historical understandings will inform prudent decisions about probable futures. Climate change is altering weather patterns and bringing extreme weather to places that have never seen such variation. Existing stocks of data about a nation’s infrastructure and its relation to natural hazards each need to updated more frequently and at higher resolutions than ever before. In a time of economic hardship and unequal globalization, few governments possess the resources to collate existing data, collect new data, and feed them all into an ecosystem of analysts who can make sense of them so that practitioners can design and implement projects that get ahead of the disaster cycle."* {% sidenote 'mn-id-opendrifg' 'The <a href="https://www.gfdrr.org/en/publication/open-data-resilience-initiative-field-guide">OpenDRI Field Guide</a> Executive Summary.' %}
+#### Dynamic
+Some datasets must be accessed at the time when they are needed. There are two ways to go about this task: referencing the external link and explaining how to use the data, or creating a web service to overlay a constant stream from that data sources into a visualization. In this way, it is possible to view recent earthquakes, current and forecasted weather, mid-term climate forecasts, and similar dynamic data sets.
+
+#### Licensed
+The private sector collects data about consumer and business activities as well as governmental contracts to create smart cities and programs to use the Internet of Things. Some of these data can be licensed for use or made available under data philanthropy programs. The original version of this grant sought to create legally-binding agreements with the private sector to releases these datasets when a triggering event occurs (such as an earthquake above 7.5M with 50km of a given city). The Cambridge Analytica scandal and similar data breaches in 2018 changed the calculus on this approach. Corporate counsel are currently briefing their senior executives how to handle parliamentary inquiries into why external parties had any access to customer data; adding a program that compels a company to release data to external parties is not currently a likely possibility. NetHope therefore pursued data releases done on a voluntary basis through data sharing agreements. These took four forms:
+
+*Data Philanthropy*. Corporate social responsibility programs have increasingly made data available alongside other corporate resources. Facebook Disaster Maps is one such program, which makes it possible for humanitarian organizations to access demographic information based on Facebook subscriber data (in aggregated with strong privacy controls).
+
+*Center for Digital NonProfit Agreements*. As part of the agreement for a company to join NetHope's Center for the Digital Nonprofit, several companies have signed an agreement to share data with NetHope in the event of an emergency. These include (list)......
+
+*Discount Licensing*. NetHope has negotiated a reduction of licensing costs by significant fraction and/or agreement to use a one-time purchase to cover the needs of NetHope members in the event of an emergency. The Budde Reports provide one such licensing agreement, which provide proprietary analyses about the telecommunications networks of countries around the world.
+
+*Operational Data from NetHope's Partnerships*. As part of NetHope deployments, the networks collect data about the populations we serve. These data must be carefully anonymized and aggregated to show the impact of our work. 
+
+#### Bespoke
+Some data necessary for meeting the use cases above did not exist at the time of the signing of this grant. Instead, they must be collected through primary and secondary research. Bespoke data for response operations occur both before the event and during the response.
+
+**Preparedness**: For NetHope, this has meant seeking out data about elements of Caribbean telecommunications infrastructure, including HF, VHF frequencies; exploring how to build maps of electrical and telecommunication grids; creating mechanisms to analyze satellite imagery for telecommunications towers.
+
+**Response**. Surveys are a core element of response operations. Asking what is needed by whom, where, and when helps to plan interventions, track progress, and measure success.
+
+### Data Cleansing
+Data rarely in a form that we would like. They are inconsistently formatted, use taxonomies or locations that do not match our needs, have missing bits or incorrent/transposed values, and may have been collected in ways that make us curious or even skeptical about their accuracy or ethics. The job of cleansing data means putting them into a format that can be made useful. They need to be made fit for purpose.
+
+The effort necessary to clean data is rarely sexy. It is pure grunt work of going through data sets, often with scripts to accelerate changes. Some tools exist to make this work easier: Humanitarian Exchange Language is a protocol to tag data and then transform it from one structure to another.
 
 When we are able to obtain data that capture these dynamics, they often need to updated. They almost always need to be put into more standard form, especially data that have been collected in ways which allow for wide variation in the text structures in a field or where geographic information is put into a long narrative paragraph instead of discrete fields that capture the data structure necessary to plot a place on a map.
 

@@ -1,0 +1,186 @@
+<h1 id="tufte-jekyll-theme">tufte-jekyll theme</h1>
+
+<p>The <em>Tufte-Jekyll</em> blog theme is based on the github repository by Edward Tufte <a href="https://github.com/edwardtufte/tufte-css">here</a>, which was orginally created by Dave Leipmann, but is now labeled under Edward Tufte’s moniker. I borrowed freely from the Tufte-CSS repo and have transformed many of the typographic and page-structural features into a set of custom Liquid tags that make creating content using this style much easier than writing straight HTML. Essentially, if you know markdown, and mix in a few custom Liquid tags, you can be creating a website with this document style in short order.</p>
+
+<h2 id="demo">Demo</h2>
+
+<p>A sample site with self-documenting content is available <a href="http://clayh53.github.io/tufte-jekyll/">here</a> on github pages.</p>
+
+<h2 id="installation">Installation</h2>
+
+<p>I’m not going to go into great detail here. I am just going to assume that anyone interested in either Jekyll, Edward Tufte’s work or Github has some basic skills. I created this with Ruby 2.2.0 and Jekyll 2.5.3. There is absolutely nothing exotic going on here, so you can probably make any recent version of Jekyll work with this setup.</p>
+
+<p>So copy, pull, download a zipfile or whatever and fire it up.</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>cd ~/thatPlaceYouPutIt/tufte-jekyll
+jekyll build
+jekyll serve -w
+</code></pre></div></div>
+
+<p>And then point your browser at localhost:4000/tufte-jekyll</p>
+
+<p>You can also use <code class="highlighter-rouge">jekyll serve -w --baseurl ''</code> to remove <code class="highlighter-rouge">/tufte-jekyll</code> from the url and serve your site directly from localhost:4000. This only affects your local preview. See <a href="#setting-your-baseurl-correctly">Setting your baseurl correctly</a> for more details.</p>
+
+<h2 id="configuration">Configuration</h2>
+
+<h3 id="jekyll-site-building-options">Jekyll site building options</h3>
+
+<p>I have created a very simple site options file in the <code class="highlighter-rouge">_data</code> directory that contains two settings currently. The file in the github repo looks like this:</p>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>mathjax: true
+lato_font_load: true
+</code></pre></div></div>
+<p>Removing either ‘true’ value will prevent the jekyll site building process from adding links to either the Mathjax library or the Google Fonts Lato font as a fallback for the Gill Sans. Set these values to blank if you want to really streamline your page loading time.</p>
+
+<h3 id="sass">SASS</h3>
+
+<p>I am using Sass to create the css file used by this theme. If you would like to change things like fonts, text colors, background colors and so forth, edit the <code class="highlighter-rouge">_scss/_settings.scss</code> file. This file gets loaded first when Jekyll constructs the master CSS file from the tufte.scss SASS file, and contains SASS variables that influence the appearance of the site. The one variable that may be of interest to some is the <code class="highlighter-rouge">$link-style</code> variable, which can be set to either <code class="highlighter-rouge">underline</code> or <code class="highlighter-rouge">color</code>. This will determine if your links are styled using the <code class="highlighter-rouge">$contrast-color</code> variable with no underlining, or whether they are styled using light underlining as seen on the <a href="https://github.com/edwardtufte/tufte-css"><em>tufte-css</em></a> repo.</p>
+
+<h3 id="social-icons">Social icons</h3>
+
+<p>You can edit the <code class="highlighter-rouge">_data/social.yml</code> file and put in your own information for the footer links</p>
+
+<h3 id="silly-ass-badge-in-the-upper-left">Silly-ass badge in the upper left</h3>
+
+<p>In the <code class="highlighter-rouge">assets/img</code> directory is a file called <code class="highlighter-rouge">badge_1.png</code>. This file’s parent is <code class="highlighter-rouge">badge_1.psd</code> and is an editable photoshop file with layers for the letters comprising the initials. Change them to suit your fancy. Or just substitute another badge in its place. You can edit the <code class="highlighter-rouge">_includes/header.html</code> file and change the file that it points too. Find your favorite Tufte emoji and fly your freak flag proudly.</p>
+
+<h2 id="some-things-about-the-things">Some things about the things</h2>
+
+<p>I needed to create several custom Liquid tags to wrap content in the right kind of tags. You will create your posts in the normal way in the <code class="highlighter-rouge">_posts</code> directory, and then edit them with Github-Flavored Markdown. To all that GFM goodness, you can use the following custom Liquid tags in your content area.</p>
+
+<p>Note that these tags <em>have been altered</em> from Version 1 of this theme to accommodate some responsive features, namely the ability to reveal hidden sidenotes, margin notes and margin figures by tapping either a superscript or a symbol on small screens. This requires you to add a parameter to the tag that is a unique <em>ID</em> for each tag instance on the page. What the id is called is not important, but it is important that it be unique for each individual element on the page. I would recommend in the interest of sanity to give names that are descriptive, like <code class="highlighter-rouge">'sn-id-1'</code> or <code class="highlighter-rouge">'mf-id-rhino'</code>.</p>
+
+<h3 id="notes-about-quotes-in-liquid-tags">Notes about quotes in Liquid tags</h3>
+
+<p>The custom Liquid tags are designed to simplify writing content and displaying it with the <em>tufte-css</em> look. Here are a few notes on using quotes inside the tags.</p>
+
+<ul>
+  <li>
+    <p>Liquid tags work best when you use double quotes to surround the tag parameters, as you’ll see in all the examples below.</p>
+  </li>
+  <li>
+    <p>You can use single quotes and apostrophes in the text inside tag parameters. Liquid will automatically process them correctly. For example: <code class="highlighter-rouge">&lt;span class='newthought'&gt;I'm so smart!&lt;/span&gt; </code> will render as <code class="highlighter-rouge">I'm so smart!</code></p>
+  </li>
+  <li>
+    <p>To use a double quote in the text inside a tag parameter, escape the double quote by placing a backslash directly in front of it, for example: <code class="highlighter-rouge">&lt;span class='newthought'&gt;"I'm so smart!", she thought.&lt;/span&gt; </code> will render as <code class="highlighter-rouge">"I'm so smart!", she thought.</code></p>
+  </li>
+  <li>
+    <p>You can use HTML inside of a tag parameter. (However, you cannot use Markdown inside a tag parameter) You can use either single quotes, or escaped double quotes in the HTML. For example, both of the following tags will work:</p>
+  </li>
+</ul>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;span class='newthought'&gt;Example website: &lt;a href='http://example.com'&gt;example label&lt;/a&gt;&lt;/span&gt; 
+</code></pre></div></div>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;span class='newthought'&gt;Example website: &lt;a href="http://example.com"&gt;example label&lt;/a&gt;&lt;/span&gt; 
+</code></pre></div></div>
+
+<p>The <a href="http://clayh53.github.io/tufte-jekyll/articles/15/Edge-Cases">demo site’s Edge Cases entry</a> has an example toward the bottom illustrating HTML inside of a tag parameter.</p>
+
+<h3 id="new-thought">New thought</h3>
+
+<p>This tag will render its contents in small caps. Useful at the beginning of new sections:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;span class='newthought'&gt;This will be rendered in small caps&lt;/span&gt;  blah blah
+</code></pre></div></div>
+
+<h3 id="sidenote">Sidenote</h3>
+
+<p>This tag inserts a <em>sidenote</em> in the content, which is like a footnote, only its in the spacious right-hand column. It is automatically numbered, starting over on each page. Just put it in the content like you would insert a footnote like so:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>blah lorem blah&lt;label for='sidenote-id' class='margin-toggle sidenote-number'&gt;&lt;/label&gt;&lt;input type='checkbox' id='sidenote-id' class='margin-toggle'/&gt;&lt;span class='sidenote'&gt;This is a random sidenote &lt;/span&gt; blah blah
+</code></pre></div></div>
+<p>And it will add the html spans and superscripts. On smaller screens, tapping on the number will reveal the sidenote!</p>
+
+<p>The <code class="highlighter-rouge">full-width</code> page layout will not display side notes. (It’s a full-width page and has no margin)</p>
+
+<h3 id="margin-note">Margin note</h3>
+
+<p>This tag is essentially the same as a sidenote, but heh, no number. Like this:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>lorem nobeer toasty critters&lt;label for='margin-note-id' class='margin-toggle'&gt; &amp;#8853;&lt;/label&gt;&lt;input type='checkbox' id='margin-note-id' class='margin-toggle'/&gt;&lt;span class='marginnote'&gt;Random thought when drinking &lt;/span&gt; continue train of thought
+</code></pre></div></div>
+<p>On smaller screens, tapping on the <span>⊕</span> symbol will open up the margin note.</p>
+
+<p>The <code class="highlighter-rouge">full-width</code> page layout will not display margin notes. (It’s a full-width page and has no margin)</p>
+
+<h3 id="full-width-image">Full width image</h3>
+
+<p>This tag inserts an image that spans both the main content column and the side column:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>blah blah
+&lt;figure class='fullwidth'&gt;&lt;img src='/assets/img/rhino.png'/&gt;&lt;figcaption&gt;A caption for the image&lt;/figcaption&gt;&lt;/figure&gt;
+blah
+</code></pre></div></div>
+
+<p>or</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>blah blah
+&lt;figure class='fullwidth'&gt;&lt;img src='http://example.com/image.jpg'/&gt;&lt;figcaption&gt;A caption for the image&lt;/figcaption&gt;&lt;/figure&gt;
+blah
+</code></pre></div></div>
+
+<p>Note the absence of a leading slash in the image url when using relative file paths. (This is incorrect: <code class="highlighter-rouge">/assets/img/rhino.png</code>)</p>
+
+<p>Also note that fullwidth images need to be included <em>on their own line</em> in order for the captions to work correctly.</p>
+
+<h3 id="main-column-image">Main column image</h3>
+
+<p>This tag inserts an image that is confined to the main content column:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>blah blah
+&lt;figure&gt;&lt;figcaption&gt;This is the caption&lt;/figcaption&gt;&lt;img src='/assets/img/rhino.png'/&gt;&lt;/figure&gt;
+blah
+</code></pre></div></div>
+
+<p>or</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>blah blah
+&lt;figure&gt;&lt;figcaption&gt;This is the caption&lt;/figcaption&gt;&lt;img src='http://example.com/image.jpg'/&gt;&lt;/figure&gt;
+blah
+</code></pre></div></div>
+
+<p>No need for an ID in this tag because it doesn’t have any doohickies that open and close on narrow screens. Again note the absence of the leading slash in the image url when using relative file paths. (This is incorrect: <code class="highlighter-rouge">/assets/img/rhino.png</code>)</p>
+
+<p>And just like fullwidth images, main column images need to be included on their own line in order for the captions to work correctly.</p>
+
+<h3 id="margin-figure">Margin figure</h3>
+
+<p>This tag inserts and image in the side column area. Note that an id needs to be specified:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>blah blah &lt;label for='margin-figure-id' class='margin-toggle'&gt;&amp;#8853;&lt;/label&gt;&lt;input type='checkbox' id='margin-figure-id' class='margin-toggle'/&gt;&lt;span class='marginnote'&gt;&lt;img class='fullwidth' src='/assets/img/rhino.png'/&gt;&lt;br&gt;This is the caption&lt;/span&gt; blah
+</code></pre></div></div>
+
+<p>or</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>blah blah &lt;label for='margin-figure-id' class='margin-toggle'&gt;&amp;#8853;&lt;/label&gt;&lt;input type='checkbox' id='margin-figure-id' class='margin-toggle'/&gt;&lt;span class='marginnote'&gt;&lt;img class='fullwidth' src='http://example.com/image.jpg'/&gt;&lt;br&gt;This is the caption&lt;/span&gt; blah
+</code></pre></div></div>
+
+<p>This needs an ID parameter so that it can be clicked and opened on small screens. Again note the absence of the leading slash in the image url when using relative file paths. (This is incorrect: <code class="highlighter-rouge">/assets/img/rhino.png</code>)</p>
+
+<p>The <code class="highlighter-rouge">full-width</code> page layout will not display margin figures. (It’s a full-width page and has no margin)</p>
+
+<h3 id="mathjax">Mathjax</h3>
+
+<p>Totally used this functionality from a <a href="https://gist.github.com/jessykate/834610">gist by Jessy Cowan-Sharpe</a> to make working with Mathjax expressions a little easier. Short version, wrap inline math in a tag pair thusly: <code class="highlighter-rouge">&lt;span&gt;&amp;#8203;&lt;script type="math/tex"&gt;mathjax expression&lt;/script&gt;&lt;/span&gt;</code> and wrap bigger block level stuff with <code class="highlighter-rouge">&lt;div class="mathblock"&gt;&lt;script type="math/tex; mode=display"&gt;mathjax expression&lt;/script&gt;&lt;/div&gt;</code></p>
+
+<p>As a side note - if you do not need the math ability, navigate to the <code class="highlighter-rouge">_data/options.yml</code> file and change the mathjax to ‘false’ and it will not load the mathjax javascript.</p>
+
+<h3 id="setting-your-baseurl-correctly">Setting your baseurl correctly</h3>
+
+<p>In the <code class="highlighter-rouge">_config.yml</code> file is a setting called <code class="highlighter-rouge">baseurl</code>. This is used by the Jekyll engine to construct all the proper links in the static site. Right now it is set to <code class="highlighter-rouge">/tufte-jekyll</code> since this project is using Github Pages and you are required to set the project name as the baseurl to serve from Github Pages.</p>
+
+<p>Set this to your own project name if you’re going to serve your site from Github Pages. Be sure to include the leading slash, and no trailing slash. For example: <code class="highlighter-rouge">/my-project-name</code></p>
+
+<p>For a full explanation of setting your baseurl to work with Github Pages, see the <a href="http://jekyllrb.com/docs/github-pages/#project-page-url-structure">Project Page URL Structure</a> section of the Jekyll documentation.</p>
+
+<p>To serve from anywhere else besides Github Pages, use a blank baseurl in your <code class="highlighter-rouge">_config.yml</code> file:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>baseurl:
+</code></pre></div></div>
+
+<p>This is <code class="highlighter-rouge">baseurl:</code> with nothing after it. Not even a space.</p>
+
+<h3 id="rakefile">Rakefile</h3>
+
+<p>I have added a boilerplate Rakefile directly from the <a href="https://github.com/gummesson/jekyll-rake-boilerplate">jekyll-rake-boilerplate repo</a>. This saves you a small amount of time by prepending the date on a post name and populated the bare minimum of YAML front matter in the file. Please visit the link to the repo to find out how it runs. One thing to note is that there should be <em>no</em> space between the task and the opening bracket of your file name. <code class="highlighter-rouge">rake post["Title"]</code> will work while <code class="highlighter-rouge">rake post ["Title"]</code> will not.</p>
+
+<p>There is another rakefile (UploadtoGithub.Rakefile) included that only has one task in it - an automated upload to a <em>Github Pages</em> location of the site. This is necessary because of the plugins used by this theme. It does scary stuff like move your <code class="highlighter-rouge">_site</code> somewhere safe, delete everything, move the <code class="highlighter-rouge">_site</code> back and then do a commit to the <code class="highlighter-rouge">gh-pages</code> branch of your repository. You can read about it <a href="http://blog.nitrous.io/2013/08/30/using-jekyll-plugins-on-github-pages.html">here</a>. You would only need to use this if you are using Github project pages to host your site. Integration with the existing Rakefile is left as an exercise for the reader.</p>

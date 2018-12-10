@@ -14,7 +14,7 @@ In the case of weather events and other natural hazards for which there has been
 While good data preparedness may reduce the complexity of the data scramble phase, it will never obviate it. Some things can be prepared ahead of time, such as maps of facilities and lists of key in-country contacts. But many data sets only come into focus as it becomes clear which organizations are deploying teams to meet the challenges of specific emergencies. And however good data preparedness may be, few organizations have the resources to constantly update data. As the World Bank describes in the Open Data for Resilience Field Guide, data are rarely in a form that international responders would like:
 
 <blockquote>
-<p>*"Data describe a dynamic reality. Cities are growing at extraordinary rates, with formal and informal settlements sprouting up faster than cartographers can build maps. Alongside this rapid urbanization, hazards are changing in ways that make it far less likely that historical understandings will inform prudent decisions about probable futures. Climate change is altering weather patterns and bringing extreme weather to places that have never seen such variation. Existing stocks of data about a nation’s infrastructure and its relation to natural hazards each need to updated more frequently and at higher resolutions than ever before. In a time of economic hardship and unequal globalization, few governments possess the resources to collate existing data, collect new data, and feed them all into an ecosystem of analysts who can make sense of them so that practitioners can design and implement projects that get ahead of the disaster cycle."* {% sidenote 'mn-id-opendrifg' 'The <a href="https://www.gfdrr.org/en/publication/open-data-resilience-initiative-field-guide">OpenDRI Field Guide</a>, see Executive Summary.' %}</p>
+<p>"Data describe a dynamic reality. Cities are growing at extraordinary rates, with formal and informal settlements sprouting up faster than cartographers can build maps. Alongside this rapid urbanization, hazards are changing in ways that make it far less likely that historical understandings will inform prudent decisions about probable futures. Climate change is altering weather patterns and bringing extreme weather to places that have never seen such variation. Existing stocks of data about a nation’s infrastructure and its relation to natural hazards each need to updated more frequently and at higher resolutions than ever before. In a time of economic hardship and unequal globalization, few governments possess the resources to collate existing data, collect new data, and feed them all into an ecosystem of analysts who can make sense of them so that practitioners can design and implement projects that get ahead of the disaster cycle." {% sidenote 'mn-id-opendrifg' 'The <a href="https://www.gfdrr.org/en/publication/open-data-resilience-initiative-field-guide">OpenDRI Field Guide</a>, see Executive Summary.' %}</p>
 </blockquote>
 
 However, efforts to create a template for how to perform a data scramble exist for the UN system and the Red Cross Movement. Around 2011, OCHA advanced the idea of a Coordinated Data Scramble, using a Trello board as a templatized checklist for various data sets to collect. {% sidenote 'mn-id-cds' 'The <a href="https://sites.google.com/site/commonoperationaldataset/other-country-specific/cds">Coordinated Data Scramble</a> is described by OCHA Field Services in the Common Operational Dataset site.' %}  MapAction had its own process for assembling data quickly, though may of its sources could not be shared as publicly due to licensing restrictions. And the Red Cross Movement developed its own data checklist as part of the Surge Information Management System (SIMS)
@@ -48,37 +48,36 @@ What is the status of power and communications, where are the outages, and how m
 Which organizations are already working in the country, which are deploying staff to the country, what are they doing, and what they intend to do?
 
 #### List of Data Sets:
-(add link to data on website when ready - need to format lists in below sections consistently and reduce redundancy)
-
-### Data Scramble
 NetHope Crisis Informatics will commonly develop and/or utilize the following datasets in this phase of the information management cycle:
 
 
-#### Hydrography
+**Hydrography**
 Identify bodies of water and their potential impacts on response efforts
 
 *Sample datasets*: National flood hazard or flood zones, Historic flood boundaries, Levee/barrier locations, Tide charts, River levels (current & forecasted), Current flooding extents, Levee/barrier breaches
 
-#### Weather
+**Weather**
 Identify event related conditions that may influence response
 Sample datasets: NOAA NWS forecasts, River/stream gauges, Atmospheric conditions (wind direction, etc.)
 
-#### Utilities
+**Utilities**
 Identify infrastructure that could be damaged or hazardous.
 Sample datasets: Utility pipelines, power lines, power plants, cell towers, radio communication, main Internet hubs/lines, telephone (land line) facilities & lines, power outages, phone (land line) outages, cell phone outages
 
-#### Transportation
+**Transportation**
 Identify access routes to the incident and other related transportation reference points.  
 Sample datasets: Roads, evacuation routes (including contra-flow routing), bridges and tunnels, railway lines and stations, subway lines and stations, ferry lines and terminals, navigable waterways, boat ramps, maritime infrastructure (vessel mooring areas, marinas, boat ramps, ports, docks), airports, helicopter landing zones, road closures, airport closures, rail & subway stoppages, bridge closures, ferry stoppages, port closures, active evacuation routes (including contra-flow routing)
 
-#### Population
+**Population**
 Identify impacted and at-risk populations.
 Sample datasets: Population density, socio-economic data (income, gender, age etc.), nighttime population vs. daytime population, seasonal population, businesses, at-need population (schools, day care, nursing homes, assisted care facilities, universities, hospitals/clinics, urgent care, mental health and correctional facilities, etc.)
 
-#### Public Safety
+**Public Safety**
 Identify public safety and incident command facilities
 Sample datasets: Fire stations, police stations EOCs (local, State, national), Public Safety Answering Points (PSAPs)/911 Call Centers, shelters, evacuation zones
 
+**Humanitarian Portals and Information Resources**
+Scan information resources and threads for information regarding who is deploying, where, and with what teams; as well as how the situation is unfolding on the ground.
 <table class="booktabs">
 <tr><td class="l">Virtual OSSOCM</td><td class="l">link</td></tr>
 <tr><td class="l">ACAPS</td><td class="l">link</td></tr>
