@@ -12,3 +12,4 @@ NetHope focused this initial research on the Caribbean countries that tend to be
 {% include country_list.html %}
 
 ## Global Data
+<a href="https://data.humdata.org/">Humanitarian Data Exchange</a>
