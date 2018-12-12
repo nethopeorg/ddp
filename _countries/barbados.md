@@ -8,6 +8,9 @@ tel_code: 1246
 voltage: 115V/50Hz
 plug_types: A,B
 key_orgs: Flow,Digicel,Ozone Wireless,Fair Trading Commission,Microsoft Trinidad and Tobago,UNICEF,C&W Business
+mno_list: Ozone Wirless, Digicel, Flow
+flo_name: Flow
+isp_name: C&W Business 
 dma_name: Department of Emergency Management
 dma_url: http://www.dem.gov.bb/
 hdx_url: https://data.humdata.org/group/brb

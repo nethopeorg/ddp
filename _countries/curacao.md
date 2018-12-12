@@ -8,6 +8,9 @@ tel_code: 5999
 voltage: 127V/50Hz
 plug_types: A,B,C,F
 key_orgs: Flow,Digicel,C&W Business,Bureau Telecomunications en Post,UTS,Carribean Internet Exchange
+mno_list: C&W Business, UTS, Digicel, Flow
+flo_list: UTS, Flow
+isp_list: UTS, C&W Business 
 dma_name: Disaster Management Organisation
 dma_url: https://www.kalamidat.cw/en/drr/rbo/
 hdx_url: https://data.humdata.org/group/cuw

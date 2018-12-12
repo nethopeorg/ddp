@@ -8,6 +8,9 @@ tel_code: +1787, +1939
 voltage: 120V/60Hz
 plug_types: A,B
 key_orgs: Microsoft Puerto Rico,Cisco Puerto Rico,C&W Business,America Movil,Claro Puerto Rico
+mno_list: Claro Puerto Rico, America Movil, C&W Business
+isp_list: Claro Puerto Rico, C&W Business
+flo_name: Claro Puerto Rico 
 dma_name: FEMA
 dma_url: https://www.fema.gov/states/puerto-rico
 powerlines_hifld: https://hifld-geoplatform.opendata.arcgis.com/datasets/electric-power-transmission-lines

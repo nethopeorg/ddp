@@ -8,6 +8,9 @@ tel_code: 590
 voltage: 220V/60Hz
 plug_types: C,F
 key_orgs: Digicel,Dauphin Telecom
+mno_list: Dauphin Telecom, Digicel
+isp_name: Dauphin Telecom
+flo_name: Dauphin Telecom 
 dma_name: Le Service Interministériel de Défense et de Protection Civile
 dma_url: http://www.martinique.pref.gouv.fr/Politiques-publiques/Prevention-de-la-delinquance-securite-civile-securite-publique-et-routiere/Les-acteurs-de-la-securite-civile
 hdx_url: https://data.humdata.org/group/maf

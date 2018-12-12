@@ -8,6 +8,9 @@ tel_code: +1876, +1658
 voltage: 110V/50Hz
 plug_types: A,B
 key_orgs: Flow,Digicel,Microsoft Jamaica,UNICEF,C&W Business,Jamaica Internet Exchange Point,Office of Utilities Regulation
+mno_list: C&W Business, Digicel, Flow
+isp_name: C&W Business
+flo_name: Flow 
 dma_name: Office of Disaster Preparedness and Emergency Management
 dma_url: http://odpem.org.jm/
 hdx_url: https://data.humdata.org/group/jam

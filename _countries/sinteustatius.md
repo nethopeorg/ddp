@@ -8,6 +8,8 @@ tel_code: 5993
 voltage: 127V/50Hz,220V/50Hz
 plug_types: A,B,C,F
 key_orgs: Bureau Telecomunications en Post,Eutel
+flo_name: Eutel
+isp_name: Eutel 
 hdx_url: https://data.humdata.org/group/bes
 osm_relation: https://www.openstreetmap.org/relation/3684720
 map_ref_mapaction: https://reliefweb.int/map/bonaire-saint-eustatius-and-saba-netherlands/saba-and-st-eustatius-reference-map-18-sep-2017

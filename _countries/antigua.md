@@ -8,6 +8,9 @@ tel_code: 1268
 voltage: 230V/60Hz
 plug_types: A,B
 key_orgs: Flow,Digicel,Apua,"Ministry of Telecommunications, Science and Technology",Microsoft Trinidad and Tobago,C&W Business
+mno_list: C&W Business, Apua, Digicel, Flow
+isp_list: Apua, C&W Business
+flo_name: Flow
 dma_name: National Office of Disaster Services
 dma_url: http://nods.gov.ag/
 hdx_url: https://data.humdata.org/group/atg

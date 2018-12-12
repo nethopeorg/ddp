@@ -8,6 +8,9 @@ tel_code: 297
 voltage: 127V/50Hz
 plug_types: A,B,F
 key_orgs: Digicel,Setar,MIO,"Ministry of Transport, Communications and Primary Sector",Microsoft Trinidad and Tobago
+mno_list: MIO, Digicel, Setar
+isp_name: Setar
+flo_name: Setar 
 dma_name: Crisis Management Office
 dma_url: http://www.gobierno.aw/governance-administration/crisis-management-office-rba_45669/
 hdx_url: https://data.humdata.org/group/abw

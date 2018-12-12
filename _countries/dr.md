@@ -8,6 +8,9 @@ tel_code: +1809, +1829, +1849
 voltage: 110V/60Hz
 plug_types: A,B
 key_orgs: Microsoft Dominican Republic,Cisco Dominican Republic,World Food Program,UNICEF,C&W Business,NAP del Caribe,INDOTEL,America Movil,Claro Dominican Republic,Altice
+mno_list: Altice, Claro Dominican Republic, America Movil, C&W Business
+isp_list: C&W Business, Claro Dominican Republic, Altice
+flo_name: Claro Dominican Republic
 dma_name: Comision de Emergencias
 dma_url: http://www.defensacivil.gob.do/comision-nacional-de-emergencias-cne
 hdx_url: https://data.humdata.org/group/dom

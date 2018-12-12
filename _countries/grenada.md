@@ -8,6 +8,9 @@ tel_code: 1473
 voltage: 230V/50Hz
 plug_types: G
 key_orgs: Flow,Digicel,C&W Business,ECTEL (Eastern Caribbean Telecommunications Authority),National Telecommunications Regulatory Commission of Grenada,CARCIP,Grenada Internet Exchange
+mno_list: Flow, Digicel, C&W Business
+isp_list: C&W Business
+flo_name: Flow  
 dma_name: National Disaster Management Agency
 dma_url: https://www.gov.gd/departments/nadma.html
 hdx_url: https://data.humdata.org/group/grd

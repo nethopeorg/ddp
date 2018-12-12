@@ -8,6 +8,8 @@ tel_code: 1784
 voltage: 230V/50Hz
 plug_types: A,C,E,G,I,K
 key_orgs: Flow,Digicel,Microsoft Trinidad and Tobago,ECTEL (Eastern Caribbean Telecommunications Authority),CARCIP,SVGIX
+mno_list: Digicel, Flow
+flo_name: Flow 
 dma_name: National Emergency Management Office
 dma_url: http://security.gov.vc/security/index.php/contact-information-sp-470373432
 hdx_url: https://data.humdata.org/group/vct

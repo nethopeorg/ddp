@@ -8,6 +8,9 @@ tel_code: 5997
 voltage: 127V/50Hz,220V/50Hz
 plug_types: A,B,C,F
 key_orgs: Digicel,Bureau Telecomunications en Post,Telbo,Kla Mobile
+mno_list: Kla Mobile, Digicel
+isp_name: Telbo
+flo_name: Telbo
 hdx_url: https://data.humdata.org/group/bes
 osm_relation: https://www.openstreetmap.org/relation/2324450
 map_ref_ocha_location: https://reliefweb.int/map/bonaire-saint-eustatius-and-saba-netherlands/bonaire-saint-eustatius-and-saba-nl-location-map

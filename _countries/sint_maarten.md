@@ -8,6 +8,8 @@ tel_code: 1721
 voltage: 120V/60Hz
 plug_types:
 key_orgs: Bureau Telecomunications en Post,TelEm,Smitcoms,Open Caribbean Internet eXchange
+mno_name: TelEm
+flo_name: Smitcoms 
 dma_name: Office of Disaster Management
 dma_url: http://www.sintmaartengov.org/PressReleases/Pages/Office-of-Disaster-Management-Review-Now-Your-Disaster-Supply-Kit23.aspx
 hdx_url: https://data.humdata.org/group/sxm
