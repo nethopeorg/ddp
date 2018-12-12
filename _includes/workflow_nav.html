@@ -15,7 +15,11 @@
 
 {% else %}
 <li><strong>Workflow Phases</strong></li>
+{%if page.url == "/workflow/" %}
+<li><a href="{{ "/workflow/" | prepend: site.baseurl }}" class="active">Introduction</a></li>{% assign nodes = site.workflow | sort: 'wf_order' %}
+{% else %}
 <li><a href="{{ "/workflow/" | prepend: site.baseurl }}">Introduction</a></li>{% assign nodes = site.workflow | sort: 'wf_order' %}
+{% endif %}
 	{% for node in nodes %}
 		{% unless node.nav_exclude %}
 		    {% if page.url == node.url %}

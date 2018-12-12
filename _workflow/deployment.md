@@ -30,30 +30,30 @@ Understanding who is affected and how is a key element of a response. NetHope ha
 #### Telecommunications Network
 Knowing where networks are is only half of the equation. It is imperative to know how access to telecommunications coverage has changed and who is affected.
 
-{% maincolumn "assets/img/san_juan_infra.png" "San Juan (PR) settlement layer with electrical grid overlay and partial list of cellular towers." %}
+{% maincolumn "assets/img/pr_networks_pop.png" "Puerto Rico coverage map compared to population." %}
 
 #### Telecommunications Equipment
 What standards are used in country, from voltages and frequencies to specific gear.
 {% maincolumn "assets/img/airtable_dashboard.png" "NetHope and the ETC worked together to collect data about telecommunications standards across the Caribbean." %}
 
 #### Geography and Topology
-
+NetHope frequently installs long-range WiFi shots on towers. The key to being able to plan these 5-30km hops is having a three-dimensional map of the topology of the disaster zone. These maps are highly specialized and currently the provence of proprietary software built for the mobile communications industry. NetHope is working to build these datasets for the humanitarian system.
 
 #### Who is doing what where
 members who are already working in the country who can sponsor visas and aid with customs, security, transport, housing, etc.
 
-
 #### Contacts
+Contacts  are critical for getting things done.
 
 #### Fundraising
 
 
 #### Customs and visas
 
+
+
 ### Briefing Book/Field Atlas
 When mobilizing a team to deploy, most individual effort is devoted to packing gear and planning travel\. The first change many team members will get to understand the nature of the crisis will be on the plane. The briefing book and field atlas serve this purpose. They provide a packaged information product to help the deployment team learn the topology of the place, understand who they need to connect with, and build a basic plan for initial operations. The briefing book has not been a traditional NetHope product, but interviewees emphasized the need for its creation, including NetHope's own team.
-
-
 
 ### Site Assessments
 The needs for sites must be assessed as outlined in the below section, in concert with remote assessments by the Crisis Informatics team. Even while working to improve connectivity and create a facilitating environment for response by all agencies, NetHope staff must be prepared to conduct their initial data gathering with little or no connectivity and no access to online tools. The basic elements of information management, including the cleaning of field data, are often carried out on the fly. For example, lists of sites that require connectivity will flow in from numerous different agencies and it is rare that a standard format for this information will be applied. Locations may be vaguely defined, and the names and spellings of place names may be inconsistent and difficult to reconcile. If they are provided, geographic coordinates may be incorrect or inaccurate, or provided in different formats or coordinate systems.

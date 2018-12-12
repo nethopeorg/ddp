@@ -1,7 +1,7 @@
 <ul>
 {% for country in site.countries %}
   <li>
-      <a href="/ddp{{ country.url }}">{{ country.name }}</a>
+      <a href="{{ country.url | prepend: site.baseurl }}">{{ country.name }}</a>
   </li>
 {% endfor %}
 </ul>

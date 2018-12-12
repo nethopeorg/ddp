@@ -47,7 +47,7 @@ NetHope will work with OCHA/VOSSOC and the Centre for Humanitarian Data to make 
 During each stage, NetHope Crisis Informatics may create one or more maps or informational products that can support and inform decision making throughout the organization and network. These products include:
 
 #### Situation Reports (SitReps)
-A narrative document that is emailed to the NetHope team, NetHope NGO members and tech partners, and/or donorsf the e-newsletter include:
+A narrative document that is emailed to the NetHope team, NetHope NGO members and tech partners, and/or donors, usually in an e-newsletter format. A SitRep would normally include the following sections:
 
 **Summary of the Situation**: A brief overview of the size and scope of the disaster.
 

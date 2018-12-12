@@ -168,6 +168,8 @@ table, table.booktabs { width: auto;  //making booktabs style tables the unstyle
                  border-top: 2px solid $border-color;
                  border-bottom: 2px solid $border-color; }
 
+table.booktabs-lined { width: 60%; }
+
 .booktabs th, th { border-bottom: 1px solid $border-color;
                padding: 0.65ex 0.5em 0.4ex 0.5em;
                font-weight: normal;
@@ -184,7 +186,13 @@ th, td{ font-size: 1.2rem;
 
 .booktabs td, td {  padding-left: 0.5em;
                     padding-right: 0.5em;
-                    text-align: left; }
+                    text-align: left;
+                    vertical-align: top; }
+
+.booktabs-lined td { border-bottom: 1px solid lighten($border-min-color, 25%); }
+
+.booktabs-lined td.key {  font-weight: bold;
+                          width: 30%; }
 
 .booktabs caption, caption { font-size: 90%;
                     text-align: left;

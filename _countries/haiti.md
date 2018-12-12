@@ -11,7 +11,7 @@ key_orgs: 'Digicel,Microsoft Puerto Rico,CONATEL Haiti,World Food Program,Élect
 dma_name: Direction de la Protection Civile
 dma_url: http://protectioncivilehaiti.net/
 hdx_url: https://data.humdata.org/group/hti
-haitidata_url: [Haiti Data](http://www.haitidata.org/)
+geonode_url: http://www.haitidata.org/
 roads_hot: https://data.humdata.org/dataset/hotosm_hti_roads
 osm_relation: https://www.openstreetmap.org/relation/307829
 our_airports: https://data.humdata.org/dataset/ourairports-hti

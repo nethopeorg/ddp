@@ -1,14 +1,16 @@
 <!-- remember that page has the name space, not site -->
 <h1>{{ page.name }}</h1>
+<h2>{{ page.official_name }} ({{ page.country_code }})</h2>
 
 <table class="booktabs">
+<!--
 <tr><td>country_code:</td><td class="r">{{ page.country_code }}</td></tr>
-<tr><td>official_name:</td><td class="r">{{ page.official_name }}</td></tr>
-<tr><td>capital:</td><td class="r">{{ page.capital }}</td></tr>
-<tr><td>tel_code:</td><td class="r">{{ page.tel_code }}</td></tr>
-<tr><td>voltage:</td><td class="r">{{ page.voltage }}</td></tr>
-<tr><td>plug_types:</td><td class="r">{{ page.plug_types }}</td></tr>
-<tr><td>Tampere Convention Signatory?</td><td class="r">{{ page.tampere_sig }}</td></tr>
+<tr><td>official_name:</td><td class="r">{{ page.official_name }}</td></tr> -->
+<tr><td>Capital:</td><td class="r">{{ page.capital }}</td></tr>
+<tr><td>Telephone Code</td><td class="r">+{{ page.tel_code }}</td></tr>
+<tr><td>Voltage &amp; Frequency</td><td class="r">{{ page.voltage }}</td></tr>
+<tr><td>Electric Plug Types</td><td class="r">{{ page.plug_types }}</td></tr>
+<tr><td><a href="https://www.itu.int/en/ITU-D/Emergency-Telecommunications/Pages/TampereConvention.aspx">Tampere Convention</a> Signatory?</td><td class="r">{% if page.tampere_sig == 1 %}Yes{% else %}No{% endif %}</td></tr>
 </table>
 <!---
 <h2>key_orgs</h2>
@@ -17,18 +19,18 @@
 
 <h2>Humanitarian Data Sets</h2>
 <table class="booktabs">
-<tr><td>HDX</td><td class="r"><a href="{{ page.hdx_url }}">{{ page.hdx_url }}</a></td></tr>
-<tr><td>COD</td><td class="r"><a href="{{ page.cod_url }}">{{ page.cod_url }}</a></td></tr>
-<tr><td>INFORM Risk Index</td><td class="r"><a href="{{ page.inform_url }}">{{ page.inform_url }}</a></td></tr>
+<tr><td>HDX Country Page</td><td class="r"><a href="{{ page.hdx_url }}">{{ page.hdx_url }}</a></td></tr>
+<tr><td>COD Country Page</td><td class="r"><a href="{{ page.cod_url }}">{{ page.cod_url }}</a></td></tr>
+<tr><td>INFORM Risk Index Page</td><td class="r"><a href="{{ page.inform_url }}">{{ page.inform_url }}</a></td></tr>
 <tr><td>INFORM Score</td><td class="r">{{ page.inform_index }}</td></tr>
 <tr><td>Logistics Cluster Page</td><td class="r"><a href="{{ page.lca_url }}">{{ page.lca_url }}</a></td></tr>
 <tr><td>OpenStreetMap Road Extracts</td><td class="r"><a href="{{ page.hot_roads }}">{{ page.hot_roads }}</a></td></tr>
-<tr><td>our_airports</td><td class="r"><a href="{{ page.our_airports }}">{{page.our_airports}}</a></td></tr>
-<tr><td>global_airports_wfp</td><td class="r"><a href="{{ page.global_airports_wfp }}">{{ page.global_airports_wfp }}</a></td></tr>
-<tr><td>global_ports_wfp</td><td class="r"><a href="{{ page.global_ports_wf }}">{{ page.global_ports_wf }}</a></td></tr>
-<tr><td>bound_gadm</td><td class="r"><a href="{{ page.bound_gadm }}">{{ page.bound_gadm }}</a></td></tr>
-<tr><td>worldpop_hdx</td><td class="r"><a href="{{ page.worldpop_hdx }}">{{ page.worldpop_hdx }}</a></td></tr>
-<tr><td>global_healthsites</td><td class="r"><a href="{{ page.global_healthsites }}">{{ page.global_healthsites }}</a></td></tr>
+<tr><td>Airports (OUR)</td><td class="r"><a href="{{ page.our_airports }}">{{page.our_airports}}</a></td></tr>
+<tr><td>Global Airports (WFP)</td><td class="r"><a href="{{ page.global_airports_wfp }}">{{ page.global_airports_wfp }}</a></td></tr>
+<tr><td>Global Ports (WFP)</td><td class="r"><a href="{{ page.global_ports_wf }}">{{ page.global_ports_wf }}</a></td></tr>
+<tr><td>Admin Boundaries (GADM)</td><td class="r"><a href="{{ page.bound_gadm }}">{{ page.bound_gadm }}</a></td></tr>
+<tr><td>Worldpop HDX Page</td><td class="r"><a href="{{ page.worldpop_hdx }}">{{ page.worldpop_hdx }}</a></td></tr>
+<tr><td>Healthsites</td><td class="r"><a href="{{ page.global_healthsites }}">{{ page.global_healthsites }}</a></td></tr>
 </table>
 
 <h2>Demographics</h2>
