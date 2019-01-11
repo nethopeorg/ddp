@@ -13,6 +13,7 @@ NetHope focused this initial research on the Caribbean countries that tend to be
 
 ## Global Data Sources
 <a href="https://data.humdata.org/">Humanitarian Data Exchange</a>
+<a href="https://www.humanitarianresponse.info/">Humanitarian Response</a>
 <a href="http://www.gdacs.org/">Global Disaster Alerting Coordination System</a>
 <a href="https://vosocc.unocha.org/">Virtual OSOCC</a>
 <a href="https://reliefweb.int/">ReliefWeb</a>
