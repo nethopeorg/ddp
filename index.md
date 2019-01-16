@@ -20,7 +20,7 @@ While rules of thumb guide humanitarian action, the situation is changing:
 
 **Open Government Data**. Major investments in government data--especially via efforts like the World Bank, GFDRR, UNDP, and Open Government Partnership--have created a sea change in the available of baseline datasets about a country's demographics, disaster risks, and infrastructure. These investments tend to be linked to millions of US dollars in disaster risk financing, driving ever more ministers of finance to pay attention to the data and the algorithms that drive this financing of response, recovery, and reconstruction.
 
-{% marginnote 'mn-id-missingmaps' ' The Red Cross Movement has built entire programs to put vulnerable communities on the map: see <a href="http://missingmaps.org">Missing Maps</a>.' %}
+{% marginnote 'mn-id-missingmaps' ' Working with the <a href="http://hotosm.org">Humanitarian OpenStreetMap Team</a>, The Red Cross Movement has built entire programs to put vulnerable communities on the map: see <a href="http://missingmaps.org">Missing Maps</a>.' %}
 
 **Economics of Open Data and Open Source Platforms**. Tools like OpenStreetMap have made it possible to map the segments of the world where commercial interest is low, but community vulnerability is high. Mapping can be performed by volunteers who live in the places being mapped using tools that enjoy commercial support.
 
